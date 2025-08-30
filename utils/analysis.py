@@ -1,4 +1,6 @@
 
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -11,17 +13,26 @@ import re
 from typing import Dict, List, Tuple, Optional, Union
 from datetime import datetime
 import warnings
+import os
 warnings.filterwarnings('ignore')
 
 class ClimbingAnalyzer:
     """Advanced analysis for climbing competition data with ELO calculations."""
     
-    def __init__(self, data_dir: str = "./DATA"):
+    def __init__(self, data_dir: str = "./Data"):
         self.data_dir = Path(data_dir)
         self.aggregated_df = None
         self.era_files = {}
         self.metadata_df = None
         self.elo_ratings = {}
+        
+        # Get color scheme from environment variables
+        self.discipline_colors = {
+            'Boulder': os.getenv('BOULDER_COLOR', '#3498DB'),
+            'Lead': os.getenv('LEAD_COLOR', '#E74C3C'),
+            'Speed': os.getenv('SPEED_COLOR', '#27AE60'),
+            'Combined': os.getenv('COMBINED_COLOR', '#9B59B6')
+        }
         
         # Load all data
         self._load_all_data()
@@ -98,6 +109,7 @@ class ClimbingAnalyzer:
     def get_data_overview(self) -> Dict:
         """Get comprehensive data overview statistics."""
         if self.aggregated_df is None:
+            
             return {}
         
         # Filter to only include the 3 main disciplines
@@ -250,50 +262,6 @@ class ClimbingAnalyzer:
         
         return country_stats.sort_values('total_athletes', ascending=False)
     
-    def get_yearly_trends(self, filters: Dict = None) -> pd.DataFrame:
-        """Get yearly trend statistics."""
-        if self.aggregated_df is None:
-            return pd.DataFrame()
-        
-        df = self.aggregated_df.copy()
-        if filters:
-            df = self.filter_data(df, filters)
-        
-        yearly_stats = df.groupby(['year', 'discipline', 'gender']).agg({
-            'name': 'nunique',
-            'country': 'nunique',
-            'event_name': 'nunique',
-            'location': 'nunique',
-            'round_rank': 'count'
-        }).round(2)
-        
-        yearly_stats.columns = ['unique_athletes', 'countries_represented', 'total_events', 'locations', 'total_competitions']
-        yearly_stats = yearly_stats.reset_index()
-        
-        return yearly_stats
-    
-    def get_performance_distribution(self, filters: Dict = None) -> pd.DataFrame:
-        """Get performance distribution statistics."""
-        if self.aggregated_df is None:
-            return pd.DataFrame()
-        
-        df = self.aggregated_df.copy()
-        if filters:
-            df = self.filter_data(df, filters)
-        
-        # Create rank bins
-        df['rank_category'] = pd.cut(
-            df['round_rank'], 
-            bins=[0, 1, 3, 8, 16, 24, float('inf')],
-            labels=['Winner', 'Podium', 'Top 8', 'Top 16', 'Top 24', '25+'],
-            include_lowest=True
-        )
-        
-        distribution = df.groupby(['discipline', 'gender', 'rank_category']).size().reset_index(name='count')
-        distribution['percentage'] = distribution.groupby(['discipline', 'gender'])['count'].transform(lambda x: (x / x.sum() * 100).round(2))
-        
-        return distribution
-    
     def create_athlete_timeline(self, athlete_name: str) -> go.Figure:
         """Create timeline visualization for specific athlete."""
         if self.aggregated_df is None:
@@ -313,9 +281,6 @@ class ClimbingAnalyzer:
         
         fig = go.Figure()
         
-        # Color map for disciplines with consistent colors
-        discipline_colors = {'Boulder': '#3498DB', 'Lead': '#FF8C00', 'Speed': '#27AE60'}
-        
         for discipline in athlete_data['discipline'].unique():
             disc_data = athlete_data[athlete_data['discipline'] == discipline]
             
@@ -325,7 +290,7 @@ class ClimbingAnalyzer:
                 mode='markers+lines',
                 name=discipline,
                 marker=dict(
-                    color=discipline_colors.get(discipline, '#95A5A6'),
+                    color=self.discipline_colors.get(discipline, '#95A5A6'),
                     size=8,
                     symbol='circle'
                 ),
@@ -334,10 +299,10 @@ class ClimbingAnalyzer:
             ))
         
         fig.update_layout(
-            title=f"Competition Timeline - {athlete_data['name'].iloc[0]}",  # Use actual name with correct case
+            title=f"Competition Timeline - {athlete_data['name'].iloc[0]}",
             xaxis_title="Year",
             yaxis_title="Rank",
-            yaxis=dict(autorange='reversed'),  # Better ranks at top
+            yaxis=dict(autorange='reversed'),
             hovermode='closest',
             height=500
         )
@@ -420,12 +385,10 @@ class ClimbingAnalyzer:
         )
         
         disciplines = yearly_participation['discipline'].unique()
-        # Consistent color mapping
-        discipline_colors = {'Boulder': '#3498DB', 'Lead': '#FF8C00', 'Speed': '#27AE60'}
         
         for discipline in disciplines:
             disc_data = yearly_participation[yearly_participation['discipline'] == discipline]
-            color = discipline_colors.get(discipline, '#95A5A6')
+            color = self.discipline_colors.get(discipline, '#95A5A6')
             
             # Athletes plot
             fig.add_trace(
@@ -479,10 +442,10 @@ class ClimbingAnalyzer:
             athletes = event_data['name'].tolist()
             ranks = event_data['round_rank'].tolist()
             
-            # Initialize new athletes with 1200 rating
+            # Initialize new athletes with 1500 rating
             for athlete in athletes:
                 if athlete not in elo_ratings:
-                    elo_ratings[athlete] = 1200
+                    elo_ratings[athlete] = 1500
             
             # Calculate ELO changes
             n_athletes = len(athletes)
@@ -581,7 +544,18 @@ class ClimbingAnalyzer:
         fig = go.Figure()
         
         # Use consistent colors
-        colors = ['#E74C3C', '#3498DB', '#27AE60', '#9B59B6', '#F39C12', '#1ABC9C', '#E67E22', '#95A5A6', '#34495E', '#8E44AD']
+        colors = [
+            os.getenv('CHART_COLOR_1', '#3498DB'),
+            os.getenv('CHART_COLOR_2', '#E74C3C'),
+            os.getenv('CHART_COLOR_3', '#27AE60'),
+            os.getenv('CHART_COLOR_4', '#9B59B6'),
+            os.getenv('CHART_COLOR_5', '#F39C12'),
+            os.getenv('CHART_COLOR_6', '#1ABC9C'),
+            os.getenv('CHART_COLOR_7', '#E67E22'),
+            os.getenv('CHART_COLOR_8', '#95A5A6'),
+            os.getenv('CHART_COLOR_9', '#34495E'),
+            os.getenv('CHART_COLOR_10', '#8E44AD')
+        ]
         
         for i, athlete in enumerate(athletes):
             athlete_elo = athlete_data[athlete_data['name'] == athlete].copy()
