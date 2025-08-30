@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+BERTONE Oriane,FRA,1,84.7,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,1,1,2,1,3,3
+MACKENZIE Oceania,AUS,2,69.5,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,3,1,3,1
+SANDERS Annie,USA,3,69.3,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,1,1,1,1,X,5,X,4
+SEKIKAWA Melody,JPN,3,69.3,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,3,X,3,2,2,3,3
+NONAKA Miho,JPN,5,54.7,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,1,1,X,2,X,3
+NAKAMURA Mao,JPN,6,45.0,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,1,X,X,1,1
+MCNEICE Erin,GBR,7,44.9,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,2,1,X,1,X,X
+SEO Chaehyun,KOR,8,39.4,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,2,X,5
+KUZUU Mashiro,JPN,9,34.6,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,5,5,X,X,X,X
+BUCKLEY Jennifer Eucharia,SLO,10,29.9,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,1,X,2,X,X
+APEL Anna Maria,GER,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,1,X,3,X,X
+DEBEVEC Katja,SLO,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,2,X,X
+Coscoy Cloe,USA,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,2,X,2,X,1,X,X
+MATSUFUJI Anon,JPN,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,1,X,3,X,X
+CONDIE Kyra,USA,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,2,X,X
+ZHANG Yuetong,CHN,11,29.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,2,X,X
+KEMPF Lea,AUT,17,29.6,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,4,X,2,X,X
+YOKOYAMA Sofya,SUI,17,29.6,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,4,X,X
+CALLIET Agathe,FRA,17,29.6,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,4,X,2,X,X
+STASIUK Maya,AUS,17,29.6,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,2,X,4,X,X
+ITO Futaba,JPN,21,29.5,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,5,X,2,X,X
+COPAR Sara,SLO,22,29.4,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,2,X,4,X,3,X,X
+PEETERMANS Zoe,GBR,23,29.3,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,2,X,1,X,7,X,X
+CLARK Adriene Akiko,USA,24,28.9,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,5,X,8,X,X
+WIENAND Roxana,GER,25,19.8,IFSC World Cup Keqiao 2025,1405,2025,"Keqiao, CHN",Boulder,Women,Semi-final,2025-04-18,/api/v1/category_rounds/9954/results,/api/v1/events/1405/result/7,X,1,X,X,X,3,X,X

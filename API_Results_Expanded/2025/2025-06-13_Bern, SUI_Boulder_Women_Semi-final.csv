@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+NONAKA Miho,JPN,1,59.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,3,1,4,2,X,X
+MCNEICE Erin,GBR,2,54.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,1,1,1,X,3
+AVEZOU Zélia,FRA,3,54.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,1,2,1,X,3
+NAKAMURA Mao,JPN,4,54.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,3,X,3,3,2,X,1
+SEKIKAWA Melody,JPN,4,54.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,3,X,1,3,3,X,3
+Matsufuji Anon,JPN,6,54.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,2,X,4,3,2,X,2
+MACKENZIE Oceania,AUS,6,54.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,3,4,4,X,3
+SANDERS Annie,USA,6,54.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,5,X,1,X,1,4,1
+CONDIE Kyra,USA,9,54.1,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,7,3,X,1,X,3,X,2
+BERTONE Oriane,FRA,10,45.0,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,X,1,1,X,1
+ABRIAT Lily,FRA,11,44.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,X,1,1,X,3
+MORONI Camilla,ITA,12,44.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,X,7,7,X,2
+ZHANG Yuetong,CHN,13,39.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,2,X,1,X,4
+CALLIET Agathe,FRA,14,39.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,2,X,3,X,3,X,1
+RICHARDSON Madison,CAN,15,29.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,2,X,X,X,1,X,2
+EDWARDS Emma,GBR,16,29.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,2,X,X,X,3
+MACIÀ MARTÍN Geila,ESP,17,29.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,4,X,X,X,1,X,3
+Giacani Stella,ITA,18,29.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,1,X,X,X,3,X,5
+TESIO Giorgia,ITA,18,29.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,4,X,X,X,3,X,2
+Saurel Lucile,FRA,20,29.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,3,X,X,X,2,X,5
+DAZIANO Irina,ITA,21,19.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,3,X,X,X,1,X,X
+TARKUS Lucija,SLO,21,19.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,3,X,X,X,1,X,X
+MURAKOSHI Kaho,JPN,23,19.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,4,X,X,X,2,X,X
+KOBETS Anastasiia,UKR,24,19.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Women,Semi-final,2025-06-13,/api/v1/category_rounds/10044/results,/api/v1/events/1411/result/7,X,5,X,X,X,2,X,X

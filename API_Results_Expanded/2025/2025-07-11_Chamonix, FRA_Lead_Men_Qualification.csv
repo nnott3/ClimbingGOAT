@@ -1,0 +1,91 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+ROBERTS Toby,GBR,1.0,1.94,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,TOP,TOP
+ANRAKU Sorato,JPN,2.0,2.74,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,TOP,47
+YOSHIDA Satone,JPN,3.0,3.24,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,37+,TOP
+GINÉS LÓPEZ Alberto,ESP,4.0,5.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,TOP,40+
+LEE Dohyun,KOR,5.0,5.61,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,37+,46+
+POTOCAR Luka,SLO,5.0,5.61,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,37+,46+
+SUZUKI Neo,JPN,7.0,6.42,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,TOP,39+
+VAN DUYSEN Hannes,BEL,8.0,7.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,37+,45+
+PLACCI Giovanni,ITA,9.0,9.67,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,35+,43+
+OMATA Shion,JPN,10.0,10.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,37+,39+
+FLOHÉ Yannick,GER,11.0,11.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,46
+DUFFY Colin,USA,12.0,13.47,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,35+,39+
+AVEZOU Sam,FRA,13.0,16.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33+,39+
+GRUPPER Jesse,USA,13.0,16.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33+,39+
+PAN Yufei,CHN,13.0,16.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33+,39+
+MEGOS Alexander,GER,16.0,19.2,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,35+,30+
+NAGEL Yannick,GER,17.0,19.48,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,39+
+STRANIK Martin,CZE,18.0,20.2,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,27,43+
+NOH Hyunseung,KOR,19.0,20.82,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33+,37+
+SCHENK Filip,ITA,20.0,20.87,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,35,30+
+BERTONE Max,FRA,21.0,21.82,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33+,37
+PEINADO FRANGANILLO Guillermo,ESP,22.0,22.43,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32,39+
+UTELLI Jonas,SUI,23.0,23.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,38
+GHISOLFI Stefano,ITA,24.0,23.69,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,31+,39+
+URRUTIA Joaquin,CHI,25.0,24.22,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,37+
+MARCHALAND Jules,FRA,26.0,25.37,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,29+,39+
+Konecny Jakub,CZE,27.0,26.48,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32+,37+
+KWON Kibeom,KOR,28.0,26.94,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28+,39+
+GRÜNENFELDER Nino,SUI,29.0,28.12,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,34,28+
+MARZULLO Pierre,FRA,30.0,31.96,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32,30+
+TOMATIS Giorgio,ITA,31.0,33.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28+,37+
+VANCRAEYNEST Ties,BEL,32.0,33.57,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,29+
+GUILLERMIN Victor,FRA,33.0,34.19,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32+,30
+AUBERT MASMOUDI Younès,FRA,34.0,34.58,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,29
+MURASHITA Zento,JPN,34.0,34.58,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,33,29
+JENFT Paul,FRA,36.0,36.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32,30
+REUSA Matteo,ITA,37.0,36.15,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,29+,30+
+HIGUCHI Masahiro,JPN,38.0,38.01,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,31+,30
+LEHMANN Sascha,SUI,39.0,38.11,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,0,39+
+AVEZOU Leo,FRA,40.0,38.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28+,30+
+SCHERZ Stefan,AUT,40.0,38.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28+,30+
+BAUDRAND Oscar,CAN,42.0,39.12,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,30,30
+Lakhno Sergey,USA,43.0,39.57,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,33+
+PUMAN Hannes,SWE,44.0,39.82,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,32,29
+Conlon Rhys,GBR,45.0,40.71,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,29+,30
+HALENKE Sebastian,GER,45.0,40.71,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,29+,30
+SOULE Matteo,FRA,45.0,40.71,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,29+,30
+KIM Dohyeon,KOR,48.0,42.53,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,30+
+UZNIK Timo,AUT,48.0,42.53,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,30+
+BUTTERWORTH Samuel,GBR,50.0,43.83,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,31+,28+
+MADER Felix,AUT,51.0,46.43,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28+,29+
+FAN Chih-En,TPE,52.0,47.91,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,30
+MONCHOIS Nao,FRA,52.0,47.91,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,30
+RÂPĂ Darius,ROU,52.0,47.91,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,30
+YAO Jinwei,CHN,55.0,54.42,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,28,25
+STIPEK Jan,CZE,56.0,57.16,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,28
+MUSAUWIR Musauwir,INA,57.0,60.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26,28
+LINACISORO MOLINA Mikel Asier,ESP,58.0,61.26,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,24+
+PRESKAR Milan,SLO,58.0,61.26,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,24+
+RIZKY SYAHRAFLI SIMATUPANG Muhammad,INA,58.0,61.26,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,24+
+ČREP Lovro,SLO,58.0,61.26,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26+,24+
+ALTEMÖLLER Finn,GER,62.0,61.98,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,28+
+VIGHETTI Gianluca,ITA,62.0,61.98,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,28+
+ZIETEK Jakub,POL,62.0,61.98,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,28+
+Shemla Yuval,ISR,65.0,62.02,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,19,29+
+MCCOLL Sean,CAN,66.0,62.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,25+,25+
+LAPORTE Corentin,BEL,67.0,63.78,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,23,28+
+BAUDRAND Victor,CAN,68.0,65.11,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26,24+
+HO FOGANHOLO Felipe,BRA,68.0,65.11,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,26,24+
+CHAN Cheung-Chi Shoji,HKG,70.0,66.69,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,25,24+
+CANO BLAZQUEZ Javier,ESP,71.0,68.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,24+
+PILEHFOROUSHAN Alireza,IRI,71.0,68.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,24+
+VÁLYI  Gergő,HUN,71.0,68.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,24+
+SHACHAM Shaked,ISR,74.0,71.71,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,21+,24+
+ERIKSSON Elliot,SWE,75.0,73.06,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,24+,23
+KE Qun Tao,MAS,76.0,73.86,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,19,24+
+VARGAS Benjamin,CHI,77.0,75.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,20+,24
+MORENO MONTOYA Jair Octavio,MEX,78.0,76.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,19+,23+
+LANDMARK Trym Skuggen,NOR,79.0,78.31,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,22+,19+
+TORRONI Davide,SUI,80.0,79.49,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,19,22+
+NIZNIK Piotr,POL,81.0,80.23,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,19,21+
+CARVALHO PERES Davi,BRA,82.0,81.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,16+,22+
+SUTER Alejo,ARG,83.0,82.16,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,14,23
+ELORANTA Toivo,FIN,84.0,83.46,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,18+,18+
+AU Chi-Fung,HKG,85.0,83.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,14+,19+
+DIAZ Gianfranco,VEN,86.0,84.99,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,14,19+
+GALINDO Rafael,VEN,87.0,85.48,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,14+,12
+ARCE Tomás,COL,88.0,86.75,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,14,12
+EBRAHIMI Seyedmohammadzaniar,IRI,,DNS,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,DNS,DNS
+FLICK Dimitri,SUI,,DNS,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Qualification,2025-07-11,/api/v1/category_rounds/9405/results,/api/v1/events/1414/result/1,DNS,DNS

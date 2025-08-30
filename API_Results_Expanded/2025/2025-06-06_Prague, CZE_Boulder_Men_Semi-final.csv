@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+ANRAKU Sorato,JPN,1,84.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,1,1,5,1,3,1,X,2
+SCHALCK Mejdi,FRA,2,69.9,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,1,1,1,1,X,2
+AMAGASA Sohta,JPN,3,69.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,5,1,1,1,X,2
+LEE Dohyun,KOR,4,69.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,1,1,8,4,X,1
+PAN Yufei,CHN,5,69.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,2,2,1,5,3,X,5
+PEHARC Anze,SLO,6,59.1,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,6,5,5,2,X,X
+RICHARD Samuel,FRA,7,54.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,3,4,2,X,6
+VAN DUYSEN Hannes,BEL,8,53.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,2,3,2,X,3,X,10
+MACDOUGALL Jack,GBR,9,49.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,X,2,1,3,1,X,X
+GIRARD Antoine,FRA,10,44.8,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,3,3,X,1,X,X
+ARRIAGADA KRÜGER Elias,GER,11,44.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,3,1,X,2,X,X
+BERTONE Max,FRA,12,44.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,2,X,4,1,1,X,X
+SANO Daiki,JPN,12,44.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,5,1,X,1,X,X
+MCARTHUR Hamish,GBR,14,44.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,6,4,X,1,X,X
+LEMAIRE Adrien,FRA,15,44.4,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,X,X,1,4,1,X,4
+ONDRA Adam,CZE,15,44.4,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,2,X,4,3,1,X,X
+YAMAGUCHI Kento,JPN,17,39.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,2,X,1,X,1,X,4
+LEMAGNER Thomas,FRA,18,39.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,4,X,1,X,3
+POSCH Jan-Luca,AUT,19,29.9,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,1,X,2,X,X
+ROBERTS Toby,GBR,20,29.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,6,X,1,X,X
+REUSA Matteo,ITA,21,29.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,4,X,5,X,X
+UZNIK Nicolai,AUT,22,29.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,X,X,11,X,1
+MILNE Maximillian,GBR,23,20.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,X,X,1,X,X
+COLLIN Nicolas,BEL,24,19.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,1,X,X,X,X,X,5
+TRANDAFIR Lucas,GER,25,19.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,X,X,1,X,8,X,X
+VON FREIER Lasse,GER,26,9.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,4,X,X,X,X,X,X
+CLÉMENCE Julien,SUI,27,0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Men,Semi-final,2025-06-06,/api/v1/category_rounds/10037/results,/api/v1/events/1410/result/3,X,X,X,X,X,X,X,X

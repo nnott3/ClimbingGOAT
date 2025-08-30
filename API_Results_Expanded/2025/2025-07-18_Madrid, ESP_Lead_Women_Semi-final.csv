@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+SANDERS Annie,USA,1,TOP,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,TOP
+ROGORA Laura,ITA,2,46+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,46+
+SEO Chaehyun,KOR,2,46+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,46+
+RABOUTOU Brooke,USA,4,43+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,43+
+REKAR Rosa,SLO,5,43+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,43+
+MCNEICE Erin,GBR,6,43,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,43
+HILY Manon,FRA,7,40+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,40+
+DOUMONT Heloïse,BEL,8,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39+
+KIM Jain,KOR,9,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39+
+KRAMPL Mia,SLO,9,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39+
+POUGET Camille,FRA,11,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39+
+KOTAKE Mei,JPN,12,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39+
+Rakovec Lucka,SLO,13,39,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,39
+PILZ Jessica,AUT,14,38+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,38+
+TARKUS Lucija,SLO,15,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+NONAKA Miho,JPN,16,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+VAN DER MEER Lynn,NED,16,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+MACIÀ MARTÍN Geila,ESP,18,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+MUGISHIMA Kohana,JPN,19,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+KIM Chaeyeong,KOR,20,37+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37+
+FISER Julia,AUT,21,37,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,37
+HIRANO Natsumi,JPN,22,36+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,36+
+PÖTZI Mattea,AUT,23,36+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,36+
+APEL Anna Maria,GER,24,31+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Women,Semi-final,2025-07-18,/api/v1/category_rounds/10166/results,/api/v1/events/1454/result/5,31+

@@ -1,0 +1,48 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_A,Quali_time_B
+MAIMURATOV Amir,KAZ,1.0,4.96,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,4.964,5.307
+ZURLONI Matteo,ITA,2.0,4.97,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,4.972,5.198
+KHAIBULLIN Rishat,KAZ,3.0,5.01,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.017,5.174
+WANG Xinshang,CHN,4.0,5.08,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.08,5.221
+FOSSALI Ludovico,ITA,5.0,5.12,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.193,5.121
+ZHANG Liang,CHN,6.0,5.17,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.172,DNF
+LONG Jianguo,CHN,7.0,5.253,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.253,5.868
+MORO Guillaume,FRA,8.0,5.254,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.254,5.359
+CARMANNS Leander,GER,9.0,5.257,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.389,5.257
+JUNG Yongjun,KOR,10.0,5.258,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.258,5.324
+David Julian,NZL,11.0,5.265 (OcR),IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.4,5.265
+BOULOS Alessandro,ITA,12.0,5.266,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.266,5.425
+HUANG Jingjie,CHN,13.0,5.274,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.274,5.345
+NOYA CARDONA Erik,ESP,14.0,5.275,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.723,5.275
+ALTYNBEKOV Beknur,KAZ,15.0,5.29,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.299,6.306
+MAWEM Bassa,FRA,16.0,5.33,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.652,5.338
+MOREL Jérôme,FRA,17.0,5.341,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.48,5.341
+LUCKE Sebastian,GER,18.0,5.342,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.952,5.342
+ROBBIATI Luca,ITA,19.0,5.347,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.347,5.424
+Bratschi Noah,USA,20.0,5.35,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.356,5.435
+TOKTAROV Damir,KAZ,21.0,5.37,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.45,5.375
+PAVLENKO Kostiantyn,UKR,22.0,5.38 (5.385),IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.385,5.385
+AMON Kevin,AUT,23.0,5.38 (5.493),IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.493,5.385
+REBREYEND Pierre,FRA,24.0,5.39,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.116,5.39
+LIN Yu,CHN,25.0,5.41,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.414,6.405
+UMLAUF Aodhan,GER,26.0,5.48,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.429,5.482
+TANII Kazuki,JPN,27.0,5.50,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.702,5.501
+KNAPP Lukas,AUT,28.0,5.51,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.517,5.898
+KIM Younghyun,KOR,29.0,5.57,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.574,5.723
+BADER Linus,GER,30.0,5.651,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,DNF,5.651
+UEGAKI Ginta,JPN,31.0,5.653,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.653,5.931
+PITCHER Ethan,CAN,32.0,5.68,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.685,5.882
+MALLESH Deepu,IND,33.0,5.715,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.715,5.945
+BRUYNS Joshua,RSA,34.0,5.716 (AfR),IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.716,6.072
+FUJINO Shuto,JPN,35.0,5.72,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,DNF,5.722
+GOODALL Andrew,GBR,36.0,5.75,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.758,DNF
+KANG Minsu,KOR,37.0,5.76,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.142,5.763
+Jennings Ben,USA,38.0,5.83,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.832,5.915
+LIN Thomas,USA,39.0,5.94,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.465,5.949
+Goddard Aidan,USA,40.0,5.99,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.342,5.991
+TURNER Luke,GBR,41.0,6.32,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.326,6.5
+FREUDENHEIM Ethan,USA,42.0,6.33,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.334,6.794
+EGG Pedro,BRA,43.0,6.52,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,7.145,6.521
+ALENCASTER Andrés,MEX,44.0,6.65,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,6.652,6.741
+MULLER John-David,RSA,45.0,8.14,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,8.144,8.337
+ZODDA Gian Luca,ITA,46.0,FALSE START,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,5.486,DNS
+OMASA Ryo,JPN,,DNS,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Men,Qualification,2024-07-17,/api/v1/category_rounds/8524/results,/api/v1/events/1358/result/2,,

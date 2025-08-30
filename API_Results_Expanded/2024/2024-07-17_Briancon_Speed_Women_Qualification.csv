@@ -1,0 +1,31 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_A,Quali_time_B
+ZHANG Shaoqin,CHN,1,6.64,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,6.646,6.747
+WANG Shengyan,CHN,2,6.74,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,6.749,6.851
+KALUCKA Natalia,POL,3,6.83,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,6.839,6.945
+DENG Lijuan,CHN,4,6.84,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,6.844,7.367
+RANDI  Giulia,ITA,5,6.85,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,6.852,6.956
+JEONG Jimin,KOR,6,6.96,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.865,6.963
+COLLI Beatrice,ITA,7,7.01,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.014,7.021
+ROMERO PÉREZ Leslie Adriana,ESP,8,7.12,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.359,7.125
+YANG Mi,CHN,9,7.27,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.344,7.274
+RITTER Franziska,GER,10,7.33,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.496,7.338
+FIORIO Agnese,ITA,11,7.49,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,11.543,7.493
+MARTÍNEZ VIDAL Carla,ESP,12,7.50,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.505,DNF
+Curcio Sophia,USA,13,7.58,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.933,7.584
+HAYASHI Karin,JPN,14,7.60,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,DNF,7.605
+Rothfork Isis,USA,15,7.64,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.879,7.647
+KOCH Julia,GER,16,7.68,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.681,8.869
+KOYAMATSU Ren,JPN,17,7.74,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.74,7.767
+KAWAKAMI Fumika,JPN,18,7.90,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,7.901,DNF
+MARLENOVA Assel,KAZ,19,8.00,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.004,8.121
+Bone Kaitlyn,USA,20,8.21,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.219,9.682
+HWANG Jimin,KOR,21,8.23,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.237,8.272
+KANETANI Haruka,JPN,22,8.24,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.242,9.087
+NOH Heeju,KOR,23,8.39,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.677,8.398
+RIVEROS Anahí,CHI,24,8.40,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.402,8.433
+YUN Dasom,KOR,25,8.44,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.659,8.447
+Tetzlaff Sarah,NZL,26,8.63,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.763,8.635
+BALARSHINA Anna,KAZ,27,8.72,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,8.908,8.723
+NGUYEN Lily,USA,28,8.84,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.18,8.847
+Kozlova Arina,KAZ,29,9.10,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,9.108,10.388
+HOLDER Aniya,RSA,30,10.92,IFSC World Cup Briançon 2024,1358,2024,Briancon,Speed,Women,Qualification,2024-07-17,/api/v1/category_rounds/8525/results,/api/v1/events/1358/result/6,10.92,11.519

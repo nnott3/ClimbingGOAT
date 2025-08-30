@@ -1,0 +1,135 @@
+,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+0,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Men,Qualification,2012-04-13,/api/v1/category_rounds/2046/results,/api/v1/events/727/result/3
+1,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Men,Semi-Final,2012-04-13,/api/v1/category_rounds/2047/results,/api/v1/events/727/result/3
+2,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Men,Final,2012-04-13,/api/v1/category_rounds/2048/results,/api/v1/events/727/result/3
+3,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Women,Qualification,2012-04-13,/api/v1/category_rounds/2041/results,/api/v1/events/727/result/7
+4,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Women,Semi-Final,2012-04-13,/api/v1/category_rounds/2042/results,/api/v1/events/727/result/7
+5,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Boulder,Women,Final,2012-04-13,/api/v1/category_rounds/2043/results,/api/v1/events/727/result/7
+6,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Men,Qualification,2012-04-13,/api/v1/category_rounds/2049/results,/api/v1/events/727/result/2
+7,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Men,Final,2012-04-13,/api/v1/category_rounds/2050/results,/api/v1/events/727/result/2
+8,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Qualification,2012-04-13,/api/v1/category_rounds/2044/results,/api/v1/events/727/result/6
+9,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",727,2012,Chongqing,Speed,Women,Final,2012-04-13,/api/v1/category_rounds/2045/results,/api/v1/events/727/result/6
+10,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Men,Qualification,2012-04-21,/api/v1/category_rounds/2054/results,/api/v1/events/728/result/3
+11,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Men,Semi-Final,2012-04-21,/api/v1/category_rounds/2055/results,/api/v1/events/728/result/3
+12,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Men,Final,2012-04-21,/api/v1/category_rounds/2056/results,/api/v1/events/728/result/3
+13,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Qualification,2012-04-21,/api/v1/category_rounds/2051/results,/api/v1/events/728/result/7
+14,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Semi-Final,2012-04-21,/api/v1/category_rounds/2052/results,/api/v1/events/728/result/7
+15,IFSC Climbing Worldcup (B) - Log-Dragomer (SLO) 2012,728,2012,Log-Dragomer,Boulder,Women,Final,2012-04-21,/api/v1/category_rounds/2053/results,/api/v1/events/728/result/7
+16,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Men,Qualification,2012-04-27,/api/v1/category_rounds/2060/results,/api/v1/events/729/result/3
+17,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Men,Semi-Final,2012-04-27,/api/v1/category_rounds/2061/results,/api/v1/events/729/result/3
+18,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Men,Final,2012-04-27,/api/v1/category_rounds/2062/results,/api/v1/events/729/result/3
+19,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Women,Qualification,2012-04-27,/api/v1/category_rounds/2057/results,/api/v1/events/729/result/7
+20,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Women,Semi-Final,2012-04-27,/api/v1/category_rounds/2058/results,/api/v1/events/729/result/7
+21,IFSC Climbing Worldcup (B) - Vienna (AUT) 2012,729,2012,Vienna,Boulder,Women,Final,2012-04-27,/api/v1/category_rounds/2059/results,/api/v1/events/729/result/7
+22,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Men,Qualification,2012-05-18,/api/v1/category_rounds/2066/results,/api/v1/events/730/result/3
+23,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Men,Semi-Final,2012-05-18,/api/v1/category_rounds/2067/results,/api/v1/events/730/result/3
+24,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Men,Final,2012-05-18,/api/v1/category_rounds/2068/results,/api/v1/events/730/result/3
+25,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Women,Qualification,2012-05-18,/api/v1/category_rounds/2063/results,/api/v1/events/730/result/7
+26,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Women,Semi-Final,2012-05-18,/api/v1/category_rounds/2064/results,/api/v1/events/730/result/7
+27,IFSC Climbing Worldcup (B) - Innsbruck (AUT) 2012,730,2012,Innsbruck,Boulder,Women,Final,2012-05-18,/api/v1/category_rounds/2065/results,/api/v1/events/730/result/7
+28,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Men,Qualification,2012-06-01,/api/v1/category_rounds/2072/results,/api/v1/events/731/result/3
+29,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Men,Semi-Final,2012-06-01,/api/v1/category_rounds/2073/results,/api/v1/events/731/result/3
+30,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Men,Final,2012-06-01,/api/v1/category_rounds/2074/results,/api/v1/events/731/result/3
+31,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Women,Qualification,2012-06-01,/api/v1/category_rounds/2069/results,/api/v1/events/731/result/7
+32,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Women,Semi-Final,2012-06-01,/api/v1/category_rounds/2070/results,/api/v1/events/731/result/7
+33,IFSC Climbing Worldcup (B) - Vail (USA) 2012 ,731,2012,Vail,Boulder,Women,Final,2012-06-01,/api/v1/category_rounds/2071/results,/api/v1/events/731/result/7
+34,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Qualification,2012-07-12,/api/v1/category_rounds/2080/results,/api/v1/events/732/result/1
+35,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Semi-Final,2012-07-12,/api/v1/category_rounds/2081/results,/api/v1/events/732/result/1
+36,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Men,Final,2012-07-12,/api/v1/category_rounds/2082/results,/api/v1/events/732/result/1
+37,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Qualification,2012-07-12,/api/v1/category_rounds/2075/results,/api/v1/events/732/result/5
+38,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Semi-Final,2012-07-12,/api/v1/category_rounds/2076/results,/api/v1/events/732/result/5
+39,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Lead,Women,Final,2012-07-12,/api/v1/category_rounds/2077/results,/api/v1/events/732/result/5
+40,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Qualification,2012-07-12,/api/v1/category_rounds/2083/results,/api/v1/events/732/result/2
+41,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Men,Final,2012-07-12,/api/v1/category_rounds/2084/results,/api/v1/events/732/result/2
+42,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Qualification,2012-07-12,/api/v1/category_rounds/2078/results,/api/v1/events/732/result/6
+43,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",732,2012,Chamonix,Speed,Women,Final,2012-07-12,/api/v1/category_rounds/2079/results,/api/v1/events/732/result/6
+44,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Qualification,2012-07-20,/api/v1/category_rounds/2088/results,/api/v1/events/733/result/1
+45,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Semi-Final,2012-07-20,/api/v1/category_rounds/2089/results,/api/v1/events/733/result/1
+46,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Men,Final,2012-07-20,/api/v1/category_rounds/2090/results,/api/v1/events/733/result/1
+47,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Women,Qualification,2012-07-20,/api/v1/category_rounds/2085/results,/api/v1/events/733/result/5
+48,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Women,Semi-Final,2012-07-20,/api/v1/category_rounds/2086/results,/api/v1/events/733/result/5
+49,IFSC Climbing Worldcup (L) - Briançon (FRA) 2012,733,2012,Briançon,Lead,Women,Final,2012-07-20,/api/v1/category_rounds/2087/results,/api/v1/events/733/result/5
+50,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Men,Qualification,2012-07-28,/api/v1/category_rounds/2093/results,/api/v1/events/734/result/2
+51,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Men,Final,2012-07-28,/api/v1/category_rounds/2094/results,/api/v1/events/734/result/2
+52,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Qualification,2012-07-28,/api/v1/category_rounds/2091/results,/api/v1/events/734/result/6
+53,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,734,2012,Daone,Speed,Women,Final,2012-07-28,/api/v1/category_rounds/2092/results,/api/v1/events/734/result/6
+54,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Qualification,2012-08-10,/api/v1/category_rounds/2098/results,/api/v1/events/735/result/1
+55,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Semi-Final,2012-08-10,/api/v1/category_rounds/2099/results,/api/v1/events/735/result/1
+56,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Men,Final,2012-08-10,/api/v1/category_rounds/2100/results,/api/v1/events/735/result/1
+57,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Qualification,2012-08-10,/api/v1/category_rounds/2095/results,/api/v1/events/735/result/5
+58,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Semi-Final,2012-08-10,/api/v1/category_rounds/2096/results,/api/v1/events/735/result/5
+59,IFSC Climbing Worldcup (L) - Imst (AUT) 2012,735,2012,Imst,Lead,Women,Final,2012-08-10,/api/v1/category_rounds/2097/results,/api/v1/events/735/result/5
+60,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Qualification,2012-08-25,/api/v1/category_rounds/2104/results,/api/v1/events/736/result/3
+61,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Semi-Final,2012-08-25,/api/v1/category_rounds/2105/results,/api/v1/events/736/result/3
+62,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Men,Final,2012-08-25,/api/v1/category_rounds/2106/results,/api/v1/events/736/result/3
+63,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Women,Qualification,2012-08-25,/api/v1/category_rounds/2101/results,/api/v1/events/736/result/7
+64,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Women,Semi-Final,2012-08-25,/api/v1/category_rounds/2102/results,/api/v1/events/736/result/7
+65,IFSC Climbing Worldcup (B) - Munich (GER) 2012,736,2012,Munich,Boulder,Women,Final,2012-08-25,/api/v1/category_rounds/2103/results,/api/v1/events/736/result/7
+66,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Qualification,2012-09-01,/api/v1/category_rounds/2109/results,/api/v1/events/737/result/2
+67,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Men,Final,2012-09-01,/api/v1/category_rounds/2110/results,/api/v1/events/737/result/2
+68,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Women,Qualification,2012-09-01,/api/v1/category_rounds/2107/results,/api/v1/events/737/result/6
+69,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,737,2012,Arco,Speed,Women,Final,2012-09-01,/api/v1/category_rounds/2108/results,/api/v1/events/737/result/6
+70,IFSC World Championship Lead Group A - Paris 2012,739,2012,Paris,Lead,Men,Qualification,2012-09-11,/api/v1/category_rounds/2128/results,/api/v1/events/739/result/1
+71,IFSC World Championship Lead Group A - Paris 2012,739,2012,Paris,Lead,Women,Qualification,2012-09-11,/api/v1/category_rounds/2127/results,/api/v1/events/739/result/5
+72,IFSC World Championship Lead Group B - Paris 2012,740,2012,Paris,Lead,Men,Qualification,2012-09-11,/api/v1/category_rounds/2130/results,/api/v1/events/740/result/1
+73,IFSC World Championship Lead Group B - Paris 2012,740,2012,Paris,Lead,Women,Qualification,2012-09-11,/api/v1/category_rounds/2129/results,/api/v1/events/740/result/5
+74,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Qualification,2012-09-12,/api/v1/category_rounds/2119/results,/api/v1/events/738/result/1
+75,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2120/results,/api/v1/events/738/result/1
+76,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Men,Final,2012-09-12,/api/v1/category_rounds/2121/results,/api/v1/events/738/result/1
+77,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Qualification,2012-09-12,/api/v1/category_rounds/2111/results,/api/v1/events/738/result/5
+78,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Semi-Final,2012-09-12,/api/v1/category_rounds/2112/results,/api/v1/events/738/result/5
+79,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Lead,Women,Final,2012-09-12,/api/v1/category_rounds/2113/results,/api/v1/events/738/result/5
+80,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Men,Qualification,2012-09-12,/api/v1/category_rounds/2122/results,/api/v1/events/738/result/3
+81,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Men,Semi-Final,2012-09-12,/api/v1/category_rounds/2123/results,/api/v1/events/738/result/3
+82,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Men,Final,2012-09-12,/api/v1/category_rounds/2124/results,/api/v1/events/738/result/3
+83,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Women,Qualification,2012-09-12,/api/v1/category_rounds/2114/results,/api/v1/events/738/result/7
+84,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Women,Semi-Final,2012-09-12,/api/v1/category_rounds/2115/results,/api/v1/events/738/result/7
+85,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Boulder,Women,Final,2012-09-12,/api/v1/category_rounds/2116/results,/api/v1/events/738/result/7
+86,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Qualification,2012-09-12,/api/v1/category_rounds/2125/results,/api/v1/events/738/result/2
+87,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Men,Final,2012-09-12,/api/v1/category_rounds/2126/results,/api/v1/events/738/result/2
+88,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Women,Qualification,2012-09-12,/api/v1/category_rounds/2117/results,/api/v1/events/738/result/6
+89,IFSC Climbing World Championship - Paris (FRA) 2012,738,2012,Paris,Speed,Women,Final,2012-09-12,/api/v1/category_rounds/2118/results,/api/v1/events/738/result/6
+90,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Qualification,2012-09-21,/api/v1/category_rounds/2134/results,/api/v1/events/741/result/1
+91,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Semi-Final,2012-09-21,/api/v1/category_rounds/2135/results,/api/v1/events/741/result/1
+92,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Men,Final,2012-09-21,/api/v1/category_rounds/2136/results,/api/v1/events/741/result/1
+93,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Qualification,2012-09-21,/api/v1/category_rounds/2131/results,/api/v1/events/741/result/5
+94,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Semi-Final,2012-09-21,/api/v1/category_rounds/2132/results,/api/v1/events/741/result/5
+95,IFSC Climbing Worldcup (L) - Puurs (BEL) 2012,741,2012,Puurs,Lead,Women,Final,2012-09-21,/api/v1/category_rounds/2133/results,/api/v1/events/741/result/5
+96,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Men,Qualification,2012-09-29,/api/v1/category_rounds/2140/results,/api/v1/events/742/result/1
+97,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Men,Semi-Final,2012-09-29,/api/v1/category_rounds/2141/results,/api/v1/events/742/result/1
+98,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Men,Final,2012-09-29,/api/v1/category_rounds/2142/results,/api/v1/events/742/result/1
+99,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Qualification,2012-09-29,/api/v1/category_rounds/2137/results,/api/v1/events/742/result/5
+100,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Semi-Final,2012-09-29,/api/v1/category_rounds/2138/results,/api/v1/events/742/result/5
+101,IFSC Climbing Worldcup (L) - Atlanta (USA) 2012 ,742,2012,Atlanta,Lead,Women,Final,2012-09-29,/api/v1/category_rounds/2139/results,/api/v1/events/742/result/5
+102,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Qualification,2012-10-12,/api/v1/category_rounds/2148/results,/api/v1/events/743/result/1
+103,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Semi-Final,2012-10-12,/api/v1/category_rounds/2149/results,/api/v1/events/743/result/1
+104,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Men,Final,2012-10-12,/api/v1/category_rounds/2150/results,/api/v1/events/743/result/1
+105,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Women,Qualification,2012-10-12,/api/v1/category_rounds/2143/results,/api/v1/events/743/result/5
+106,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Women,Semi-Final,2012-10-12,/api/v1/category_rounds/2144/results,/api/v1/events/743/result/5
+107,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Lead,Women,Final,2012-10-12,/api/v1/category_rounds/2145/results,/api/v1/events/743/result/5
+108,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Speed,Men,Qualification,2012-10-12,/api/v1/category_rounds/2151/results,/api/v1/events/743/result/2
+109,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Speed,Men,Final,2012-10-12,/api/v1/category_rounds/2152/results,/api/v1/events/743/result/2
+110,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Speed,Women,Qualification,2012-10-12,/api/v1/category_rounds/2146/results,/api/v1/events/743/result/6
+111,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",743,2012,Xining,Speed,Women,Final,2012-10-12,/api/v1/category_rounds/2147/results,/api/v1/events/743/result/6
+112,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Qualification,2012-10-20,/api/v1/category_rounds/2158/results,/api/v1/events/744/result/1
+113,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Semi-Final,2012-10-20,/api/v1/category_rounds/2159/results,/api/v1/events/744/result/1
+114,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Men,Final,2012-10-20,/api/v1/category_rounds/2160/results,/api/v1/events/744/result/1
+115,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Women,Qualification,2012-10-20,/api/v1/category_rounds/2153/results,/api/v1/events/744/result/5
+116,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Women,Semi-Final,2012-10-20,/api/v1/category_rounds/2154/results,/api/v1/events/744/result/5
+117,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Lead,Women,Final,2012-10-20,/api/v1/category_rounds/2155/results,/api/v1/events/744/result/5
+118,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Speed,Men,Qualification,2012-10-20,/api/v1/category_rounds/2161/results,/api/v1/events/744/result/2
+119,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Speed,Men,Final,2012-10-20,/api/v1/category_rounds/2162/results,/api/v1/events/744/result/2
+120,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Speed,Women,Qualification,2012-10-20,/api/v1/category_rounds/2156/results,/api/v1/events/744/result/6
+121,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",744,2012,Mokpo,Speed,Women,Final,2012-10-20,/api/v1/category_rounds/2157/results,/api/v1/events/744/result/6
+122,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Men,Qualification,2012-10-27,/api/v1/category_rounds/2166/results,/api/v1/events/745/result/1
+123,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Men,Semi-Final,2012-10-27,/api/v1/category_rounds/2167/results,/api/v1/events/745/result/1
+124,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Men,Final,2012-10-27,/api/v1/category_rounds/2168/results,/api/v1/events/745/result/1
+125,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Qualification,2012-10-27,/api/v1/category_rounds/2163/results,/api/v1/events/745/result/5
+126,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Semi-Final,2012-10-27,/api/v1/category_rounds/2164/results,/api/v1/events/745/result/5
+127,IFSC Climbing Worldcup (L) - Inzai (JPN) 2012,745,2012,Inzai,Lead,Women,Final,2012-10-27,/api/v1/category_rounds/2165/results,/api/v1/events/745/result/5
+128,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Qualification,2012-11-17,/api/v1/category_rounds/2172/results,/api/v1/events/746/result/1
+129,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Semi-Final,2012-11-17,/api/v1/category_rounds/2173/results,/api/v1/events/746/result/1
+130,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Men,Final,2012-11-17,/api/v1/category_rounds/2174/results,/api/v1/events/746/result/1
+131,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Women,Qualification,2012-11-17,/api/v1/category_rounds/2169/results,/api/v1/events/746/result/5
+132,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Women,Semi-Final,2012-11-17,/api/v1/category_rounds/2170/results,/api/v1/events/746/result/5
+133,IFSC Climbing Worldcup (L) - Kranj (SLO) 2012,746,2012,Kranj,Lead,Women,Final,2012-11-17,/api/v1/category_rounds/2171/results,/api/v1/events/746/result/5

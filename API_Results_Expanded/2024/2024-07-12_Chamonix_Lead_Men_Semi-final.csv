@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+ROBERTS Toby,GBR,1,TOP,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,TOP
+GINÉS LÓPEZ Alberto,ESP,2,41,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,41
+AVEZOU Sam,FRA,3,40+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,40+
+OMATA Shion,JPN,3,40+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,40+
+ONDRA Adam,CZE,3,40+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,40+
+LEHMANN Sascha,SUI,6,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,35+
+Duffy Colin,USA,7,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,35+
+PEINADO FRANGANILLO Guillermo,ESP,8,34,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,34
+MURASHITA Zento,JPN,9,33,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,33
+GHISOLFI Stefano,ITA,10,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+YURIKUSA Ao,JPN,11,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+YOSHIDA Satone,JPN,12,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+KWON Kibeom,KOR,13,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+BERTONE Max,FRA,14,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+SCHERZ Stefan,AUT,15,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+HIGUCHI Masahiro,JPN,16,32+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32+
+HOMMA Taisei,JPN,17,32,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32
+POTOCAR Luka,SLO,18,32,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32
+VANCRAEYNEST Ties,BEL,19,32,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32
+MARCHALAND Jules,FRA,20,32,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,32
+UZNIK Timo,AUT,21,31+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,31+
+TOMATIS Giorgio,ITA,22,27,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,27
+UTELLI Jonas,SUI,23,25,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,25
+SCHENK Filip,ITA,24,24+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,24+
+JENFT Paul,FRA,25,24+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,24+
+Grupper Jesse,USA,26,24+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Men,Semi-final,2024-07-12,/api/v1/category_rounds/9141/results,/api/v1/events/1357/result/1,24+

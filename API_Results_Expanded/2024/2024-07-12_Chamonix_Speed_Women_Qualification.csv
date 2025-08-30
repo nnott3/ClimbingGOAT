@@ -1,0 +1,34 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+Kalucka Natalia,POL,1,6.64,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,6.646,6.823
+WANG SHENGYAN,CHN,2,6.78,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,6.788,7.217
+ZHANG SHAOQIN,CHN,3,6.87,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,6.876,9.318
+JEONG Jimin,KOR,4,6.90,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.867,6.901
+Colli Beatrice,ITA,5,6.91,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,6.919,7.873
+Romero Pérez Leslie Adriana,ESP,6,6.99,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.071,6.991
+Lebon Manon,FRA,7,7.01,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.018,8.766
+Randi  Giulia,ITA,8,7.04,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.043,7.229
+Ritter Franziska,GER,9,7.12,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.125,7.244
+Viglione Capucine,FRA,10,7.17,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.179,9.952
+YANG MI,CHN,11,7.22,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.226,7.294
+Curcio Sophia,USA,12,7.58,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.586,8.764
+HAYASHI Karin,JPN,13,7.60,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,7.602,8.803
+KOYAMATSU Ren,JPN,14,7.72,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,9.444,7.722
+Fiorio Agnese,ITA,15,7.80,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.049,7.806
+Rothfork Isis,USA,16,7.91,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,9.399,7.918
+Gautron Lison,FRA,17,8.00,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.007,13.288
+KAWAKAMI Fumika,JPN,18,8.12,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.129,8.424
+Thomas Nele,GER,19,8.23,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.301,8.237
+NOH Heeju,KOR,20,8.34,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.717,8.342
+Koch Julia,GER,21,8.35,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.354,8.424
+HWANG Jimin,KOR,22,8.36,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.52,8.366
+Tetzlaff Sarah,NZL,23,8.40 (OcR),IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.4,8.472
+KANETANI Haruka,JPN,24,8.44,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.691,8.442
+Martínez Vidal Carla,ESP,25,8.47,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,DNF,8.47
+Riveros Anahí,CHI,26,8.60,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.847,8.602
+YUN Dasom,KOR,27,8.74,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,8.749,9.327
+Balarshina Anna,KAZ,28,8.80,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,9.602,8.806
+Kozlova Arina,KAZ,29,9.17,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,11.512,9.174
+Marlenova Assel,KAZ,30,10.00,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,10.009,DNF
+Fillingham Saveena,GBR,31,10.12,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,11.384,10.12
+Hamilton Ava,GBR,32,10.77,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,11.133,10.773
+Holder Aniya,RSA,33,FALSE START,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Speed,Women,Qualification,2024-07-12,/api/v1/category_rounds/8521/results,/api/v1/events/1357/result/6,DNS,DNS

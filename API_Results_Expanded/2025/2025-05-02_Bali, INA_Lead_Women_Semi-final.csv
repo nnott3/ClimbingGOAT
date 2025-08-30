@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+MCNEICE Erin,GBR,1,TOP,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,TOP
+SEO Chaehyun,KOR,2,TOP,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,TOP
+MORI Ai,JPN,3,49,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,49
+ROGORA Laura,ITA,4,48+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,48+
+OBLASSER Flora,AUT,5,38,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,38
+Rekar Rosa,SLO,6,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+KRAMPL Mia,SLO,7,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+MACKENZIE Oceania,AUS,8,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+JANICOT Hélène,FRA,9,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+DOUMONT Heloïse,BEL,10,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+KOTAKE Mei,JPN,10,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+KIM Chaeyeong,KOR,12,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+LUO Zhilu,CHN,13,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+ODA Natsumi,JPN,14,37+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,37+
+COPAR Sara,SLO,15,35,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,35
+SIRUCKOVA Tereza,CZE,16,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,33+
+NAKAGAWA Ryu,JPN,17,32+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,32+
+SMETANOVA Michaela,CZE,18,32+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,32+
+TANII Natsuki,JPN,19,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31+
+SCOLARIS Ilaria,ITA,20,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31+
+KUZUU Mashiro,JPN,21,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31+
+WIENAND Roxana,GER,22,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31+
+LUKAN Vita,SLO,23,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31+
+PÖTZI Mattea,AUT,24,31,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,31
+KOBETS Anastasiia,UKR,25,28+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,28+
+CLARK Adriene Akiko,USA,26,28,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,28
+VAN DER MEER Lynn,NED,27,27+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Women,Semi-final,2025-05-02,/api/v1/category_rounds/9982/results,/api/v1/events/1407/result/5,27+

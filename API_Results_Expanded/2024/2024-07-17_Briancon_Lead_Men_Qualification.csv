@@ -1,0 +1,60 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+HOMMA Taisei,JPN,1,1.22,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,TOP,TOP
+OMATA Shion,JPN,2,1.94,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,TOP,38+
+YOSHIDA Satone,JPN,3,3.71,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35+,38+
+Placci Giovanni,ITA,4,6.18,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35,35+
+MURASHITA Zento,JPN,5,6.2,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35+,35
+UTELLI Jonas,SUI,6,7.95,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35+,34
+VANCRAEYNEST Ties,BEL,7,9.72,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,36,29+
+GHISOLFI Stefano,ITA,8,10.91,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35,33+
+SCHENK Filip,ITA,9,11.22,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32,35+
+YURIKUSA Ao,JPN,10,11.61,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,35+,30+
+KWON Kibeom,KOR,11,11.94,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,34+
+HALENKE Sebastian,GER,12,13.1,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32+,35
+ISHIZU Mototaka,JPN,12,13.1,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32+,35
+POLES Jordi,FRA,14,14.67,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,34+,31+
+HANKE Christoph,GER,15,16.2,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,32+
+OGATA Yoshiyuki,JPN,15,16.2,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,32+
+RAMADHAN Ravianto,INA,15,16.2,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,32+
+RAMADHAN Raviandi,INA,18,16.31,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32,34+
+BERTONE Max,FRA,19,18.52,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32+,33+
+IMAIZUMI Yuta,JPN,19,18.52,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32+,33+
+SHEMLA Yuval,ISR,21,19.17,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,30+
+TOMATIS Giorgio,ITA,22,21.62,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,34+,25+
+SCHERZ Stefan,AUT,23,21.74,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,29+
+GRÜNENFELDER Nino,SUI,24,22.41,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33,30+
+MARTIN Philipp,GER,24,22.41,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33,30+
+TANAKA Shuta,JPN,24,22.41,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33,30+
+STRANIK Martin,CZE,27,23.0,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,34
+PEINADO FRANGANILLO Guillermo,ESP,28,24.19,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33+,28
+HIGUCHI Masahiro,JPN,29,24.92,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,27,32+
+BAUDRAND Oscar,CAN,30,25.41,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,33,29+
+DUFROS Lucas,FRA,31,29.7,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,32,29+
+DUVAL Arsène,FRA,32,30.71,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,25+,30+
+MONCHOIS Nao,FRA,33,30.74,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,31+,29+
+AVEZOU Leo,FRA,34,31.75,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,30+,29+
+MARCHALAND Jules,FRA,35,33.58,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,13+,31+
+FLICK Dimitri,SUI,36,34.18,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,30+,28+
+MIN Hyunbin,KOR,37,35.89,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,30
+HARRISON Campbell,AUS,38,36.0,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,27,28+
+BERGANT Martin,SLO,39,37.56,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,27+,27
+CONLON Rhys,GBR,40,38.68,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23+,28+
+NAGEL Yannick,GER,41,38.99,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,30+,25
+KIROV Slav,BUL,42,40.0,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,24+,27+
+MADER Felix,AUT,43,42.58,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,26+,24+
+GRENIER Maël,FRA,44,43.69,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,27
+LINACISORO MOLINA Mikel Asier,ESP,45,44.31,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,25+,22+
+IASI HANADA Rodrigo,BRA,46,45.24,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,25+
+POTUCEK Simon,CZE,46,45.24,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,25+
+URRUTIA Joaquin,CHI,48,45.61,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,10+,28+
+CREP Lovro,SLO,49,46.74,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,25
+NOËL Alexandre,BEL,50,47.64,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,21+,25+
+ERIKSSON Elliot,SWE,51,48.44,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,22+
+PARMENTIER Hugo,FRA,52,49.38,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,22
+MEYER Albin,SWE,53,49.84,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,23,20
+VARGAS Benjamin,CHI,54,51.5,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,19+,22+
+KE Qun Tao,MAS,55,53.99,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,18+,19
+EBRAHIMI Seyedmohammadzaniar,IRI,56,55.99,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,13+,18
+PANFILOV Alexey,KAZ,57,56.48,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,13+,17+
+DA SILVA Samuel Carlos,BRA,58,56.99,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,9,18+
+FLORES William,PUR,59,59.0,IFSC World Cup Briançon 2024,1358,2024,Briancon,Lead,Men,Qualification,2024-07-17,/api/v1/category_rounds/8522/results,/api/v1/events/1358/result/1,7+,16

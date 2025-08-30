@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+LEE Dohyun,KOR,1,99.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,3,3,1,1,1,1,1,1
+ANRAKU Sorato,JPN,2,69.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,2,2,2,3,3,X,3
+VAN DUYSEN Hannes,BEL,3,54.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,5,5,X,1,X,1,X,2
+AKHTAR Dayan,GBR,4,49.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,3,1,X,X,3,3,X,X
+JENFT Paul,FRA,5,44.4,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,3,2,X,X,X,5,X,1
+PAN Yufei,CHN,6,44.3,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,5,X,X,4,4,X,1
+DUFFY Colin,USA,7,34.2,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,7,4,X,X,X,3,X,X
+SCHALCK Mejdi,FRA,7,34.2,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,2,2,X,X,X,X,X,8
+AMAGASA Sohta,JPN,9,29.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,3,X,X,X,4,X,1
+PRIHED Oren,ISR,10,24.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,5,1,X,X,X,X,X,X
+PEINADO FRANGANILLO Guillermo,ESP,11,24.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,6,2,X,X,X,X,X,X
+BLOEM Thorben Perry,GER,12,19.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,1,X,X,X,X,X,4
+NARASAKI Tomoa,JPN,12,19.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,1,X,X,X,X,X,4
+CHON Jongwon,KOR,14,19.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,2,X,X,X,4,X,X
+CORNU Manuel,FRA,15,19.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,4,X,3,X,X,X,X
+PEHARC Anze,SLO,15,19.5,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,2,X,X,X,5,X,X
+BRAND Paul,NED,17,19.2,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,3,X,X,X,7,X,X
+POSCH Jan-Luca,AUT,18,9.9,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,2,X,X,X,X,X,X
+VON FREIER Lasse,GER,19,9.8,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,3,X,X,X,X,X,X
+STRAUBHAAR Levin,SUI,20,9.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,4,X,X,X,X,X,X
+SUGIMOTO Yusuke,JPN,20,9.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,4,X,X,X,X,X,X
+RUSEV Nikolay,BUL,20,9.7,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,4,X,X,X,X,X,X
+WIMMER Julian,AUT,23,9.6,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,5,X,X,X,X,X,X
+FLOHÉ Yannick,GER,24,9.1,IFSC World Cup Bern 2025,1411,2025,"Bern, SUI",Boulder,Men,Semi-final,2025-06-13,/api/v1/category_rounds/10043/results,/api/v1/events/1411/result/3,X,10,X,X,X,X,X,X

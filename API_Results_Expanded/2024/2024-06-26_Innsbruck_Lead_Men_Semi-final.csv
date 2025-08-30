@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+SCHUBERT Jakob,AUT,1,49+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,49+
+ROBERTS Toby,GBR,2,46+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,46+
+HOMMA Taisei,JPN,3,46+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,46+
+UTELLI Jonas,SUI,4,44+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,44+
+Duffy Colin,USA,5,44+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,44+
+MEGOS Alexander,GER,6,43,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,43
+TANAKA Shuta,JPN,7,43,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,43
+NARASAKI Tomoa,JPN,8,43,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,43
+LEHMANN Sascha,SUI,9,42+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42+
+ANRAKU Sorato,JPN,10,42+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42+
+MURASHITA Zento,JPN,11,42+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42+
+YOSHIDA Satone,JPN,12,42+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42+
+POTOCAR Luka,SLO,13,42+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42+
+GHISOLFI Stefano,ITA,14,42,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,42
+PLACCI Giovanni,ITA,15,41,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,41
+OMATA Shion,JPN,16,36+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,36+
+YURIKUSA Ao,JPN,17,36+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,36+
+SCHENK Filip,ITA,18,36+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,36+
+BERTONE Max,FRA,19,36,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,36
+KWON Kibeom,KOR,20,35,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,35
+GRÜNENFELDER Nino,SUI,21,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,33+
+PEINADO FRANGANILLO Guillermo,ESP,22,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,33+
+STIPEK Jan,CZE,23,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,33+
+IMAIZUMI Yuta,JPN,24,27,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,27
+BAUDRAND Oscar,CAN,25,27,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,27
+NAGEL Yannick,GER,26,22+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Men,Semi-final,2024-06-26,/api/v1/category_rounds/9087/results,/api/v1/events/1356/result/1,22+

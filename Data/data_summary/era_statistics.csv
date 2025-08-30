@@ -1,0 +1,11 @@
+scoring_era,nunique_name,nunique_country,min_year,max_year,nunique_year,nunique_source_file
+Boulder&lead_Unknown,269,50,2022,2023,2,12
+Boulder_IFSC_AddedPoints_2025+,362,60,2025,2025,1,35
+Boulder_IFSC_ZoneTopAttempts_2007-2024,2815,95,2007,2024,17,717
+Boulder_UIAA,784,46,1999,2006,8,86
+Combined_Unknown,26,11,2021,2021,1,2
+Lead_IFSC_2007+,2400,85,2007,2025,18,805
+Lead_UIAA_pre2007,1606,63,1991,2006,15,188
+Speed_IFSC_Score_2007-2008,227,38,2007,2008,2,48
+Speed_IFSC_Time_2009+,1461,65,2009,2025,16,416
+Speed_UIAA,497,43,1991,2006,13,82

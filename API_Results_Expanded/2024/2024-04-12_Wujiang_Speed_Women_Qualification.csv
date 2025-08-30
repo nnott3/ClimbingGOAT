@@ -1,0 +1,45 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_A,Quali_time_B
+Hunt Emma,USA,1,6.44,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.447,7.504
+Kalucka Aleksandra,POL,2,6.58,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.58,6.745
+DENG LIJUAN,CHN,3,6.74,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.744,7.5
+ZHANG SHAOQIN,CHN,4,6.81,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.907,6.818
+JEONG Jimin,KOR,5,6.86,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.959,6.86
+Miroslaw Aleksandra,POL,6,6.87,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.872,DNF
+WANG SHENGYAN,CHN,7,6.96,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.965,7.074
+Kalucka Natalia,POL,8,7.00,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.002,7.01
+Colli Beatrice,ITA,9,7.10,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.109,DNF
+Chudziak Patrycja,POL,10,7.14,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.144,7.153
+Viglione Capucine,FRA,11,7.15,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.15,9.114
+SALLSABILLAH RAJIAH,INA,12,7.17,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.174,9.688
+NIU DI,CHN,13,7.20,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.209,7.241
+FAN JINGYUE,CHN,14,7.233,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.297,7.233
+XIE GUIZHEN,CHN,15,7.238,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.418,7.238
+Randi  Giulia,ITA,16,7.25 (7.339),IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.252,7.339
+Darabian Mahya,IRI,17,7.25 (8.083),IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.252,8.083
+XIE YUFANG,CHN,18,7.30,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.309,7.384
+Rojas Andrea,ECU,19,7.32,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.292,7.327
+Kelly Piper,USA,20,7.34,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.108,7.34
+ZHOU YAFEI,CHN,21,7.36,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.367,DNF
+Ritter Franziska,GER,22,7.39,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.396,7.528
+ZHANG MENGLI,CHN,23,7.40,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.409,8.562
+Brozek Anna,POL,24,7.44,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.742,7.444
+Romero Pérez Leslie Adriana,ESP,25,7.54,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.685,7.542
+Gautron Lison,FRA,26,7.59,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.155,7.594
+VER KHADIJAH ALIVANY,INA,27,7.60,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.603,9.014
+IQAMAH NURUL,INA,28,7.63,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.637,7.66
+Ulzhabayeva Tamara,KAZ,29,7.71,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,8.194,7.712
+Curcio Sophia,USA,30,7.73,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,DNF,7.736
+HAYASHI Karin,JPN,31,7.80,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.804,9.247
+SUNG Hanareum,KOR,32,7.85,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.855,10.008
+NURHIDAYAH SUSAN,INA,33,7.87,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,7.878,10.217
+Bone Kaitlyn,USA,34,7.91,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.62,7.91
+NOH Heeju,KOR,35,8.09,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,8.098,11.613
+Rothfork Isis,USA,36,8.20,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.186,8.203
+LESTARI PUJA,INA,37,8.35,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,8.351,8.453
+CHOI NAWOO,KOR,38,8.48,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,8.486,8.491
+YANG MI,CHN,39,8.60,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,DNF,8.605
+Tetzlaff Sarah,NZL,40,8.61,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,8.617,8.656
+KAWAKAMI Fumika,JPN,41,9.00,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.182,9.0
+Andrier Victoire,FRA,42,9.88,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.886,DNF
+SHI XINYUE,CHN,43,9.92,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,9.922,10.178
+MADE RITA KUSUMA DEWI DESAK,INA,44,FALSE START,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Speed,Women,Qualification,2024-04-12,/api/v1/category_rounds/8507/results,/api/v1/events/1354/result/6,6.632,DNS

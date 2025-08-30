@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+GARNBRET Janja,SLO,1,48+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,48+
+MORI Ai,JPN,2,48+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,48+
+PILZ Jessica,AUT,3,43+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,43+
+TOTKOVA Aleksandra,BUL,4,40+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,40+
+SEO Chaehyun,KOR,5,35+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,35+
+ZHANG Yuetong,CHN,6,35+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,35+
+Sanders Anastasia,USA,7,35,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,35
+PÖTZI Mattea,AUT,8,34+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,34+
+FISER Julia,AUT,9,34+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,34+
+OBLASSER Flora,AUT,10,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,33+
+TAKAO Tomona,JPN,11,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,33+
+BUCKLEY Jennifer Eucharia,SLO,12,33+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,33+
+POUGET Camille,FRA,13,32+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,32+
+DOUMONT Heloïse,BEL,14,32+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,32+
+ROGORA Laura,ITA,15,31,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,31
+KOTAKE Mei,JPN,16,31,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,31
+KRAMPL Mia,SLO,17,30+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30+
+COPAR Sara,SLO,18,30+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30+
+HILY Manon,FRA,18,30+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30+
+HAMMELMÜLLER Eva Maria,AUT,20,30+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30+
+SMETANOVA Michaela,CZE,21,30+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30+
+ODA Natsumi,JPN,22,30,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,30
+TANII Natsuki,JPN,23,29+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,29+
+LUKAN Vita,SLO,24,27+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,27+
+MEUL Hannah,GER,25,26+,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,26+
+SCOLARIS Ilaria,ITA,26,25,IFSC World Cup Innsbruck 2024,1356,2024,Innsbruck,Lead,Women,Semi-final,2024-06-26,/api/v1/category_rounds/9088/results,/api/v1/events/1356/result/5,25

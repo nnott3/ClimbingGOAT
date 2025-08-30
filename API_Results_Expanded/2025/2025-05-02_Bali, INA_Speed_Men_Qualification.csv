@@ -1,0 +1,67 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+KATIBIN Kiromal,INA,1,4.87,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,4.872
+WATSON Samuel,USA,2,4.93,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.222,4.93
+NURSAMSA Raharjati,INA,3,4.95,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.001,4.953
+CHU Shouhong,CHN,4,5.04,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.045,5.115
+ILCHYSHYN Hryhorii,UKR,5,5.121,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.121,5.233
+LEONARDO Veddriq,INA,6,5.122,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.122,5.222
+TKACH Yaroslav,UKR,7,5.16 (5.236),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.164,5.236
+LONG Jianguo,CHN,8,5.16 (7.638),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.638,5.164
+MAIMURATOV Amir,KAZ,9,5.16 (FALL),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,5.164
+FUJINO Shuto,JPN,10,5.222,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.427,5.222
+PAVLENKO Kostiantyn,UKR,11,5.227,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.227,5.324
+OMASA Ryo,JPN,12,5.24,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,5.24
+ROBBY AL HILMI Antasyafi,INA,13,5.25,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.254,5.866
+SHI Zechuan,CHN,14,5.260 (5.260),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.26,5.26
+ALTYNBEKOV Beknur,KAZ,15,5.26 (6.842),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.26,6.842
+REBREYEND Pierre,FRA,16,5.268,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.411,5.268
+AMON Kevin,AUT,17,5.27,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.733,5.273
+ZHAO Linwen,CHN,18,5.290,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,8.185,5.29
+ROBBIATI Luca,ITA,19,5.292,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.292,5.612
+ZHANG Dingfeng,CHN,20,5.301,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.466,5.301
+NOYA CARDONA Erik,ESP,21,5.304,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.304,6.738
+LIMPANICHPAKDEE Aphiwit,THA,22,5.32,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.656,5.329
+ZURLONI Matteo,ITA,23,5.33,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.985,5.336
+DAVID Julian,NZL,24,5.34,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.347,6.09
+GORDON SITORUS Rian,INA,25,5.35,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.359,5.374
+ZODDA Gian Luca,ITA,26,5.37,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.408,5.373
+KALIBAY Zhandos,KAZ,27,5.38,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.385,5.468
+PRAMUDITA Zulkifli,INA,28,5.40,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.972,5.402
+RAMASKI Aswin Kristanto,INA,29,5.42,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.195,5.424
+FOSSALI Ludovico,ITA,30,5.443,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.443,5.523
+LUCKE Sebastian,GER,31,5.449,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.449,7.88
+ERNSBERGER Merritt,USA,32,5.45,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.45,8.018
+BRATSCHI Noah,USA,33,5.46,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.468,7.608
+MUHAMMAD FAJRI Alfian,INA,34,5.51,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.545,5.513
+JENNINGS Ben,USA,35,5.52,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.55,5.526
+MORO Guillaume,FRA,36,5.53,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,11.06,5.53
+BOGESCHDORFER Lawrence,AUT,37,5.55,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.091,5.55
+SAMUDRA Riski,INA,38,5.58,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.587,DNF
+CHOI Jongbin,KOR,39,5.602,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.096,5.602
+JO Jinyong,KOR,40,5.604,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.641,5.604
+PITCHER Ethan,CAN,41,5.61,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.837,5.614
+MOREL Jérôme,FRA,42,5.64,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.013,5.644
+RONTINI Marco,ITA,43,5.69,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.694,DNF
+BAKRI Glenn,INA,44,5.72,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.726,5.799
+YANG Jie,CHN,45,5.76,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,5.765
+DZIENSKI Marcin,POL,46,5.79,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.798,5.836
+UMLAUF Aodhan,GER,47,5.813,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.813,DNF
+JIN RUI Andre Ho,SGP,48,5.815,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.815,5.92
+"LOW Ezell, Qing Wei",SGP,49,5.84,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.844,6.027
+BADER Linus,GER,50,5.91,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,5.91
+LEE Yongsu,KOR,51,5.92,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.949,5.923
+GODDARD Aidan,USA,52,5.93,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,5.93,6.011
+ZEDLER Dorian,GER,53,6.05,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.324,6.056
+CHAN Cheung-Chi Shoji,HKG,54,6.06,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.124,6.067
+HAMMER Zach,USA,55,6.07,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.071,DNF
+KIM Dongjun,KOR,56,6.11,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.342,6.11
+WONG Cheuk-Nam,HKG,57,6.254,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.254,9.391
+TURNER Luke,GBR,58,6.256,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.362,6.256
+TOKTAROV Damir,KAZ,59,6.51,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.071,6.511
+YASUKAWA Jun,JPN,60,6.75,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,DNF,6.752
+CHISHOLM Flynn,NZL,61,6.96,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.966,DNF
+MURAT Alisher,KAZ,62,7.05,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.05,12.166
+BOSSERT Braeden,CAN,63,7.41,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.418,DNF
+MENSUR Hasan,TUR,64,7.58,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.586,9.638
+TAŞ Ti̇mur,TUR,65,7.64,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,7.647,7.985
+ABU ERGEEB Nasser,KUW,66,FALSE START (6395),IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Speed,Men,Qualification,2025-05-02,/api/v1/category_rounds/9389/results,/api/v1/events/1407/result/2,6.395,DNS

@@ -1,0 +1,11 @@
+metric,value
+total_records,74280
+unique_athletes,6357
+unique_competitions,2391
+unique_countries,102
+date_range_start,1991
+date_range_end,2025
+disciplines,5
+genders,2
+rounds,4
+processing_date,2025-08-30 15:32:25

@@ -1,0 +1,113 @@
+,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results
+0,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Men,Qualification,2022-04-08,/api/v1/category_rounds/6844/results,/api/v1/events/1233/result/3
+1,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Men,Semi-final,2022-04-08,/api/v1/category_rounds/7417/results,/api/v1/events/1233/result/3
+2,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Men,Final,2022-04-08,/api/v1/category_rounds/7419/results,/api/v1/events/1233/result/3
+3,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Qualification,2022-04-08,/api/v1/category_rounds/6845/results,/api/v1/events/1233/result/7
+4,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Semi-final,2022-04-08,/api/v1/category_rounds/7418/results,/api/v1/events/1233/result/7
+5,IFSC - Climbing World Cup (B) - Meiringen (SUI) 2022,1233,2022,Meiringen,Boulder,Women,Final,2022-04-08,/api/v1/category_rounds/7420/results,/api/v1/events/1233/result/7
+6,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Men,Qualification,2022-05-06,/api/v1/category_rounds/6848/results,/api/v1/events/1235/result/3
+7,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Men,Semi-final,2022-05-06,/api/v1/category_rounds/7423/results,/api/v1/events/1235/result/3
+8,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Men,Final,2022-05-06,/api/v1/category_rounds/7425/results,/api/v1/events/1235/result/3
+9,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Women,Qualification,2022-05-06,/api/v1/category_rounds/6849/results,/api/v1/events/1235/result/7
+10,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Women,Semi-final,2022-05-06,/api/v1/category_rounds/7424/results,/api/v1/events/1235/result/7
+11,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Boulder,Women,Final,2022-05-06,/api/v1/category_rounds/7426/results,/api/v1/events/1235/result/7
+12,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Speed,Men,Qualification,2022-05-06,/api/v1/category_rounds/6850/results,/api/v1/events/1235/result/2
+13,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Speed,Men,Final,2022-05-06,/api/v1/category_rounds/7421/results,/api/v1/events/1235/result/2
+14,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Speed,Women,Qualification,2022-05-06,/api/v1/category_rounds/6851/results,/api/v1/events/1235/result/6
+15,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",1235,2022,Seoul,Speed,Women,Final,2022-05-06,/api/v1/category_rounds/7422/results,/api/v1/events/1235/result/6
+16,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Men,Qualification,2022-05-20,/api/v1/category_rounds/6852/results,/api/v1/events/1236/result/3
+17,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Men,Semi-final,2022-05-20,/api/v1/category_rounds/7427/results,/api/v1/events/1236/result/3
+18,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Men,Final,2022-05-20,/api/v1/category_rounds/7429/results,/api/v1/events/1236/result/3
+19,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Women,Qualification,2022-05-20,/api/v1/category_rounds/6853/results,/api/v1/events/1236/result/7
+20,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Women,Semi-final,2022-05-20,/api/v1/category_rounds/7428/results,/api/v1/events/1236/result/7
+21,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Boulder,Women,Final,2022-05-20,/api/v1/category_rounds/7430/results,/api/v1/events/1236/result/7
+22,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Speed,Men,Qualification,2022-05-20,/api/v1/category_rounds/7415/results,/api/v1/events/1236/result/2
+23,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Speed,Men,Final,2022-05-20,/api/v1/category_rounds/7431/results,/api/v1/events/1236/result/2
+24,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Speed,Women,Qualification,2022-05-20,/api/v1/category_rounds/7416/results,/api/v1/events/1236/result/6
+25,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1236,2022,Salt Lake City,Speed,Women,Final,2022-05-20,/api/v1/category_rounds/7432/results,/api/v1/events/1236/result/6
+26,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Men,Qualification,2022-05-27,/api/v1/category_rounds/6854/results,/api/v1/events/1237/result/3
+27,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Men,Semi-final,2022-05-27,/api/v1/category_rounds/7454/results,/api/v1/events/1237/result/3
+28,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Men,Final,2022-05-27,/api/v1/category_rounds/7456/results,/api/v1/events/1237/result/3
+29,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Women,Qualification,2022-05-27,/api/v1/category_rounds/6855/results,/api/v1/events/1237/result/7
+30,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Women,Semi-final,2022-05-27,/api/v1/category_rounds/7455/results,/api/v1/events/1237/result/7
+31,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Boulder,Women,Final,2022-05-27,/api/v1/category_rounds/7457/results,/api/v1/events/1237/result/7
+32,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Speed,Men,Qualification,2022-05-27,/api/v1/category_rounds/6856/results,/api/v1/events/1237/result/2
+33,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Speed,Men,Final,2022-05-27,/api/v1/category_rounds/7458/results,/api/v1/events/1237/result/2
+34,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Speed,Women,Qualification,2022-05-27,/api/v1/category_rounds/6857/results,/api/v1/events/1237/result/6
+35,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",1237,2022,Salt Lake City,Speed,Women,Final,2022-05-27,/api/v1/category_rounds/7459/results,/api/v1/events/1237/result/6
+36,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Men,Qualification,2022-06-10,/api/v1/category_rounds/7411/results,/api/v1/events/1284/result/3
+37,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Men,Semi-final,2022-06-10,/api/v1/category_rounds/7480/results,/api/v1/events/1284/result/3
+38,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Men,Final,2022-06-10,/api/v1/category_rounds/7482/results,/api/v1/events/1284/result/3
+39,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Women,Qualification,2022-06-10,/api/v1/category_rounds/7412/results,/api/v1/events/1284/result/7
+40,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Women,Semi-final,2022-06-10,/api/v1/category_rounds/7481/results,/api/v1/events/1284/result/7
+41,IFSC - Climbing World Cup (B) - Brixen (ITA) 2022,1284,2022,Brixen,Boulder,Women,Final,2022-06-10,/api/v1/category_rounds/7483/results,/api/v1/events/1284/result/7
+42,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Qualification,2022-06-22,/api/v1/category_rounds/6858/results,/api/v1/events/1238/result/3
+43,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7541/results,/api/v1/events/1238/result/3
+44,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Men,Final,2022-06-22,/api/v1/category_rounds/7543/results,/api/v1/events/1238/result/3
+45,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Women,Qualification,2022-06-22,/api/v1/category_rounds/6859/results,/api/v1/events/1238/result/7
+46,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7542/results,/api/v1/events/1238/result/7
+47,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Boulder,Women,Final,2022-06-22,/api/v1/category_rounds/7544/results,/api/v1/events/1238/result/7
+48,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Qualification,2022-06-22,/api/v1/category_rounds/6860/results,/api/v1/events/1238/result/1
+49,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Semi-final,2022-06-22,/api/v1/category_rounds/7545/results,/api/v1/events/1238/result/1
+50,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Men,Final,2022-06-22,/api/v1/category_rounds/7547/results,/api/v1/events/1238/result/1
+51,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Qualification,2022-06-22,/api/v1/category_rounds/6861/results,/api/v1/events/1238/result/5
+52,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Semi-final,2022-06-22,/api/v1/category_rounds/7546/results,/api/v1/events/1238/result/5
+53,"IFSC - Climbing World Cup (B,L) - Innsbruck (AUT) 2022",1238,2022,Innsbruck,Lead,Women,Final,2022-06-22,/api/v1/category_rounds/7548/results,/api/v1/events/1238/result/5
+54,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Men,Qualification,2022-06-30,/api/v1/category_rounds/6862/results,/api/v1/events/1239/result/1
+55,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Men,Semi-final,2022-06-30,/api/v1/category_rounds/7472/results,/api/v1/events/1239/result/1
+56,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Men,Final,2022-06-30,/api/v1/category_rounds/7474/results,/api/v1/events/1239/result/1
+57,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Women,Qualification,2022-06-30,/api/v1/category_rounds/6863/results,/api/v1/events/1239/result/5
+58,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Women,Semi-final,2022-06-30,/api/v1/category_rounds/7473/results,/api/v1/events/1239/result/5
+59,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Lead,Women,Final,2022-06-30,/api/v1/category_rounds/7475/results,/api/v1/events/1239/result/5
+60,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Speed,Men,Qualification,2022-06-30,/api/v1/category_rounds/6864/results,/api/v1/events/1239/result/2
+61,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Speed,Men,Final,2022-06-30,/api/v1/category_rounds/7476/results,/api/v1/events/1239/result/2
+62,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Speed,Women,Qualification,2022-06-30,/api/v1/category_rounds/6865/results,/api/v1/events/1239/result/6
+63,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",1239,2022,Villars-sur-Ollon,Speed,Women,Final,2022-06-30,/api/v1/category_rounds/7477/results,/api/v1/events/1239/result/6
+64,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Qualification,2022-07-08,/api/v1/category_rounds/6866/results,/api/v1/events/1240/result/1
+65,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Semi-final,2022-07-08,/api/v1/category_rounds/7577/results,/api/v1/events/1240/result/1
+66,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Men,Final,2022-07-08,/api/v1/category_rounds/7581/results,/api/v1/events/1240/result/1
+67,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Women,Qualification,2022-07-08,/api/v1/category_rounds/6867/results,/api/v1/events/1240/result/5
+68,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Women,Semi-final,2022-07-08,/api/v1/category_rounds/7578/results,/api/v1/events/1240/result/5
+69,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Lead,Women,Final,2022-07-08,/api/v1/category_rounds/7582/results,/api/v1/events/1240/result/5
+70,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Speed,Men,Qualification,2022-07-08,/api/v1/category_rounds/6868/results,/api/v1/events/1240/result/2
+71,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Speed,Men,Final,2022-07-08,/api/v1/category_rounds/7487/results,/api/v1/events/1240/result/2
+72,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Speed,Women,Qualification,2022-07-08,/api/v1/category_rounds/6869/results,/api/v1/events/1240/result/6
+73,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",1240,2022,Chamonix,Speed,Women,Final,2022-07-08,/api/v1/category_rounds/7488/results,/api/v1/events/1240/result/6
+74,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Qualification,2022-07-22,/api/v1/category_rounds/6870/results,/api/v1/events/1241/result/1
+75,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Semi-final,2022-07-22,/api/v1/category_rounds/7583/results,/api/v1/events/1241/result/1
+76,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Men,Final,2022-07-22,/api/v1/category_rounds/7585/results,/api/v1/events/1241/result/1
+77,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Qualification,2022-07-22,/api/v1/category_rounds/6871/results,/api/v1/events/1241/result/5
+78,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Semi-final,2022-07-22,/api/v1/category_rounds/7584/results,/api/v1/events/1241/result/5
+79,IFSC - Climbing World Cup (L) - Briançon (FRA) 2022,1241,2022,Briançon,Lead,Women,Final,2022-07-22,/api/v1/category_rounds/7586/results,/api/v1/events/1241/result/5
+80,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Qualification,2022-09-02,/api/v1/category_rounds/6872/results,/api/v1/events/1242/result/1
+81,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Semi-final,2022-09-02,/api/v1/category_rounds/7665/results,/api/v1/events/1242/result/1
+82,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Men,Final,2022-09-02,/api/v1/category_rounds/7667/results,/api/v1/events/1242/result/1
+83,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Qualification,2022-09-02,/api/v1/category_rounds/6873/results,/api/v1/events/1242/result/5
+84,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Semi-final,2022-09-02,/api/v1/category_rounds/7666/results,/api/v1/events/1242/result/5
+85,IFSC - Climbing World Cup (L) - Koper (SLO) 2022,1242,2022,Koper,Lead,Women,Final,2022-09-02,/api/v1/category_rounds/7668/results,/api/v1/events/1242/result/5
+86,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Men,Qualification,2022-09-09,/api/v1/category_rounds/7549/results,/api/v1/events/1288/result/1
+87,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Men,Semi-final,2022-09-09,/api/v1/category_rounds/7647/results,/api/v1/events/1288/result/1
+88,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Men,Final,2022-09-09,/api/v1/category_rounds/7649/results,/api/v1/events/1288/result/1
+89,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Women,Qualification,2022-09-09,/api/v1/category_rounds/7550/results,/api/v1/events/1288/result/5
+90,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Women,Semi-final,2022-09-09,/api/v1/category_rounds/7648/results,/api/v1/events/1288/result/5
+91,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Lead,Women,Final,2022-09-09,/api/v1/category_rounds/7650/results,/api/v1/events/1288/result/5
+92,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Speed,Men,Qualification,2022-09-09,/api/v1/category_rounds/7551/results,/api/v1/events/1288/result/2
+93,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Speed,Men,Final,2022-09-09,/api/v1/category_rounds/7651/results,/api/v1/events/1288/result/2
+94,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Speed,Women,Qualification,2022-09-09,/api/v1/category_rounds/7552/results,/api/v1/events/1288/result/6
+95,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",1288,2022,Edinburgh,Speed,Women,Final,2022-09-09,/api/v1/category_rounds/7652/results,/api/v1/events/1288/result/6
+96,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Qualification,2022-09-24,/api/v1/category_rounds/6874/results,/api/v1/events/1243/result/1
+97,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Semi-final,2022-09-24,/api/v1/category_rounds/7793/results,/api/v1/events/1243/result/1
+98,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Men,Final,2022-09-24,/api/v1/category_rounds/7795/results,/api/v1/events/1243/result/1
+99,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Qualification,2022-09-24,/api/v1/category_rounds/6875/results,/api/v1/events/1243/result/5
+100,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Semi-final,2022-09-24,/api/v1/category_rounds/7794/results,/api/v1/events/1243/result/5
+101,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Lead,Women,Final,2022-09-24,/api/v1/category_rounds/7796/results,/api/v1/events/1243/result/5
+102,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Speed,Men,Qualification,2022-09-24,/api/v1/category_rounds/6876/results,/api/v1/events/1243/result/2
+103,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Speed,Men,Final,2022-09-24,/api/v1/category_rounds/7797/results,/api/v1/events/1243/result/2
+104,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Speed,Women,Qualification,2022-09-24,/api/v1/category_rounds/6877/results,/api/v1/events/1243/result/6
+105,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",1243,2022,Jakarta,Speed,Women,Final,2022-09-24,/api/v1/category_rounds/7798/results,/api/v1/events/1243/result/6
+106,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Men,Qualification,2022-10-20,/api/v1/category_rounds/7553/results,/api/v1/events/1234/result/617
+107,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Men,Semi-final,2022-10-20,/api/v1/category_rounds/7817/results,/api/v1/events/1234/result/617
+108,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Men,Final,2022-10-20,/api/v1/category_rounds/7819/results,/api/v1/events/1234/result/617
+109,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Women,Qualification,2022-10-20,/api/v1/category_rounds/7554/results,/api/v1/events/1234/result/618
+110,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Women,Semi-final,2022-10-20,/api/v1/category_rounds/7818/results,/api/v1/events/1234/result/618
+111,"IFSC - Climbing World Cup (B&L) - Morioka, Iwate (JPN) 2022",1234,2022,Japan,Boulder&lead,Women,Final,2022-10-20,/api/v1/category_rounds/7820/results,/api/v1/events/1234/result/618

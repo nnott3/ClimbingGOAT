@@ -1,0 +1,82 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+SANDERS Annie,USA,1.0,1.41,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,TOP,TOP
+ROGORA Laura,ITA,2.0,2.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,47+,TOP
+REKAR Rosa,SLO,3.0,3.16,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,41+,TOP
+SEO Chaehyun,KOR,4.0,4.9,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,42+,40+
+Raboutou Brooke,USA,5.0,6.32,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,41+,40+
+Rakovec Lucka,SLO,6.0,7.48,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,41,40+
+MACKENZIE Oceania,AUS,7.0,9.17,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39+,40+
+POUGET Camille,FRA,8.0,9.87,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,41+,39
+FISER Julia,AUT,9.0,10.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,40+,40
+MACIÀ MARTÍN Geila,ESP,9.0,10.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39,40+
+MCNEICE Erin,GBR,9.0,10.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39,40+
+AVEZOU Zélia,FRA,12.0,11.49,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,38+,40+
+HILY Manon,FRA,12.0,11.49,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,38+,40+
+PÖTZI Mattea,AUT,14.0,14.47,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39,39+
+TARKUS Lucija,SLO,15.0,15.23,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,33+,40+
+HIRANO Natsumi,JPN,16.0,15.3,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,40,37+
+VAN DER MEER Lynn,NED,17.0,17.43,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,37+,40
+KÖHLER  Anja,BRA,18.0,18.19,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39+,36+
+KOTAKE Mei,JPN,19.0,19.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,38,39
+MUGISHIMA Kohana,JPN,19.0,19.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,38,39
+DOUMONT Heloïse,BEL,21.0,20.62,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,39,36+
+MARTÍNEZ ALMENDROS Iziar,ESP,22.0,20.95,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,37+,39
+KIM Chaeyeong,KOR,23.0,23.79,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,39+
+TANII Natsuki,JPN,24.0,23.98,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,36+,38+
+BUCKLEY Jennifer Eucharia,SLO,25.0,24.19,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,37+,37+
+PLASSOUX DJIGA Ina,FRA,25.0,24.19,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,37+,37+
+SMETANOVA Michaela,CZE,27.0,25.97,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,38,36
+LINTANG CAHYANI Sukma,INA,28.0,26.68,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,39
+SIRUCKOVA Tereza,CZE,28.0,26.68,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,39
+KRAMPL Mia,SLO,30.0,27.46,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,36,37
+PILZ Jessica,AUT,31.0,28.39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,32+,37+
+CLARK Adriene Akiko,USA,32.0,30.22,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,33+,36+
+KOBETS Anastasiia,UKR,32.0,30.22,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,33+,36+
+SCHWAIGER Ines,AUT,34.0,30.81,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,37+
+LUO Zhilu,CHN,35.0,32.45,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,34,34+
+COPAR Sara,SLO,36.0,33.7,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,31+,36
+ODA Natsumi,JPN,37.0,37.73,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,34+
+APEL Anna Maria,GER,38.0,38.84,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29,36
+PIDGEON Cedar,CAN,39.0,40.71,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29,34+
+CHANOURDIE Julia,FRA,40.0,43.57,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,30
+SCOLARIS Ilaria,ITA,40.0,43.57,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,30
+HAMMELMÜLLER Eva Maria,AUT,42.0,43.99,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,25+,36
+PEETERMANS Zoe,GBR,43.0,44.86,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26+,33
+PFISTER Clotilde,FRA,44.0,44.93,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29,30+
+BONNAL Lana,FRA,45.0,45.41,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29+,29+
+GHISOLFI Claudia,ITA,46.0,45.93,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26+,32+
+SHIRAN Noa,ISR,47.0,46.23,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26,33
+LOOSER Noé,SUI,48.0,46.74,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,27,30+
+EGLI Liv,SUI,49.0,48.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26+,30+
+KOBAYASHI Mai,JPN,50.0,49.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,29,29+
+NICELLI Savina,ITA,51.0,50.01,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,23+,32+
+CONTRERAS Alejandra,CHI,52.0,50.88,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,25+,30+
+SCOTT Emily,AUS,52.0,50.88,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,25+,30+
+KIM Juha,KOR,54.0,53.24,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,27+,26+
+AGUADO Valentina,ARG,55.0,53.61,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,21+,30+
+CAMERON Thea,GBR,56.0,53.94,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26,29+
+WEI Yali,CHN,57.0,55.49,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,25+,29+
+DESHAYES Louna,FRA,58.0,57.0,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,23+,29+
+CHOI Jisu,KOR,59.0,59.03,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19,30
+ØVRE-EIDE Sunniva,NOR,60.0,60.31,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,26+,15
+Guttenberger Mia,GER,61.0,61.53,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19,29+
+Mason Quinn,USA,62.0,61.74,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,21+,26+
+ŠIMEKOVÁ Sára,SVK,63.0,62.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,21,26+
+VIVIAND Kaïna,FRA,64.0,63.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19+,26+
+DEMMEL Martina,GER,65.0,64.97,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19,26+
+WITTE Noor,NED,65.0,64.97,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19,26+
+BJARNASON Svana,ISL,67.0,65.23,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19+,25+
+CHOW Sienna,CAN,68.0,65.63,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,23,20
+TVEDT Pernille,NOR,69.0,68.73,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,19,21+
+PERRY Roxy,AUS,70.0,68.74,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,16+,26+
+CASTILLO Lianet,VEN,71.0,69.49,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,18+,24+
+HEIKKINEN Iris,FIN,72.0,71.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,17+,21+
+CABEZAS Matilde,CHI,73.0,71.68,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,16+,24+
+PARRADO Sofia,COL,74.0,73.44,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,18+,14+
+WONG Hei Kiu Heidi,HKG,75.0,73.48,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,16+,21
+HANGGI CORREIA Mariana,BRA,76.0,73.5,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,17,19
+TONINI Violeta,ARG,77.0,77.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,10+,14+
+DAVIES Maia Linda,RSA,78.0,78.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,10+,13+
+DOMÍNGUEZ CRISTERNA Analía,MEX,78.0,78.25,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,10+,13+
+GHAFFARI Sarina,IRI,,DNS,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,DNS,DNS
+HAMID NEZHAD Mahdisa,IRI,,DNS,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Women,Qualification,2025-07-11,/api/v1/category_rounds/9406/results,/api/v1/events/1414/result/5,DNS,DNS

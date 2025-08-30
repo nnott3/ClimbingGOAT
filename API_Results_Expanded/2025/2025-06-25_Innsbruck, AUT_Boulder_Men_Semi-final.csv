@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+ANRAKU Sorato,JPN,1,84.8,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,1,1,2,1,X,1,2,2
+LEE Dohyun,KOR,2,84.5,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,4,1,2,2,1,1
+SCHALCK Mejdi,FRA,3,54.5,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,4,1,X,2,X,1
+AMAGASA Sohta,JPN,4,54.4,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,2,X,2,4,2
+ROBERTS Toby,GBR,5,54.1,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,4,2,X,1,X,2,X,6
+MILNE Maximillian,GBR,6,44.9,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,X,1,1
+UZNIK Nicolai,AUT,7,39.8,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,3,X,1,X,1,X,1
+VAN DUYSEN Hannes,BEL,7,39.8,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,2,X,1
+PEHARC Anze,SLO,9,39.7,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,2,X,2
+SUGIMOTO Yusuke,JPN,10,39.6,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,3,X,1,X,2,X,2
+MOKROLUSKY Lukas,CZE,10,39.6,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,1,X,1,X,4,X,2
+JENFT Paul,FRA,12,39.5,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,1,X,1,X,1,X,6
+AKHTAR Dayan,GBR,13,39.3,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,7,X,1,X,1,X,2
+NARASAKI Meichi,JPN,14,39.2,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,3,X,6
+CHAN Cheung-Chi Shoji,HKG,15,39.1,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,5,X,1,X,4,X,3
+DUFFY Colin,USA,16,34.5,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,X,5,1,X,X,X,2
+MACDOUGALL Jack,GBR,17,29.8,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,2,X,1,X,X
+PAN Yufei,CHN,17,29.8,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,X,X,2
+BOLDRINI Luca,ITA,19,29.7,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,2,X,1,X,X,X,3
+PICCOLRUAZ Michael,ITA,20,29.6,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,5,X,1,X,X,X,1
+PEINADO FRANGANILLO Guillermo,ESP,20,29.6,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,4,X,1,X,X,X,2
+PRIHED Oren,ISR,22,29.4,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,1,X,1,X,X,X,7
+BARK Adi,ISR,22,29.4,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,5,X,2,X,X,X,2
+YAMAGUCHI Kento,JPN,24,19.6,IFSC World Cup Innsbruck 2025,1412,2025,"Innsbruck, AUT",Boulder,Men,Semi-final,2025-06-25,/api/v1/category_rounds/10119/results,/api/v1/events/1412/result/3,X,X,X,1,X,X,X,5

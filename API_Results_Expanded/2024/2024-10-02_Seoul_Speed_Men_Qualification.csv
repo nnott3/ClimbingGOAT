@@ -1,0 +1,57 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+KATIBIN Kiromal,INA,1.0,5.01,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.013,8.422
+LEONARDO Veddriq,INA,2.0,5.03,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.03,5.108
+WATSON Samuel,USA,3.0,5.04,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.045,DNF
+WU Peng,CHN,4.0,5.07,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.286,5.073
+NURSAMSA Raharjati,INA,5.0,5.09,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.099,6.961
+MAIMURATOV Amir,KAZ,6.0,5.11,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.114,6.171
+YASUKAWA Jun,JPN,7.0,5.16,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.162,DNF
+TKACH Yaroslav,UKR,8.0,5.18,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.319,5.181
+NOYA CARDONA Erik,ESP,9.0,5.19,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.195,5.315
+ZURLONI Matteo,ITA,10.0,5.20,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.836,5.201
+LIMPANICHPAKDEE Aphiwit,THA,11.0,5.222,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.317,5.222
+WANG Xinshang,CHN,12.0,5.227,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.12,5.227
+ASPAR Aspar,INA,13.0,5.23,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.23,5.315
+HOM Michael,USA,14.0,5.25,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.253,5.454
+PAVLENKO Kostiantyn,UKR,15.0,5.28,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.383,5.284
+LUCKE Sebastian,GER,16.0,5.295,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.412,5.295
+OMASA Ryo,JPN,17.0,5.297,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.297,8.536
+ALIPOUR SHENAZANDIFARD Reza,IRI,18.0,5.30,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.458,5.307
+MUHAMMAD FAJRI Alfian,INA,19.0,5.325,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.38,5.325
+HAMMER Zach,USA,20.0,5.328,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.328,6.423
+ADI MULYONO Rahmad,INA,21.0,5.34,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.406,5.344
+JUNG Yongjun,KOR,22.0,5.37,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.385,5.371
+LONG Jinbao,CHN,23.0,5.38,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.388,5.591
+SHIN Euncheol,KOR,24.0,5.413,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.413,5.483
+FOSSALI Ludovico,ITA,25.0,5.414,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,DNF,5.414
+ZODDA Gian Luca,ITA,26.0,5.419,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,8.043,5.419
+ALIPOURSHENAZANDIFARD Milad,IRI,27.0,5.43,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.435,11.09
+BOULOS Alessandro,ITA,28.0,5.49,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.789,5.494
+ILCHYSHYN Hryhorii,UKR,29.0,5.51,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.55,5.51
+ALTYNBEKOV Beknur,KAZ,30.0,5.52,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.742,5.521
+AMON Kevin,AUT,31.0,5.53,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,DNF,5.538
+MURAT Alisher,KAZ,32.0,5.55,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.556,5.701
+TANII Kazuki,JPN,33.0,5.56,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.568,8.992
+TOKTAROV Damir,KAZ,34.0,5.601,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.573,5.601
+KIM Dongjun,KOR,35.0,5.604,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.604,6.05
+KIM Younghyun,KOR,36.0,5.64,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.309,5.643
+ROBBIATI Luca,ITA,37.0,5.65 (6.294),IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.294,5.652
+CHOI Jongbin,KOR,38.0,5.65 (8.039),IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.652,8.039
+JENNINGS Ben,USA,39.0,5.662,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.865,5.662
+KNAPP Lukas,AUT,40.0,5.667,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.789,5.667
+CHAN Cheung-Chi Shoji,HKG,41.0,5.70,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.7,5.894
+BRATSCHI Noah,USA,42.0,5.75,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.439,5.753
+LEE Yongsu,KOR,43.0,5.78,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.787,6.883
+MOREL Jérôme,FRA,44.0,5.83,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.833,6.897
+KANG Minsu,KOR,45.0,5.851,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.91,5.851
+BADER Linus,GER,46.0,5.854,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,7.329,5.854
+BARTON Hayden,AUS,47.0,5.88,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.883,5.911
+WONG Cheuk-Nam,HKG,48.0,5.91,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,5.979,5.911
+DAVID Julian,NZL,49.0,6.50,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.507,6.866
+ABU ERGEEB Nasser,KUW,50.0,6.51,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,6.876,6.512
+JOHNSTON Ned,NZL,51.0,7.29,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,11.253,7.297
+JO Jinyong,KOR,52.0,7.49,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,9.779,7.497
+FUJINO Shuto,JPN,53.0,8.24,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,8.243,9.2
+MENGUAL Max,FRA,54.0,FALL,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,DNF,DNF
+LONG Jianguo,CHN,55.0,FALSE START,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,DNS,DNS
+MANDAKHBAYAR Chuluunbaatar,MGL,,DNS,IFSC World Cup Seoul 2024,1361,2024,Seoul,Speed,Men,Qualification,2024-10-02,/api/v1/category_rounds/8532/results,/api/v1/events/1361/result/2,,

@@ -1,0 +1,9 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+LEE Dohyun,KOR,1,40+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,40+
+GINÉS LÓPEZ Alberto,ESP,2,40,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,40
+YOSHIDA Satone,JPN,3,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,39+
+DUFFY Colin,USA,4,39+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,39+
+ANRAKU Sorato,JPN,5,39,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,39
+OMATA Shion,JPN,6,38+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,38+
+SUZUKI Neo,JPN,7,33,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,33
+Konecny Jakub,CZE,8,30+,IFSC World Cup Comunidad de Madrid 2025,1454,2025,"Madrid, ESP",Lead,Men,Final,2025-07-18,/api/v1/category_rounds/10167/results,/api/v1/events/1454/result/1,30+

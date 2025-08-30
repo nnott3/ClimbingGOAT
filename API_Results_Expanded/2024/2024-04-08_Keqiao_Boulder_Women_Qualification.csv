@@ -1,0 +1,61 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone,P5_Top,P5_Zone
+Garnbret Janja,SLO,1,5T5z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,1,1,1,1,1,1
+Nonaka Miho,JPN,1,5T5z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,1,1,1,1,1,1
+Mackenzie Oceania,AUS,1,5T5z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,1,1,1,1,1,1
+Mcneice Erin,GBR,4,4T5z 7 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,1,1,X,3,2,2,2,2
+ITO Futaba,JPN,5,5T5z 7 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,1,1,1,1,1,1,1,2,2
+Condie Kyra,USA,5,3T5z 4 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,5,X,2,2,2
+LUO ZHILU,CHN,7,5T5z 8 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,2,2,3,2,1,1
+Nakamura Mao,JPN,7,3T5z 5 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,3,1,X,4,X,2,1,1
+Pilz Jessica,AUT,9,3T5z 11 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,4,3,3,2,X,4,X,4,4,2
+Richardson Madison,CAN,9,5T5z 9 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,2,1,3,1,2,2,1,1
+Avezou Zélia,FRA,11,5T5z 9 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,1,1,2,2,3,3,1,1
+Matsufuji Anon,JPN,11,3T4z 3 4,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,X,X,1,1,1
+Krampl Mia,SLO,13,3T4z 4 4,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,X,X,1,2,1
+ISHII Miku,JPN,13,4T5z 7 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,1,2,2,3,2
+SEO Chaehyun,KOR,15,3T4z 4 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,1,1,X,X,X,2,1,1
+Moroni Camilla,ITA,15,4T5z 11 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,1,6,1,3,3
+Gejo Stasa,SRB,17,4T4z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,1,1,X,X,1,1,1,1
+Meul Hannah,GER,17,3T4z 4 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,1,1,X,X,X,5,1,1
+Caulier Chloe,BEL,19,3T4z 6 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,3,1,1,1,X,X,X,2,2,2
+Apel Anna Maria,GER,19,3T5z 3 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,1,1,1,1,X,2,1,1
+Sterrer Franziska,AUT,21,3T5z 4 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,1,1,1,X,1,1,1,X,1
+Bestvater Alma,GER,21,3T4z 7 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,2,2,1,X,X,X,5,3,3
+Hönig Afra,GER,23,2T4z 3 4,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,1,1,X,X,X,1,2,1
+Rogora Laura,ITA,23,3T5z 6 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,4,4,1,1,X,1,X,1,1,1
+NAKAGAWA Ryu,JPN,25,3T5z 7 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,1,1,X,2,3,1,3,3
+Dreamer Maya,ISR,25,2T4z 3 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,2,1,X,4,X,X,X,3,1,1
+Gibert Fanny,FRA,27,2T4z 4 13,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,4,2,1,X,X,X,6,2,2
+Zhang YUETONG,CHN,27,3T5z 9 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,5,2,1,1,X,1,X,2,3,2
+Tesio Giorgia,ITA,29,2T4z 5 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,1,1,X,X,X,4,4,1
+KIM Jain,KOR,29,3T5z 11 18,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,4,3,1,1,X,3,6,6,X,5
+Klingler Petra,SUI,31,3T4z 5 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,3,1,1,X,X,2,2,2,2
+SEO Yejoo,KOR,31,2T4z 6 17,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,2,2,X,X,X,11,4,2
+Yokoyama Sofya,SUI,33,2T4z 8 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,3,3,X,1,X,X,X,1,5,2
+Lechner Anna,GER,33,3T4z 6 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,3,3,1,1,X,X,X,2,2,1
+Shiran Noa,ISR,35,3T4z 11 14,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,3,1,1,X,X,1,1,9,9
+Gillett Helen,USA,35,2T4z 9 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,5,4,X,X,X,6,4,3
+Kerem Ayala,ISR,37,2T3z 2 3,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,1,1,1,1,X,X,X,1,X,X
+Sanders Nekaia,USA,37,2T4z 3 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,2,2,X,X,X,1,1,1
+Kindlihagen Ingrid,NOR,39,2T4z 4 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,3,1,X,X,X,2,1,1
+CHEN XUANZHEN,CHN,39,2T3z 2 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,3,1,1,X,X,X,X,1,1
+Thompson-Smith Molly,GBR,41,1T4z 1 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,1,1,X,X,X,2,X,7
+Aguado Valentina,ARG,41,2T4z 7 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,6,6,X,X,X,1,1,1
+WEI YALI,CHN,43,1T4z 2 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,X,4,X,X,X,8,2,2
+WU CHUNHUA,CHN,43,2T3z 6 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,2,1,X,X,X,X,4,3
+Rekabi Elnaz,IRI,45,1T4z 3 14,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,3,1,X,X,X,9,X,2
+Stasiuk Maya,AUS,45,1T4z 3 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,X,3,X,X,X,1,3,3
+Färber Johanna,AUT,47,1T4z 6 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,X,1,X,X,X,2,6,6
+Yao Ting-Chen,TPE,47,1T3z 5 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,5,3,X,X,X,X,X,3
+LI JINGYU,CHN,49,0T4z 0 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,X,1,X,X,X,1,X,1
+MI YAWEN,CHN,49,1T3z 2 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,X,3,X,X,X,X,2,2
+Köhler  Anja,BRA,51,1T2z 1 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,5,X,X,X,X,X,X,1,1
+Tan Eilin,SGP,51,0T4z 0 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,X,1,X,X,X,5,X,8
+van der Meer Lynn,NED,53,0T3z 0 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,3,X,2,X,X,X,X,X,1
+Scott Emily,AUS,53,0T3z 0 14,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,5,X,X,X,X,X,6,X,3
+Storå Regine,NOR,55,0T2z 0 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,3,X,X,X,X,X,X,X,2
+HSIEH Yun-Shan,TPE,55,0T1z 0 1,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,X,X,X,X,X,X,X,X,1
+Goh Sihui Natalie,SGP,57,0T1z 0 2,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,2,X,X,X,X,X,X,X,X
+Gao Ziqi Elly,HKG,57,0T1z 0 1,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,1,X,X,X,X,X,X,X,X
+Lei Si Wan,MAC,59,0T1z 0 3,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,X,X,X,X,X,X,X,X,3
+Tan Sui Lin Renee,MAS,59,0T1z 0 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Women,Qualification,2024-04-08,/api/v1/category_rounds/8509/results,/api/v1/events/1353/result/7,X,7,X,X,X,X,X,X,X,X

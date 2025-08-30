@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+YOSHIDA Satone,JPN,1,36+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,36+
+FLOHÉ Yannick,GER,2,35+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,35+
+GINÉS LÓPEZ Alberto,ESP,3,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,33+
+SUZUKI Neo,JPN,4,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,33+
+LEE Dohyun,KOR,5,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,33+
+OMATA Shion,JPN,6,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,33+
+RIZKY SYAHRAFLI SIMATUPANG Muhammad,INA,7,33+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,33+
+BERTONE Max,FRA,8,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,31+
+SCHENK Filip,ITA,9,31+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,31+
+HOMMA Taisei,JPN,10,30,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,30
+SHIMIZU Hiroto,JPN,11,30,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,30
+NOH Hyunseung,KOR,12,30,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,30
+GRUPPER Jesse,USA,13,28+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,28+
+PLACCI Giovanni,ITA,14,25+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,25+
+LEHMANN Sascha,SUI,15,25,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,25
+ANRAKU Sorato,JPN,16,24+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24+
+TRI RAMADANI Putra,INA,17,24+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24+
+RAMADHAN Raviandi,INA,18,24+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24+
+GUILLERMIN Victor,FRA,19,24+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24+
+VANCRAEYNEST Ties,BEL,20,24+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24+
+UTELLI Jonas,SUI,21,24,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24
+STRANIK Martin,CZE,22,24,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,24
+GRÜNENFELDER Nino,SUI,23,21,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,21
+HALENKE Sebastian,GER,24,17+,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Semi-final,2025-05-02,/api/v1/category_rounds/9981/results,/api/v1/events/1407/result/1,17+

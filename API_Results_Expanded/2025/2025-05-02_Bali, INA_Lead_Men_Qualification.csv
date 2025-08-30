@@ -1,0 +1,56 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+ANRAKU Sorato,JPN,1,2.12,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,32+,TOP
+YOSHIDA Satone,JPN,1,2.12,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,32+,TOP
+GINÉS LÓPEZ Alberto,ESP,3,3.67,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,32+,36+
+SUZUKI Neo,JPN,4,4.74,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,30+,39+
+FLOHÉ Yannick,GER,5,6.6,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,32+,34+
+UTELLI Jonas,SUI,6,6.71,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,30+,36
+LEHMANN Sascha,SUI,7,10.45,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,27,35
+TRI RAMADANI Putra,INA,8,10.82,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19+,36+
+GRUPPER Jesse,USA,9,11.09,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,32+,29+
+GRÜNENFELDER Nino,SUI,10,11.11,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,25+,35
+HOMMA Taisei,JPN,11,12.91,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,27,34+
+RAMADHAN Raviandi,INA,12,13.28,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,30+,33+
+PLACCI Giovanni,ITA,13,14.36,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,30+,32
+BERTONE Max,FRA,14,16.82,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21,34+
+LEE Dohyun,KOR,14,16.82,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21,34+
+GUILLERMIN Victor,FRA,16,16.88,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,35+
+SCHENK Filip,ITA,16,16.88,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,35+
+SHIMIZU Hiroto,JPN,18,17.32,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,22,34
+OMATA Shion,JPN,19,18.14,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,22+,33+
+NOH Hyunseung,KOR,20,18.26,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,20,34+
+VANCRAEYNEST Ties,BEL,21,19.69,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21+,33+
+STRANIK Martin,CZE,22,19.75,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21,34
+HALENKE Sebastian,GER,23,20.25,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,27+,29+
+RIZKY SYAHRAFLI SIMATUPANG Muhammad,INA,24,20.51,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19,34+
+NAGEL Yannick,GER,25,20.98,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,20+,34
+FAN Chih-En,TPE,26,22.62,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21+,31+
+MUSAUWIR Musauwir,INA,27,23.16,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,21,32
+PAN Yufei,CHN,28,23.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,34+
+POTOCAR Luka,SLO,28,23.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,34+
+CONLON Rhys,GBR,30,26.74,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19+,32
+HANKE Christoph,GER,31,28.39,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19+,31+
+STIPEK Jan,CZE,32,29.88,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,33+
+MARTIN Philipp,GER,33,32.33,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,32
+URRUTIA Joaquin,CHI,34,32.65,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19+,29+
+CHEN Yongchen,CHN,35,35.14,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,19+,28+
+BAUDRAND Victor,CAN,36,36.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,30+
+RÂPĂ Darius,ROU,36,36.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,30+
+AUEAREECHIT Auswin,THA,38,39.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,29+
+Lakhno Sergey,USA,38,39.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,29+
+Osgood Declan,USA,38,39.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,29+
+TOMATIS Giorgio,ITA,38,39.47,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,29+
+RAMADHAN Ravianto,INA,42,39.76,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,13+,31+
+MOKROLUSKY Lukas,CZE,43,41.41,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,15+,30+
+SCHERZ Stefan,AUT,43,41.41,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,15+,30+
+CREP Lovro,SLO,43,41.41,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,15+,30+
+JENKINS James,GBR,46,42.49,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,28+
+KIM Dohyeon,KOR,46,42.49,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,28+
+POTUCEK Simon,CZE,46,42.49,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,28+
+HO FOGANHOLO Felipe,BRA,49,44.02,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,24+
+GOH WEN BIN Luke,SGP,50,44.67,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16+,21+
+CHAN Cheung-Chi Shoji,HKG,51,45.99,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,16,29
+TAN Ian,CAN,52,50.99,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,10+,25+
+FIRMANSYAH Muhammad Ramzi,INA,53,53.0,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,9+,21+
+Dylan Seow Yong Kang,SGP,54,54.24,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,9+,15
+JOHNSON Joseph,RSA,55,54.5,IFSC World Cup Bali 2025,1407,2025,"Bali, INA",Lead,Men,Qualification,2025-05-02,/api/v1/category_rounds/9387/results,/api/v1/events/1407/result/1,9,19

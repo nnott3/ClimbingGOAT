@@ -1,0 +1,26 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone
+BERTONE Oriane,FRA,1,84.8,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,1,1,3,2,1,1,X,1
+CALLIET Agathe,FRA,2,69.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,1,3,2,2,1,X,1
+SEKIKAWA Melody,JPN,3,69.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,1,4,1,3,3,X,1
+MCNEICE Erin,GBR,4,69.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,2,1,5,4,X,3,X,1
+EDWARDS Emma,GBR,5,54.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,2,3,3,X,2,X,2
+Matsufuji Anon,JPN,5,54.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,2,X,3,X,3,1,1
+BUCKLEY Jennifer Eucharia,SLO,7,54.1,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,2,6,2,X,4,X,1
+MACIÀ MARTÍN Geila,ESP,8,53.8,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,3,8,7,X,3,X,2
+NONAKA Miho,JPN,9,44.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,1,1,X,5,X,X,X,1
+ABRIAT Lily,FRA,10,44.4,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,6,2,1,X,1
+MACKENZIE Oceania,AUS,11,44.3,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,3,5,2,X,X,X,2
+SANDERS Annie,USA,12,44.1,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,6,X,5,1,1
+CAULIER Chloe,BEL,13,39.4,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,4,X,3,X,2,X,1
+OBLASSER Flora,AUT,14,39.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,3,X,9,X,1,X,1
+KEREM Ayala,ISR,15,38.5,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,7,X,8,X,2,X,2
+MORONI Camilla,ITA,16,34.1,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,9,8,X,X,X,2
+CONDIE Kyra,USA,17,29.1,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,1,X,10,X,X,X,1
+Mori Ai,JPN,18,24.9,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,X,2,1,X,X
+NAKAMURA Mao,JPN,19,19.9,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,X,X,1,X,2
+SAUREL Lucile,FRA,20,19.6,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,2,X,X,X,X,X,4
+GIACANI Stella,ITA,21,19.2,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,4,X,X,X,6
+CLARK Adriene Akiko,USA,22,19.0,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,9,X,X,X,3
+ELHADJ MIMOUNE Selma,FRA,23,9.8,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,X,X,X,X,3
+SEO Chaehyun,KOR,24,9.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,X,X,X,X,X,X,4
+HÖNIG Afra,GER,24,9.7,IFSC World Cup Prague 2025,1410,2025,"Prague, CZE",Boulder,Women,Semi-final,2025-06-06,/api/v1/category_rounds/10038/results,/api/v1/events/1410/result/7,X,4,X,X,X,X,X,X

@@ -1,0 +1,28 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+HUNT Emma,USA,1,6.36,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.363,6.715
+KALUCKA Natalia,POL,2,6.44,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.44,6.562
+DENG Lijuan,CHN,3,6.50,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.64,6.502
+ZHOU Yafei,CHN,4,6.56,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.56,6.715
+QIN Yumei,CHN,5,6.74,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.917,6.744
+ZHANG Shaoqin,CHN,6,6.79,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.582,6.795
+MENG Shixue,CHN,7,6.95,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,6.95,9.537
+KELLY Piper,USA,8,7.02,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.183,7.029
+RANDI  Giulia,ITA,9,7.24,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.074,7.249
+COLLI Beatrice,ITA,10,7.28,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.284,8.206
+ULZHABAYEVA Tamara,KAZ,11,7.330,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.75,7.33
+ROMERO PÉREZ Leslie Adriana,ESP,12,7.338,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,DNF,7.338
+ROJAS Andrea,ECU,13,7.35,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,DNF,7.358
+YANG Mi,CHN,14,7.42,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.424,8.085
+ROTHFORK Isis,USA,15,7.49,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.492,DNF
+CHUDZIAK Patrycja,POL,16,7.67,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.847,7.672
+WALSH Madi,USA,17,7.79,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,9.166,7.797
+MACIAS FERREIRA Valeria,MEX,18,7.82,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.288,7.826
+CURCIO Sophia,USA,19,7.93,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,7.936,8.866
+TKACHOVA Daria,UKR,20,7.99,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,9.06,7.999
+BALARSHINA Anna,KAZ,21,8.09,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,12.578,8.095
+PATAJO Micaela,USA,22,8.32,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.496,8.322
+RUNNELS Liberty,USA,23,8.37,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,9.801,8.378
+NGUYEN Lily,USA,24,8.39,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.396,9.085
+FIORIO Agnese,ITA,25,8.96,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,8.963,9.003
+TAKEUCHI Emiko,USA,26,9.46,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,9.469,10.405
+MORIN Aleya,CAN,27,9.58,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Women,Qualification,2025-05-31,/api/v1/category_rounds/9743/results,/api/v1/events/1455/result/6,9.989,9.589

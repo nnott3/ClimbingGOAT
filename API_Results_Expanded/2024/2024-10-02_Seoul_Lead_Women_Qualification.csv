@@ -1,0 +1,51 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+MCNEICE Erin,GBR,1,4.74,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,TOP,TOP
+MORI Ai,JPN,1,4.74,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,TOP,TOP
+PILZ Jessica,AUT,1,4.74,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,TOP,TOP
+SEO Chaehyun,KOR,1,4.74,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,TOP,TOP
+ZHANG Yuetong,CHN,1,4.74,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,TOP,TOP
+Sanders Anastasia,USA,6,6.71,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,47,TOP
+TANII Natsuki,JPN,7,7.98,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,46+,TOP
+AVEZOU Zélia,FRA,8,9.08,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,44,TOP
+KRAMPL Mia,SLO,9,11.29,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,TOP
+LUO Zhilu,CHN,9,11.29,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,TOP
+ROGORA Laura,ITA,9,11.29,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,TOP
+KIM Jain,KOR,12,12.02,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,46+,39+
+JANICOT Hélène,FRA,13,13.13,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42,TOP
+KOTAKE Mei,JPN,14,13.2,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,46+,35
+COPAR Sara,SLO,15,13.56,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,41+,TOP
+TAKAO Tomona,JPN,16,14.75,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,38,TOP
+SMETANOVA Michaela,CZE,17,15.97,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,46+,33+
+VAN DER MEER Lynn,NED,18,16.49,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,40
+PÖTZI Mattea,AUT,19,17.97,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,35+
+POUGET Camille,FRA,20,18.67,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,35
+Rekar Rosa,SLO,21,21.0,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,41+,38+
+CHO Gayeon,KOR,22,21.02,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,34
+ITO Futaba,JPN,22,21.02,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,34
+FISER Julia,AUT,24,22.08,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,33,40+
+MACKENZIE Oceania,AUS,25,22.58,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,33+
+MORONI Camilla,ITA,25,22.58,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,33+
+HAN Seuran,KOR,27,23.32,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,42+,32+
+ODA Natsumi,JPN,28,24.19,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,41,34+
+SEO Yejoo,KOR,29,26.2,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,37+,34+
+NAKAMURA Mao,JPN,30,26.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,40+,34
+KIM Chaeyeong,KOR,31,26.98,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,38+,34
+TARKUS Lucija,SLO,32,28.16,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,37+,34
+OH Gayeong,KOR,33,33.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,32+,31+
+KREMER Valeri,ISR,34,34.44,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,33,28+
+CHEN Xuanzhen,CHN,35,34.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,30+,30+
+PERRY Roxy,AUS,36,37.24,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,28+,28+
+HONG Yubin,KOR,37,37.42,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,24+,29+
+TENG Vanessa Si Yinn,SGP,38,37.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,29+,28
+SCOTT Emily,AUS,39,37.71,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,30,25+
+YAO Ting-Chen,TPE,40,39.75,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,24+,25+
+BJARNASON Svana,ISL,41,40.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,24+,23+
+HEIKKINEN Iris,FIN,42,42.99,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,22+,17
+TVEDT Pernille,NOR,43,43.0,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,21+,18
+CHEN Shin Yee,MAS,44,44.43,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,16+,19+
+LEI Si Wan,MAC,45,44.99,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,19+,15+
+OATES Tegwen,RSA,46,45.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,18+,15+
+CHEN CHEN Melissa Esther,PER,47,46.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,16+,15+
+ALERWI Rowaida,KSA,48,47.5,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,16+,14
+BAKER Kylie,GUM,49,49.25,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,9+,13
+YSRAEL Victoria,GUM,50,49.75,IFSC World Cup Seoul 2024,1361,2024,Seoul,Lead,Women,Qualification,2024-10-02,/api/v1/category_rounds/8531/results,/api/v1/events/1361/result/5,9+,11+

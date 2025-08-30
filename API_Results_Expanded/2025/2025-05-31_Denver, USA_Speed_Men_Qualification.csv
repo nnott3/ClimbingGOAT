@@ -1,0 +1,52 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Quali_time_B,Quali_time_A
+KATIBIN Kiromal,INA,1,4.83,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,4.83,4.912
+HAMMER Zach,USA,2,4.88,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,DNF,4.888
+WATSON Samuel,USA,3,4.89,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,4.921,4.895
+CHU Shouhong,CHN,4,4.90,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.009,4.909
+LONG Jianguo,CHN,5,5.03,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.032,5.038
+MAIMURATOV Amir,KAZ,6,5.04,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.168,5.049
+CARMANNS Leander,GER,7,5.095,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.175,5.095
+HOM Michael,USA,8,5.099,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.099,5.258
+ALTYNBEKOV Beknur,KAZ,9,5.11,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.116,5.425
+LI Xu,CHN,10,5.12,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.288,5.126
+ZURLONI Matteo,ITA,11,5.15,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.156,DNF
+OMASA Ryo,JPN,12,5.16,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,DNF,5.165
+NOYA CARDONA Erik,ESP,13,5.19,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.192,5.195
+ROBBIATI Luca,ITA,14,5.21,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.083,5.217
+YANG Jie,CHN,15,5.22,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.229,5.248
+BOULOS Alessandro,ITA,16,5.245,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,DNF,5.245
+ERNSBERGER Merritt,USA,17,5.247,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.247,5.278
+ZODDA Gian Luca,ITA,18,5.252,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.252,6.286
+UMLAUF Aodhan,GER,19,5.255,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.409,5.255
+FOSSALI Ludovico,ITA,20,5.258,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.414,5.258
+TKACH Yaroslav,UKR,21,5.27,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,DNF,5.27
+LUCKE Sebastian,GER,22,5.28,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,7.312,5.287
+DAVID Julian,NZL,23,5.306,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.368,5.306
+MUHAMMAD FAJRI Alfian,INA,24,5.309,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.309,5.499
+AMON Kevin,AUT,25,5.31,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.312,DNF
+TOKTAROV Damir,KAZ,26,5.331,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.465,5.331
+JUNG Yongjun,KOR,27,5.332,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.332,DNF
+GRANJA LOPEZ Carlos Felipe,ECU,28,5.357,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.357,DNF
+PITCHER Ethan,CAN,29,5.359,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.549,5.359
+JENNINGS Ben,USA,30,5.37,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.507,5.37
+SCHLECHT Logan,USA,31,5.38,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,10.001,5.389
+ZHANG Dingfeng,CHN,32,5.41,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.411,6.905
+BRATSCHI Noah,USA,33,5.46,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.463,8.117
+MURAT Alisher,KAZ,34,5.49,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.496,DNF
+GODDARD Aidan,USA,35,5.50,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.676,5.506
+RIVADENEIRA Paolo,ECU,36,5.51,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.608,5.511
+ROGERS Zaden,USA,37,5.56,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.566,6.487
+SHI Zechuan,CHN,38,5.69,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.699,DNF
+LEE Junwoo,KOR,39,5.74,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,7.334,5.742
+PLANGGER Tobias,AUT,40,5.80,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.8,DNF
+ABU ERGEEB Nasser,KUW,41,5.88,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.885,6.021
+FUJINO Shuto,JPN,42,5.90,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,5.902,6.408
+BOGESCHDORFER Lawrence,AUT,43,5.92,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.038,5.921
+TURNER Luke,GBR,44,6.09,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.09,DNF
+KALIBAY Zhandos,KAZ,45,6.19,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,8.605,6.192
+GOODALL Andrew,GBR,46,6.23,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.234,DNF
+BOSSERT Braeden,CAN,47,6.25,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.259,6.886
+EGG Pedro,BRA,48,6.43,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,6.43,7.831
+MAI Taede,USA,49,6.81,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,8.647,6.816
+KIM Dongjun,KOR,50,6.82,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,DNF,6.827
+BADER Linus,GER,51,7.98,IFSC World Cup Denver 2025,1455,2025,"Denver, USA",Speed,Men,Qualification,2025-05-31,/api/v1/category_rounds/9742/results,/api/v1/events/1455/result/2,7.984,DNF

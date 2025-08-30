@@ -1,0 +1,69 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,P1_Top,P1_Zone,P2_Top,P2_Zone,P3_Top,P3_Zone,P4_Top,P4_Zone,P5_Top,P5_Zone
+ANRAKU Sorato,JPN,1.0,5T5z 6 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,1,1,2,2,1,1,1,1
+Roberts Toby,GBR,1.0,4T5z 4 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,1,1,X,2,1,1,1,1
+NARASAKI Tomoa,JPN,3.0,4T5z 6 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,1,X,2,1,1,2,2
+KAYOTANI Ritsu,JPN,3.0,5T5z 11 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,2,2,1,1,5,4
+Van Duysen Hannes,BEL,5.0,4T5z 5 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,1,1,1,1,X,1,2,2
+YOSHIDA Satone,JPN,5.0,4T4z 7 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,X,X,1,1,3,2
+NARASAKI Meichi,JPN,7.0,4T5z 7 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,3,1,2,2,X,1,1,1
+Avezou Sam,FRA,7.0,3T5z 4 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,X,3,X,1,1,1
+Duffy Colin,USA,9.0,4T5z 7 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,1,1,X,4,3,3
+Uznik Nicolai,AUT,9.0,3T5z 10 12,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,4,4,X,1,X,1,5,5
+CHON Jongwon,KOR,11.0,3T4z 7 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,1,3,3,X,X,1,1,X,3
+Peharc Anze,SLO,11.0,4T5z 8 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,4,1,X,1,1,1
+Schubert Jakob,AUT,13.0,2T5z 3 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,X,1,X,1,X,1
+Levin Ram,ISR,13.0,4T5z 9 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,5,4,1,1,1,1,X,1,2,2
+LEE Dohyun,KOR,15.0,2T5z 3 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,1,X,3,X,1,2,2
+Mawem Mickael,FRA,15.0,4T4z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,1,1,2,2,X,X,1,1
+Posch Jan-Luca,AUT,17.0,3T5z 7 12,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,1,1,3,3,X,3,3,3
+Fujiwaki Yuji,JPN,17.0,2T5z 3 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,X,3,X,2,X,1
+Milne Maximillian,GBR,19.0,2T5z 4 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,1,2,2,X,2,X,1,X,4
+Akhtar Dayan,GBR,19.0,3T5z 10 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,6,6,3,1,1,1,X,1,X,1
+Ogata Yoshiyuki,JPN,21.0,3T4z 4 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,1,1,2,2,X,X,X,2
+Collin Nicolas,BEL,21.0,2T5z 7 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,1,X,3,X,3,X,1,4,2
+Lehmann Sascha,SUI,21.0,3T4z 4 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,2,X,2,1,1,X,X,1,1
+Schenk Filip,ITA,24.0,2T4z 3 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,2,2,X,X,X,1,X,2
+MacDougall Jack,GBR,25.0,2T4z 5 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,1,X,4,X,X,X,3,3,2
+RAMADHAN RAVIANTO,INA,25.0,3T4z 6 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,2,2,2,2,2,X,1,X,X
+Marcus Nimrod,ISR,27.0,3T4z 8 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,1,4,2,1,1,X,X,X,3
+von Freier Lasse,GER,27.0,2T4z 6 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,1,3,1,X,X,X,1,X,4
+Lorenzi Simon,BEL,29.0,2T4z 8 10,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,7,5,X,X,X,1,X,3
+AMAGASA Sohta,JPN,29.0,3T4z 9 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,1,2,1,X,X,6,2
+Cornu Manuel,FRA,31.0,3T4z 13 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,7,1,4,2,X,4,X,X,2,2
+SONG Yunchan,KOR,31.0,1T4z 1 16,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,7,X,X,X,1,X,7
+YAMADA Kodai,JPN,33.0,1T4z 2 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,1,X,1,X,X,X,1,X,8
+HU JUNZHE,CHN,33.0,3T3z 11 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,4,3,4,1,3,1,X,X,X,X
+Gruzitis Edvards,LAT,35.0,2T4z 10 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,6,1,X,1,X,2,X,X,4,3
+YAO JINWEI,CHN,35.0,1T4z 2 12,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,2,2,X,X,X,3,X,6
+Kleesattel Max,GER,37.0,1T4z 3 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,2,X,1,X,X,X,2,X,2
+Arriagada Krüger Elias,GER,37.0,2T3z 5 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,2,2,X,X,X,X,3,2
+Potocar Luka,SLO,39.0,2T3z 7 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,3,3,4,4,X,1,X,X,X,X
+RAMADHAN RAVIANDI,INA,39.0,1T4z 4 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,4,1,X,2,X,1,X,1,X,X
+Levin Geva,ISR,41.0,1T4z 2 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,X,1,2,1,X,X,X,2
+Harrison Campbell,AUS,41.0,1T3z 1 3,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,1,X,X,X,1,X,X
+Clémence Julien,SUI,43.0,1T3z 1 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,4,X,X,X,1,X,X
+GOH WEN BIN Luke,SGP,43.0,1T3z 1 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,1,1,X,4,X,X,X,1,X,X
+Ghisolfi Stefano,ITA,43.0,1T4z 2 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,1,X,6,X,4,X,4,X,X
+XU ZIQI,CHN,46.0,1T4z 9 9,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,9,3,X,1,X,2,X,X,X,3
+Lok Wan Tong,MAC,47.0,1T3z 1 4,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,X,X,1,1,X,1,X,X
+Hibbeler Simon,USA,47.0,0T4z 0 7,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,1,X,X,X,2,X,3
+Hoyer Hugo,USA,49.0,0T4z 0 12,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,2,X,X,X,1,X,8
+Martin Nathan,LUX,49.0,1T3z 2 11,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,2,1,X,1,X,X,X,X,X,9
+AUEAREECHIT Auswin,THA,51.0,1T3z 6 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,1,X,X,X,X,6,6
+FU JIAHAO,CHN,51.0,0T4z 0 15,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,X,7,X,X,X,1,X,5
+McNamee Guy,CAN,53.0,1T2z 3 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,3,3,3,X,X,X,X,X,X
+Familrohani Hossein,IRI,53.0,0T4z 0 16,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,10,X,X,X,1,X,4
+HO Cheuk-hei,HKG,55.0,1T2z 6 4,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,X,X,6,2,X,X,X,X
+FAN Chih-En,TPE,55.0,0T4z 0 17,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,8,X,X,X,1,X,7
+Baudrand Victor,CAN,57.0,0T3z 0 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,2,X,X,X,X,X,3
+WANG BINGTANG,CHN,57.0,0T4z 0 17,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,5,X,4,X,4,X,X,X,4
+Iasi Hanada Rodrigo,BRA,59.0,0T3z 0 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,5,X,X,X,X,X,2
+Salimian Ali,IRI,59.0,0T3z 0 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,6,X,X,X,1,X,X
+Bergant Martin,SLO,61.0,0T2z 0 2,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,X,X,X,X,X,X,1
+CHEN YONGCHEN,CHN,61.0,0T2z 0 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,X,X,X,X,4,X,X
+Parks Dylan,AUS,63.0,0T2z 0 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,1,X,5,X,X,X,X,X,X
+KE QUN TAO,MAS,63.0,0T2z 0 8,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,7,X,X,X,1,X,X,X,X
+Gancedo Yago,MEX,63.0,0T2z 0 6,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,3,X,X,X,X,X,X,X,3
+Gan Ming Shu,TPE,66.0,0T1z 0 5,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,5,X,X,X,X,X,X,X,X
+FIRAS MUHAMMAD AYMAN,MAS,67.0,0T1z 0 2,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,2,X,X,X,X,X,X,X,X
+Lovenjak Sudar Zan,SLO,,DNS,IFSC World Cup Keqiao 2024,1353,2024,Keqiao,Boulder,Men,Qualification,2024-04-08,/api/v1/category_rounds/8508/results,/api/v1/events/1353/result/3,X,X,X,X,X,X,X,X,X,X

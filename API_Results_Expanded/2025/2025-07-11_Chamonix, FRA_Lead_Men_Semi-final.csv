@@ -1,0 +1,25 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+GINÉS LÓPEZ Alberto,ESP,1,39,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,39
+ANRAKU Sorato,JPN,2,37+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37+
+OMATA Shion,JPN,3,37+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37+
+DUFFY Colin,USA,4,37+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37+
+SCHENK Filip,ITA,5,37+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37+
+POTOCAR Luka,SLO,6,37,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37
+UTELLI Jonas,SUI,7,37,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,37
+YOSHIDA Satone,JPN,8,36+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,36+
+LEE Dohyun,KOR,9,36+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,36+
+FLOHÉ Yannick,GER,10,36+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,36+
+GHISOLFI Stefano,ITA,11,36+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,36+
+STRANIK Martin,CZE,12,36,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,36
+VAN DUYSEN Hannes,BEL,13,35+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,35+
+GRUPPER Jesse,USA,14,33,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,33
+NOH Hyunseung,KOR,15,31+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,31+
+AVEZOU Sam,FRA,16,30+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,30+
+MEGOS Alexander,GER,17,30+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,30+
+NAGEL Yannick,GER,18,30+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,30+
+BERTONE Max,FRA,19,30+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,30+
+ROBERTS Toby,GBR,20,28+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,28+
+SUZUKI Neo,JPN,21,26+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,26+
+PLACCI Giovanni,ITA,22,26+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,26+
+PAN Yufei,CHN,23,26+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,26+
+PEINADO FRANGANILLO Guillermo,ESP,24,26+,IFSC World Cup Chamonix 2025,1414,2025,"Chamonix, FRA",Lead,Men,Semi-final,2025-07-11,/api/v1/category_rounds/10133/results,/api/v1/events/1414/result/1,26+

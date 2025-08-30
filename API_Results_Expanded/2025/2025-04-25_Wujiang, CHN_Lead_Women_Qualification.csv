@@ -1,0 +1,61 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1,Route_2
+MCNEICE Erin,GBR,1,2.24,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,TOP,TOP
+SANDERS Annie,USA,1,2.24,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,TOP,TOP
+SEO Chaehyun,KOR,1,2.24,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,TOP,TOP
+MACKENZIE Oceania,AUS,4,5.2,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,40+,42+
+ROGORA Laura,ITA,5,9.15,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,TOP
+PÖTZI Mattea,AUT,6,9.17,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,33,39
+KIM Chaeyeong,KOR,7,9.8,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,42+
+ZHANG Yuetong,CHN,8,11.02,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,40+,37
+DOUMONT Heloïse,BEL,9,12.17,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,30+,38+
+COPAR Sara,SLO,10,12.41,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,31+,38
+KIM Juha,KOR,11,12.65,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,39+
+KRAMPL Mia,SLO,12,13.26,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26+,38+
+TANII Natsuki,JPN,13,14.18,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,42+
+Rekar Rosa,SLO,14,14.97,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,39
+LUKAN Vita,SLO,15,16.37,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,41+
+APEL Anna Maria,GER,16,18.3,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,39+
+OBLASSER Flora,AUT,16,18.3,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,39+
+BUCKLEY Jennifer Eucharia,SLO,18,20.0,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,37+
+Madere Maya,USA,19,21.13,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26+,26
+SCOLARIS Ilaria,ITA,20,21.35,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,36
+SIRUCKOVA Tereza,CZE,20,21.35,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,36
+JANICOT Hélène,FRA,22,21.66,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,39
+LINTANG CAHYANI Sukma,INA,22,21.66,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,39
+ODA Natsumi,JPN,22,21.66,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,39
+FISER Julia,AUT,25,22.09,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,35+
+SHIRAN Noa,ISR,26,22.98,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,35
+SMETANOVA Michaela,CZE,26,22.98,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,35
+WIENAND Roxana,GER,26,22.98,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,35
+CLARK Adriene Akiko,USA,29,24.89,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,38+
+NAKAGAWA Ryu,JPN,29,24.89,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,38+
+HAMMELMÜLLER Eva Maria,AUT,31,26.23,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,26,30+
+Fisher Ella,USA,32,27.15,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,38
+EGLI Liv,SUI,33,28.94,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,37+
+KOTAKE Mei,JPN,33,28.94,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,37+
+KUZUU Mashiro,JPN,35,31.96,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,35+
+VAN DER MEER Lynn,NED,36,33.5,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,21+,38
+DEMMEL Martina,GER,37,34.97,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,34+
+LUO Zhilu,CHN,37,34.97,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,34+
+OGURA Sana,JPN,37,34.97,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,34+
+WEI Yali,CHN,37,34.97,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,34+
+PIDGEON Cedar,CAN,41,36.61,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,32
+KÖHLER  Anja,BRA,42,37.29,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,31+
+ZHU Xinwen,CHN,43,39.26,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,27+
+HUANG Zihan,CHN,44,40.1,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,25+
+CHOI Jisu,KOR,45,41.33,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,24+
+SCOTT Emily,AUS,45,41.33,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,25+,24+
+STASIUK Maya,AUS,47,42.59,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,24+,32+
+AGAMBAYEVA Margarita,KAZ,48,46.01,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,21+,31+
+HUANG Yajun,CHN,49,47.37,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,21+,29
+TENG Vanessa Si Yinn,SGP,50,47.91,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,21+,28+
+WONG Tseng-Shun,HKG,51,48.7,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,24+,24+
+HUANG Yongshan,CHN,52,49.48,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,24,24+
+GOH SIHUI Natalie,SGP,53,52.48,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,21+,24
+HSIEH Yun-Shan,TPE,54,53.44,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,18+,24+
+YAO Ting-Chen,TPE,55,54.99,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,20+,17+
+JANNAH Nur Diatul,INA,56,55.5,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,18+,21+
+YANG Jiaxuan,CHN,57,56.99,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,18+,13+
+MOHD NASRAN Shareen,MAS,58,58.0,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,15,13+
+ALERWI Rowaida,KSA,59,58.5,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,13,13+
+ALGOUHI Tahani,KSA,60,60.0,IFSC World Cup Wujiang 2025,1406,2025,"Wujiang, CHN",Lead,Women,Qualification,2025-04-25,/api/v1/category_rounds/9384/results,/api/v1/events/1406/result/5,8,4+

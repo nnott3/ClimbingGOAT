@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Garnbret Janja,SLO,1,TOP,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,TOP
+Rogora Laura,ITA,2,46+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,46+
+Pilz Jessica,AUT,3,43+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,43+
+Mackenzie Oceania,AUS,4,40+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,40+
+Sanders Annie,USA,5,39,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,39
+Pötzi Mattea,AUT,6,38+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,38+
+Mcneice Erin,GBR,7,37+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,37+
+Avezou Zélia,FRA,8,37+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,37+
+SEO Chaehyun,KOR,9,37,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,37
+Hily Manon,FRA,10,37,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,37
+Krampl Mia,SLO,11,37,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,37
+Pouget Camille,FRA,12,36+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36+
+Oblasser Flora,AUT,13,36+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36+
+Buckley Jennifer Eucharia,SLO,14,36+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36+
+Copar Sara,SLO,15,36+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36+
+Janicot Hélène,FRA,16,36,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36
+Moroni Camilla,ITA,17,36,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,36
+TAKAO Tomona,JPN,18,35,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,35
+PLASSOUX DJIGA INA,FRA,19,33,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,33
+Doumont Heloïse,BEL,20,32,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,32
+Tarkus Lucija,SLO,21,31+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,31+
+Rekar Rosa,SLO,22,31,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,31
+TANII Natsuki,JPN,23,23,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,23
+Shiran Noa,ISR,24,22,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,22
+Kotake Mei,JPN,25,21+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,21+
+van der Meer Lynn,NED,26,13+,IFSC World Cup Koper 2024,1359,2024,Koper,Lead,Women,Semi-final,2024-09-06,/api/v1/category_rounds/9284/results,/api/v1/events/1359/result/5,13+

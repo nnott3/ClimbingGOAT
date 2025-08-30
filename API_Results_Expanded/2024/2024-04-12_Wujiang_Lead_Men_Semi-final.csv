@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+Roberts Toby,GBR,1,45+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,45+
+ANRAKU Sorato,JPN,2,44+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,44+
+Tanaka Shuta,JPN,3,32+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,32+
+Milne Maximillian,GBR,4,32+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,32+
+HOMMA Taisei,JPN,5,31+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,31+
+Lehmann Sascha,SUI,6,31+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,31+
+Van Duysen Hannes,BEL,7,31+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,31+
+MURASHITA Zento,JPN,8,31,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,31
+OMATA Shion,JPN,8,31,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,31
+NARASAKI Tomoa,JPN,10,30+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,30+
+YOSHIDA Satone,JPN,11,30+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,30+
+Avezou Sam,FRA,12,28+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,28+
+YURIKUSA Ao,JPN,12,28+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,28+
+HIGUCHI Masahiro,JPN,14,27+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,27+
+Potocar Luka,SLO,15,27+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,27+
+LEE Dohyun,KOR,16,26+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,26+
+Stranik Martin,CZE,17,26+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,26+
+Schenk Filip,ITA,18,26,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,26
+Ogata Yoshiyuki,JPN,19,24+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,24+
+Duffy Colin,USA,20,15+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15+
+IMAIZUMI Yuta,JPN,21,15+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15+
+Ghisolfi Stefano,ITA,22,15+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15+
+Utelli Jonas,SUI,23,15+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15+
+Harrison Campbell,AUS,24,15+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15+
+MUSAUWIR MUSAUWIR,INA,25,15,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,15
+Scherz Stefan,AUT,26,13+,IFSC World Cup Wujiang 2024,1354,2024,Wujiang,Lead,Men,Semi-final,2024-04-12,/api/v1/category_rounds/8929/results,/api/v1/events/1354/result/1,13+

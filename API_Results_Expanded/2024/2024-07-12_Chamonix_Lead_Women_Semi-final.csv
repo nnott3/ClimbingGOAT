@@ -1,0 +1,27 @@
+name,country,round_rank,round_score,event_name,event_id,year,location,discipline,gender,round,start_date,category_round_results,event_results,Route_1
+MORI Ai,JPN,1,45+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,45+
+PILZ Jessica,AUT,2,43+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,43+
+Sanders Anastasia,USA,3,40,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,40
+OBLASSER Flora,AUT,4,38,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,38
+KOTAKE Mei,JPN,5,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+PÖTZI Mattea,AUT,6,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+KRAMPL Mia,SLO,7,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+AVEZOU Zélia,FRA,8,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+LUKAN Vita,SLO,9,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+ODA Natsumi,JPN,10,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+Mackenzie Oceania,AUS,11,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+POUGET Camille,FRA,12,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+JANICOT Hélène,FRA,13,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+TANII Natsuki,JPN,13,35+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35+
+TOTKOVA Aleksandra,BUL,15,35,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,35
+DOUMONT Heloïse,BEL,16,28,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,28
+VAN DER MEER Lynn,NED,17,28,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,28
+KIM Jain,KOR,18,26+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,26+
+KOBETS Anastasiia,UKR,19,26+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,26+
+COPAR Sara,SLO,20,25+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,25+
+NAKAMURA Mao,JPN,21,22+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,22+
+TARKUS Lucija,SLO,22,20+,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,20+
+TAKAO Tomona,JPN,23,18,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,18
+EGLI Liv,SUI,24,18,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,18
+PLASSOUX DJIGA Ina,FRA,25,18,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,18
+KIM Juha,KOR,26,15,IFSC World Cup Chamonix 2024,1357,2024,Chamonix,Lead,Women,Semi-final,2024-07-12,/api/v1/category_rounds/9142/results,/api/v1/events/1357/result/5,15
