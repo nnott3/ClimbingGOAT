@@ -1,0 +1,102 @@
+{
+  "export_timestamp": "2025-08-31T14:44:36.074977",
+  "total_combinations": 16,
+  "successful_exports": 9,
+  "failed_exports": [
+    {
+      "era_key": "Boulder_UIAA_Legacy_1991-2006_Men",
+      "reason": "No data found"
+    },
+    {
+      "era_key": "Boulder_UIAA_Legacy_1991-2006_Women",
+      "reason": "No data found"
+    },
+    {
+      "era_key": "Boulder_IFSC_ZoneTop_2007-2024_Women",
+      "reason": "nan"
+    },
+    {
+      "era_key": "Lead_UIAA_Legacy_1991-2006_Men",
+      "reason": "No data found"
+    },
+    {
+      "era_key": "Lead_UIAA_Legacy_1991-2006_Women",
+      "reason": "No data found"
+    },
+    {
+      "era_key": "Speed_UIAA_Legacy_1991-2006_Men",
+      "reason": "No data found"
+    },
+    {
+      "era_key": "Speed_UIAA_Legacy_1991-2006_Women",
+      "reason": "No data found"
+    }
+  ],
+  "exported_files": [
+    "ELO_data/leaderboards/Boulder_IFSC_ZoneTop_2007-2024_Men_leaderboard.csv",
+    "ELO_data/historical_data/Boulder_IFSC_ZoneTop_2007-2024_Men_history.csv",
+    "ELO_data/time_series/Boulder_IFSC_ZoneTop_2007-2024_Men_timeseries.csv",
+    "ELO_data/charts_data/Boulder_IFSC_ZoneTop_2007-2024_Men_top10_timeseries.csv",
+    "ELO_data/statistics/Boulder_IFSC_ZoneTop_2007-2024_Men_stats.json",
+    "ELO_data/charts_data/Boulder_IFSC_ZoneTop_2007-2024_Men_top10_history.csv",
+    "ELO_data/raw_calculations/Boulder_IFSC_ZoneTop_2007-2024_Men_raw.csv",
+    "ELO_data/leaderboards/Boulder_IFSC_AddedPoints_2025-2025_Men_leaderboard.csv",
+    "ELO_data/historical_data/Boulder_IFSC_AddedPoints_2025-2025_Men_history.csv",
+    "ELO_data/time_series/Boulder_IFSC_AddedPoints_2025-2025_Men_timeseries.csv",
+    "ELO_data/charts_data/Boulder_IFSC_AddedPoints_2025-2025_Men_top10_timeseries.csv",
+    "ELO_data/statistics/Boulder_IFSC_AddedPoints_2025-2025_Men_stats.json",
+    "ELO_data/charts_data/Boulder_IFSC_AddedPoints_2025-2025_Men_top10_history.csv",
+    "ELO_data/raw_calculations/Boulder_IFSC_AddedPoints_2025-2025_Men_raw.csv",
+    "ELO_data/leaderboards/Boulder_IFSC_AddedPoints_2025-2025_Women_leaderboard.csv",
+    "ELO_data/historical_data/Boulder_IFSC_AddedPoints_2025-2025_Women_history.csv",
+    "ELO_data/time_series/Boulder_IFSC_AddedPoints_2025-2025_Women_timeseries.csv",
+    "ELO_data/charts_data/Boulder_IFSC_AddedPoints_2025-2025_Women_top10_timeseries.csv",
+    "ELO_data/statistics/Boulder_IFSC_AddedPoints_2025-2025_Women_stats.json",
+    "ELO_data/charts_data/Boulder_IFSC_AddedPoints_2025-2025_Women_top10_history.csv",
+    "ELO_data/raw_calculations/Boulder_IFSC_AddedPoints_2025-2025_Women_raw.csv",
+    "ELO_data/leaderboards/Lead_IFSC_Modern_2007-2025_Men_leaderboard.csv",
+    "ELO_data/historical_data/Lead_IFSC_Modern_2007-2025_Men_history.csv",
+    "ELO_data/time_series/Lead_IFSC_Modern_2007-2025_Men_timeseries.csv",
+    "ELO_data/charts_data/Lead_IFSC_Modern_2007-2025_Men_top10_timeseries.csv",
+    "ELO_data/statistics/Lead_IFSC_Modern_2007-2025_Men_stats.json",
+    "ELO_data/charts_data/Lead_IFSC_Modern_2007-2025_Men_top10_history.csv",
+    "ELO_data/raw_calculations/Lead_IFSC_Modern_2007-2025_Men_raw.csv",
+    "ELO_data/leaderboards/Lead_IFSC_Modern_2007-2025_Women_leaderboard.csv",
+    "ELO_data/historical_data/Lead_IFSC_Modern_2007-2025_Women_history.csv",
+    "ELO_data/time_series/Lead_IFSC_Modern_2007-2025_Women_timeseries.csv",
+    "ELO_data/charts_data/Lead_IFSC_Modern_2007-2025_Women_top10_timeseries.csv",
+    "ELO_data/statistics/Lead_IFSC_Modern_2007-2025_Women_stats.json",
+    "ELO_data/charts_data/Lead_IFSC_Modern_2007-2025_Women_top10_history.csv",
+    "ELO_data/raw_calculations/Lead_IFSC_Modern_2007-2025_Women_raw.csv",
+    "ELO_data/leaderboards/Speed_IFSC_Score_2007-2008_Men_leaderboard.csv",
+    "ELO_data/historical_data/Speed_IFSC_Score_2007-2008_Men_history.csv",
+    "ELO_data/time_series/Speed_IFSC_Score_2007-2008_Men_timeseries.csv",
+    "ELO_data/charts_data/Speed_IFSC_Score_2007-2008_Men_top10_timeseries.csv",
+    "ELO_data/statistics/Speed_IFSC_Score_2007-2008_Men_stats.json",
+    "ELO_data/charts_data/Speed_IFSC_Score_2007-2008_Men_top10_history.csv",
+    "ELO_data/raw_calculations/Speed_IFSC_Score_2007-2008_Men_raw.csv",
+    "ELO_data/leaderboards/Speed_IFSC_Time_2009-2025_Men_leaderboard.csv",
+    "ELO_data/historical_data/Speed_IFSC_Time_2009-2025_Men_history.csv",
+    "ELO_data/time_series/Speed_IFSC_Time_2009-2025_Men_timeseries.csv",
+    "ELO_data/charts_data/Speed_IFSC_Time_2009-2025_Men_top10_timeseries.csv",
+    "ELO_data/statistics/Speed_IFSC_Time_2009-2025_Men_stats.json",
+    "ELO_data/charts_data/Speed_IFSC_Time_2009-2025_Men_top10_history.csv",
+    "ELO_data/raw_calculations/Speed_IFSC_Time_2009-2025_Men_raw.csv",
+    "ELO_data/leaderboards/Speed_IFSC_Score_2007-2008_Women_leaderboard.csv",
+    "ELO_data/historical_data/Speed_IFSC_Score_2007-2008_Women_history.csv",
+    "ELO_data/time_series/Speed_IFSC_Score_2007-2008_Women_timeseries.csv",
+    "ELO_data/charts_data/Speed_IFSC_Score_2007-2008_Women_top10_timeseries.csv",
+    "ELO_data/statistics/Speed_IFSC_Score_2007-2008_Women_stats.json",
+    "ELO_data/charts_data/Speed_IFSC_Score_2007-2008_Women_top10_history.csv",
+    "ELO_data/raw_calculations/Speed_IFSC_Score_2007-2008_Women_raw.csv",
+    "ELO_data/leaderboards/Speed_IFSC_Time_2009-2025_Women_leaderboard.csv",
+    "ELO_data/historical_data/Speed_IFSC_Time_2009-2025_Women_history.csv",
+    "ELO_data/time_series/Speed_IFSC_Time_2009-2025_Women_timeseries.csv",
+    "ELO_data/charts_data/Speed_IFSC_Time_2009-2025_Women_top10_timeseries.csv",
+    "ELO_data/statistics/Speed_IFSC_Time_2009-2025_Women_stats.json",
+    "ELO_data/charts_data/Speed_IFSC_Time_2009-2025_Women_top10_history.csv",
+    "ELO_data/raw_calculations/Speed_IFSC_Time_2009-2025_Women_raw.csv"
+  ],
+  "optimization_used": "minimal_time_series",
+  "fix_applied": "athlete_initialization_timing_corrected"
+}

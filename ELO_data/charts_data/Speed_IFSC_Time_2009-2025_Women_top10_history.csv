@@ -1,0 +1,731 @@
+name,event,year,date,discipline,gender,round,rank,elo_before,elo_after,elo_change,competed
+Levochkina  Yuliya,Initial Rating,2009,2009-04-18,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,2009,2009-04-18,Speed,Women,Final,11.0,1491.2755846143205,1486.7075957084967,-4.567988905823874,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Tarnow (POL) 2009,2009,2009-04-18,Speed,Women,Qualification,15.0,1500.0,1491.2755846143205,-8.724415385679526,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,2009,2009-04-25,Speed,Women,Final,9.0,1478.7721567732792,1479.3498950715532,0.5777382982740757,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Trento (ITA) 2009,2009,2009-04-25,Speed,Women,Qualification,15.0,1486.7075957084967,1478.7721567732792,-7.935438935217357,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Qinghai (CHN) 2009,2009,2009-06-30,Speed,Women,Final,6.0,1491.8370556125203,1498.743220157964,6.906164545443675,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Qinghai (CHN) 2009,2009,2009-06-30,Speed,Women,Qualification,6.0,1479.3498950715532,1491.8370556125203,12.48716054096707,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,2009,2009-06-30,Speed,Women,Final,5.0,1509.7302371512862,1518.0713148697841,8.341077718497795,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Qinghai (CHN) 2009 - 15m Speed,2009,2009-06-30,Speed,Women,Qualification,5.0,1498.743220157964,1509.7302371512862,10.987016993322154,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2010,2010-04-30,Speed,Women,Final,1.0,1530.9703679243892,1546.5524840473747,15.582116122985518,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Trento (ITA) 2010,2010,2010-04-30,Speed,Women,Qualification,2.0,1518.0713148697841,1530.9703679243892,12.899053054605105,True
+Krasavina Mariia,Initial Rating,2010,2010-06-17,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",2010,2010-06-17,Speed,Women,Final,1.0,1560.7842807941497,1574.8041412804623,14.019860486312584,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",2010,2010-06-17,Speed,Women,Final,3.0,1511.7513787315318,1523.9682551194742,12.216876387942524,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",2010,2010-06-17,Speed,Women,Qualification,1.0,1546.5524840473747,1560.7842807941497,14.231796746775093,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2010",2010,2010-06-17,Speed,Women,Qualification,4.0,1500.0,1511.7513787315318,11.751378731531656,True
+Rudzinska Aleksandra,Initial Rating,2010,2010-07-12,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Miroslaw Aleksandra,Initial Rating,2010,2010-07-12,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2010,2010-07-12,Speed,Women,Final,4.0,1586.5085282909588,1592.9406637364539,6.432135445495167,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2010,2010-07-12,Speed,Women,Final,8.0,1500.0,1502.1237110213385,2.1237110213384662,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2010,2010-07-12,Speed,Women,Qualification,2.0,1574.8041412804623,1586.5085282909588,11.704387010496587,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2010,2010-07-12,Speed,Women,Qualification,12.0,1500.0,1503.5093182479447,3.5093182479447362,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2010",2010,2010-07-12,Speed,Women,Qualification,26.0,1523.9682551194742,1509.6514929465477,-14.316762172926373,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,2010,2010-07-24,Speed,Women,Final,5.0,1590.4223432329634,1584.6906465156999,-5.731696717263407,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,2010,2010-07-24,Speed,Women,Qualification,7.0,1592.9406637364539,1590.4223432329634,-2.5183205034903753,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Daone (ITA) 2010,2010,2010-07-24,Speed,Women,Qualification,9.0,1509.6514929465477,1506.2186605912907,-3.4328323552570277,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2010,2010-08-20,Speed,Women,Final,1.0,1587.8591502320537,1602.7476850092387,14.888534777185056,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L, S) - Xining (CHN) 2010",2010,2010-08-20,Speed,Women,Qualification,5.0,1584.6906465156999,1587.8591502320537,3.1685037163539205,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2010,2010-08-28,Speed,Women,Final,4.0,1612.1081912823547,1595.2381853980482,-16.870005884306444,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR) 2010",2010,2010-08-28,Speed,Women,Qualification,2.0,1602.7476850092387,1612.1081912823547,9.360506273116046,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L, S) - Huaiji (CHN) 2010",2010,2010-10-29,Speed,Women,Qualification,5.0,1595.2381853980482,1588.7216391036613,-6.516546294386797,True
+Jaubert Anouck,Initial Rating,2011,2011-04-14,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Tsyganova Anna,Initial Rating,2011,2011-04-14,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Final,2.0,1522.5519901642424,1536.6698881094335,14.11789794519117,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Final,5.0,1593.064941613702,1597.5257560957234,4.460814482021286,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Final,10.0,1506.1141960512357,1504.0974156583345,-2.016780392901164,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Qualification,1.0,1506.2186605912907,1522.5519901642424,16.333329572951687,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Qualification,8.0,1588.7216391036613,1593.064941613702,4.343302510040663,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Qualification,10.0,1500.0,1506.1141960512357,6.114196051235607,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Milano (ITA) 2011",2011,2011-04-14,Speed,Women,Qualification,18.0,1500.0,1496.6603799410802,-3.339620058919839,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Final,3.0,1546.7038831100003,1558.2764589834912,11.57257587349092,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Final,4.0,1515.62908872319,1526.4403940762502,10.811305353060096,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Final,5.0,1510.42077195465,1519.2293382441228,8.808566289472836,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Final,7.0,1502.1237110213385,1506.8040048132332,4.680293791894739,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Final,8.0,1608.9270172886988,1606.2448650382662,-2.682152250432618,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Qualification,1.0,1503.5093182479447,1519.9469879318044,16.4376696838597,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Qualification,2.0,1597.5257560957234,1608.9270172886988,11.401261192975383,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Qualification,5.0,1496.6603799410802,1510.42077195465,13.760392013569897,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Qualification,7.0,1504.0974156583345,1515.62908872319,11.531673064855513,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2011",2011,2011-07-12,Speed,Women,Qualification,7.0,1536.6698881094335,1546.7038831100003,10.033995000566772,True
+Krasavina Mariia,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Final,1.0,1571.9729206872362,1586.8306168022643,14.857696115028244,True
+Tsyganova Anna,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Final,2.0,1534.1381477006826,1548.7104312208069,14.57228352012429,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Final,8.0,1612.5678115293395,1610.7533693293337,-1.8144422000056069,True
+Jaubert Anouck,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Final,14.0,1536.9309472251357,1525.8390332674992,-11.091913957636605,True
+Krasavina Mariia,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Qualification,1.0,1558.2764589834912,1571.9729206872362,13.696461703744868,True
+Tsyganova Anna,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Qualification,2.0,1519.2293382441228,1534.1381477006826,14.908809456559654,True
+Jaubert Anouck,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Qualification,9.0,1526.4403940762502,1536.9309472251357,10.490553148885596,True
+Levochkina  Yuliya,IFSC Climbing World Championships  - Arco (ITA) 2011,2011,2011-07-15,Speed,Women,Qualification,10.0,1606.2448650382662,1612.5678115293395,6.322946491073278,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,2011,2011-08-06,Speed,Women,Final,4.0,1586.8911847210882,1571.1215272079414,-15.769657513146745,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,2011,2011-08-06,Speed,Women,Qualification,4.0,1610.7533693293337,1616.5208507879474,5.767481458613711,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Daone (ITA) 2011,2011,2011-08-06,Speed,Women,Qualification,7.0,1586.8306168022643,1586.8911847210882,0.060567918823810074,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Final,1.0,1585.6386726778878,1599.750976897002,14.112304219114096,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Final,3.0,1621.5251436834021,1629.795214603999,8.270070920596906,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Final,14.0,1551.2423066632994,1539.3481683355087,-11.894138327790728,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Qualification,1.0,1571.1215272079414,1585.6386726778878,14.517145469946446,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Qualification,5.0,1616.5208507879474,1621.5251436834021,5.004292895454635,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2011",2011,2011-09-02,Speed,Women,Qualification,8.0,1548.7104312208069,1551.2423066632994,2.5318754424925536,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Final,4.0,1636.1231917283753,1641.79232248155,5.669130753174555,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Final,7.0,1546.0787279149006,1549.5309819061854,3.4522539912848096,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Final,8.0,1611.1294018450535,1609.4418395739149,-1.6875622711387006,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Qualification,2.0,1599.750976897002,1611.1294018450535,11.37842494805149,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Qualification,4.0,1629.795214603999,1636.1231917283753,6.327977124376173,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Changzhi (CHN) 2011",2011,2011-09-07,Speed,Women,Qualification,6.0,1539.3481683355087,1546.0787279149006,6.730559579391755,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Final,2.0,1610.8123480389372,1621.6032285316762,10.790880492739047,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Final,5.0,1506.8040048132332,1516.1508085729579,9.346803759724807,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Final,9.0,1628.5703158483636,1623.750395411553,-4.819920436810563,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Final,14.0,1525.449117684368,1514.7042527836625,-10.744864900705624,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Qualification,5.0,1519.9469879318044,1529.1949849534903,9.247997021685961,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Qualification,7.0,1609.4418395739149,1610.8123480389372,1.3705084650222519,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Qualification,10.0,1525.8390332674992,1525.449117684368,-0.38991558313122143,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2012",2012,2012-04-13,Speed,Women,Qualification,14.0,1641.79232248155,1628.5703158483636,-13.222006633186387,True
+Kaplina Iuliia,Initial Rating,2012,2012-07-12,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Final,1.0,1516.1508085729579,1533.5473704567473,17.396561883789406,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Final,4.0,1635.5714844354718,1641.0939234776754,5.522439042203697,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Final,6.0,1557.2384685410632,1562.18093293879,4.942464397726863,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Final,7.0,1530.0593556221468,1534.1747277335485,4.115372111401724,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Final,10.0,1616.9280821504472,1610.5568022480925,-6.371279902354738,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,1.0,1623.750395411553,1635.5714844354718,11.821089023918933,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,2.0,1514.7042527836625,1530.0593556221468,15.355102838484228,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,3.0,1529.1949849534903,1542.3794575799993,13.184472626508905,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,6.0,1549.5309819061854,1557.2384685410632,7.7074866348778786,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,12.0,1621.6032285316762,1616.9280821504472,-4.675146381229076,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2012",2012,2012-07-12,Speed,Women,Qualification,18.0,1500.0,1491.7602168505343,-8.239783149465705,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,2012,2012-07-28,Speed,Women,Final,4.0,1636.706789066559,1636.1169949409216,-0.5897941256374608,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,2012,2012-07-28,Speed,Women,Final,6.0,1610.2304370514505,1601.7994176832942,-8.43101936815628,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,2012,2012-07-28,Speed,Women,Qualification,6.0,1610.5568022480925,1610.2304370514505,-0.3263651966419646,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2012,2012,2012-07-28,Speed,Women,Qualification,7.0,1641.0939234776754,1636.706789066559,-4.387134411116465,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,2012,2012-09-01,Speed,Women,Final,2.0,1643.497866205964,1652.5756073515756,9.077741145611427,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,2012,2012-09-01,Speed,Women,Final,6.0,1612.6739111417833,1614.6955512254667,2.0216400836834216,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,2012,2012-09-01,Speed,Women,Qualification,2.0,1601.7994176832942,1612.6739111417833,10.874493458488978,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2012,2012,2012-09-01,Speed,Women,Qualification,3.0,1636.1169949409216,1643.497866205964,7.380871265042503,True
+Levochkina  Yuliya,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Final,1.0,1662.5335349833172,1673.6389925634921,11.105457580175006,True
+Kaplina Iuliia,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Final,2.0,1508.125018688367,1524.2771235811217,16.15210489275473,True
+Miroslaw Aleksandra,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Final,8.0,1533.5473704567473,1535.8384516529195,2.2910811961721493,True
+Jaubert Anouck,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Final,9.0,1543.5621349067976,1543.2544841378822,-0.3076507689155329,True
+Krasavina Mariia,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Final,12.0,1623.1823355481367,1612.732813505286,-10.449522042850651,True
+Levochkina  Yuliya,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,1.0,1652.5756073515756,1662.5335349833172,9.95792763174147,True
+Kaplina Iuliia,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,2.0,1491.7602168505343,1508.125018688367,16.364801837832637,True
+Krasavina Mariia,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,4.0,1614.6955512254667,1623.1823355481367,8.486784322669942,True
+Rudzinska Aleksandra,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,4.0,1542.3794575799993,1554.078494723216,11.699037143216705,True
+Jaubert Anouck,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,9.0,1534.1747277335485,1543.5621349067976,9.387407173249057,True
+Tsyganova Anna,IFSC Climbing World Championship - Paris (FRA) 2012,2012,2012-09-12,Speed,Women,Qualification,31.0,1562.18093293879,1555.3933846212976,-6.787548317492436,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Final,3.0,1625.1848902316513,1633.9708765166624,8.785986285011097,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Final,4.0,1680.5264399664604,1684.7751111766715,4.248671210211043,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Final,6.0,1535.8384516529195,1542.4318028110774,6.593351158157911,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Final,9.0,1531.7194446367755,1532.1305335074692,0.4110888706937136,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Final,12.0,1539.1891307208361,1532.8287035959909,-6.360427124845233,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Qualification,1.0,1612.732813505286,1625.1848902316513,12.452076726365235,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Qualification,3.0,1673.6389925634921,1680.5264399664604,6.887447402968338,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Qualification,5.0,1554.078494723216,1563.1630128932609,9.084518170044976,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Qualification,7.0,1524.2771235811217,1531.7194446367755,7.442321055653878,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xining (CHN) 2012",2012,2012-10-12,Speed,Women,Qualification,14.0,1543.2544841378822,1539.1891307208361,-4.0653534170461265,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Final,1.0,1680.82397227998,1693.0328932064913,12.208920926511373,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Final,2.0,1637.1690876260973,1647.0226223989364,9.853534772839009,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Final,6.0,1543.1716132200008,1539.5462702684847,-3.6253429515162043,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Final,8.0,1542.4318028110774,1529.5875951413661,-12.844207669711224,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Qualification,1.0,1563.1630128932609,1579.3697419336102,16.206729040349238,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Qualification,4.0,1532.8287035959909,1543.1716132200008,10.342909624010069,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Qualification,5.0,1633.9708765166624,1637.1690876260973,3.1982111094348387,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2012 ",2012,2012-10-20,Speed,Women,Qualification,7.0,1684.7751111766715,1680.82397227998,-3.951138896691556,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Final,1.0,1529.5875951413661,1547.4543553953026,17.866760253936544,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Final,2.0,1700.4945139293475,1708.498385841803,8.003871912455407,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Final,3.0,1546.8289770291221,1559.6988531399327,12.869876110810631,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Final,4.0,1549.279583057699,1559.9408627876264,10.661279729927381,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Final,7.0,1644.3137305612115,1644.213610596753,-0.10011996445850158,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Qualification,1.0,1579.3697419336102,1594.6494381065795,15.279696172969322,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Qualification,2.0,1532.1305335074692,1546.8289770291221,14.698443521652996,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Qualification,2.0,1693.0328932064913,1700.4945139293475,7.461620722856099,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Qualification,5.0,1539.5462702684847,1549.279583057699,9.733312789214379,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2013",2013,2013-03-22,Speed,Women,Qualification,9.0,1647.0226223989364,1644.3137305612115,-2.708891837724861,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Final,1.0,1574.0895907778547,1588.6713659282243,14.581775150369499,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Final,3.0,1547.4543553953026,1559.0866056987181,11.632250303415404,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Final,6.0,1565.099885573321,1569.5950933636927,4.495207790371712,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Final,7.0,1652.2440259337586,1650.6529884714694,-1.5910374622892647,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Final,8.0,1708.744858565034,1702.6864498023974,-6.058408762636619,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Qualification,1.0,1559.6988531399327,1574.0895907778547,14.390737637921925,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Qualification,3.0,1644.213610596753,1652.2440259337586,8.030415337005602,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Qualification,4.0,1594.6494381065795,1603.508448813559,8.859010706979387,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Qualification,7.0,1708.498385841803,1708.744858565034,0.2464727232310494,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Baku (AZE) 2013,2013,2013-06-22,Speed,Women,Qualification,8.0,1559.9408627876264,1565.099885573321,5.159022785694525,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Final,2.0,1660.792984568415,1670.3293078884374,9.536323320022456,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Final,4.0,1581.6695158883965,1590.5978231809747,8.928307292578232,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Final,5.0,1589.2971163660666,1595.764827655947,6.4677112898806275,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Final,6.0,1564.634206122328,1570.1369526844635,5.502746562135586,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Final,8.0,1701.8644649153687,1696.9957242766297,-4.868740638738901,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,2.0,1650.6529884714694,1660.792984568415,10.139996096945545,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,3.0,1569.5950933636927,1581.6695158883965,12.07442252470369,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,5.0,1555.3933846212976,1564.634206122328,9.240821501030277,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,7.0,1702.6864498023974,1701.8644649153687,-0.8219848870286829,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,9.0,1588.6713659282243,1589.2971163660666,0.6257504378422274,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Arco (ITA) 2013,2013,2013-09-07,Speed,Women,Qualification,17.0,1603.508448813559,1587.3467094294592,-16.16173938409973,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,2.0,1706.4978196153334,1714.0236158188038,7.525796203470463,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,3.0,1676.7960993605536,1683.4472818344964,6.651182473942727,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,4.0,1559.0866056987181,1568.9739578946653,9.887352195947278,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,7.0,1606.8449771425617,1608.1748261232724,1.3298489807106464,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,8.0,1599.1640440327606,1598.7203433963316,-0.44370063642902047,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Final,14.0,1574.1148667300374,1562.0069686070299,-12.107898123007574,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,1.0,1696.9957242766297,1706.4978196153334,9.502095338703715,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,3.0,1595.764827655947,1606.8449771425617,11.080149486614475,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,4.0,1670.3293078884374,1676.7960993605536,6.466791472116264,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,5.0,1590.5978231809747,1599.1640440327606,8.566220851785774,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,7.0,1587.3467094294592,1593.2990762362856,5.952366806826308,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Perm (RUS) 2013",2013,2013-09-27,Speed,Women,Qualification,9.0,1570.1369526844635,1574.1148667300374,3.9779140455738715,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Final,1.0,1613.1348417244421,1629.6424252482593,16.50758352381723,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Final,3.0,1711.8325298312689,1714.4601724160207,2.6276425847518254,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Final,4.0,1694.7161370704998,1693.6134543968556,-1.1026826736443105,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Final,5.0,1568.9739578946653,1569.5463275145073,0.5723696198420987,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Final,7.0,1599.208104139668,1589.138285738561,-10.069818401106982,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Qualification,1.0,1683.4472818344964,1694.7161370704998,11.26885523600339,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Qualification,4.0,1593.2990762362856,1601.3851917849502,8.086115548664674,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Qualification,5.0,1608.1748261232724,1613.1348417244421,4.960015601169802,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Qualification,6.0,1714.0236158188038,1711.8325298312689,-2.191085987534957,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2013",2013,2013-10-11,Speed,Women,Qualification,7.0,1598.7203433963316,1599.208104139668,0.4877607433364346,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Final,2.0,1569.5463275145073,1583.713186241092,14.166858726584596,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Final,3.0,1700.1801974467414,1706.4211099880008,6.240912541259381,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Final,4.0,1637.1427015225215,1644.0058401871288,6.863138664607238,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Final,5.0,1596.6849249942773,1603.2799213255382,6.594996331260926,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Final,6.0,1711.400991861683,1710.838157972894,-0.5628338887891481,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Qualification,2.0,1601.3851917849502,1613.6481771227157,12.262985337765425,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Qualification,3.0,1693.6134543968556,1700.1801974467414,6.566743049885775,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Qualification,4.0,1629.6424252482593,1637.1427015225215,7.5002762742622835,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Qualification,5.0,1589.138285738561,1596.6849249942773,7.546639255716258,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Haiyang (CHN) 2013,2013,2013-10-15,Speed,Women,Qualification,8.0,1714.4601724160207,1711.400991861683,-3.0591805543375794,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Final,1.0,1655.9388398396857,1668.2078511412037,12.26901130151809,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Final,2.0,1714.1639497639667,1721.8959706604903,7.732020896523546,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Final,3.0,1716.7465955292803,1722.2659486647942,5.51935313551398,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Final,5.0,1583.713186241092,1590.7698533792811,7.056667138189245,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Final,8.0,1603.6454095984066,1603.4528913541258,-0.19251824428069475,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Qualification,1.0,1644.0058401871288,1655.9388398396857,11.932999652556887,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Qualification,2.0,1706.4211099880008,1714.1639497639667,7.742839775965812,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Qualification,3.0,1710.838157972894,1716.7465955292803,5.908437556386277,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Qualification,4.0,1613.6481771227157,1621.902170962993,8.253993840277426,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2013",2013,2013-10-19,Speed,Women,Qualification,9.0,1603.2799213255382,1603.6454095984066,0.36548827286827323,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,1.0,1679.2340647548922,1691.413003111036,12.178938356143712,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,2.0,1729.44707501659,1737.3876817506816,7.94060673409164,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,3.0,1613.1287229240836,1624.1065445422396,10.977821618156002,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,4.0,1728.427122683712,1732.197801877875,3.7706791941629487,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,8.0,1590.7698533792811,1592.2186765692732,1.448823189991971,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Final,10.0,1565.2774073326025,1563.637276577086,-1.6401307555165405,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,1.0,1668.2078511412037,1679.2340647548922,11.026213613688364,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,2.0,1721.8959706604903,1729.44707501659,7.55110435609951,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,3.0,1722.2659486647942,1728.427122683712,6.1611740189176984,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,4.0,1603.4528913541258,1613.1287229240836,9.675831569957927,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,5.0,1621.902170962993,1629.3956544265395,7.493483463546554,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2014 ",2014,2014-04-26,Speed,Women,Qualification,10.0,1562.0069686070299,1565.2774073326025,3.270438725572715,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,1.0,1744.592439981054,1754.081475641365,9.489035660311027,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,2.0,1701.89609791096,1711.041073218206,9.144975307246082,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,3.0,1632.9288580688458,1643.0268021897934,10.097944120947718,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,4.0,1592.2186765692732,1602.0826233373446,9.86394676807143,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,5.0,1733.5707823165785,1735.0802402343934,1.5094579178148746,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Final,8.0,1566.0845177633973,1568.659307373738,2.5747896103407055,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,1.0,1691.413003111036,1701.89609791096,10.483094799924002,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,2.0,1737.3876817506816,1744.592439981054,7.204758230372323,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,3.0,1629.3956544265395,1639.487567554562,10.091913128022604,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,4.0,1624.1065445422396,1632.9288580688458,8.822313526606237,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,6.0,1732.197801877875,1733.5707823165785,1.3729804387034856,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Baku (AZE) 2014",2014,2014-05-03,Speed,Women,Qualification,10.0,1563.637276577086,1566.0845177633973,2.4472411863113988,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Final,1.0,1762.6049860281412,1773.7769507413475,11.171964713206226,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Final,2.0,1719.0993464303328,1727.8597578435742,8.760411413241464,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Final,3.0,1651.803405060738,1659.387503630687,7.584098569948899,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Final,4.0,1602.0826233373446,1607.5885468983079,5.505923560963319,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Final,5.0,1733.7447402668943,1728.2150241427507,-5.529716124143442,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Qualification,1.0,1754.081475641365,1762.6049860281412,8.52351038677615,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Qualification,2.0,1711.041073218206,1719.0993464303328,8.058273212126688,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Qualification,3.0,1643.0268021897934,1651.803405060738,8.77660287094455,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Qualification,4.0,1639.487567554562,1646.3107217139334,6.823154159371324,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN) 2014 ",2014,2014-06-20,Speed,Women,Qualification,6.0,1735.0802402343934,1733.7447402668943,-1.335499967499212,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Final,2.0,1607.5885468983079,1620.3957594626531,12.807212564345283,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Final,3.0,1765.762416293055,1769.9115069992934,4.14909070623833,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Final,4.0,1669.4250214499457,1675.2986554482254,5.873633998279765,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Final,5.0,1736.613974196404,1737.6232719365485,1.0092977401446228,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Final,12.0,1727.331758123142,1713.8183925656529,-13.513365557489223,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,1.0,1727.8597578435742,1736.613974196404,8.754216352829596,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,2.0,1659.387503630687,1669.4250214499457,10.037517819258806,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,3.0,1646.3107217139334,1655.5196494333227,9.208927719389283,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,8.0,1728.2150241427507,1727.331758123142,-0.8832660196088586,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,12.0,1773.7769507413475,1765.762416293055,-8.014534448292483,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2014",2014,2014-07-10,Speed,Women,Qualification,18.0,1568.659307373738,1560.4712809382424,-8.188026435495686,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,1.0,1683.3305563066428,1694.8586443719716,11.528088065328904,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,2.0,1719.2699123313575,1727.2424802267788,7.972567895421267,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,3.0,1776.8606714211764,1780.5726295088268,3.711958087650296,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,7.0,1570.5355996975795,1574.3534712833564,3.817871585776957,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,15.0,1744.4989605610758,1723.8164348882076,-20.682525672868135,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Final,16.0,1620.3957594626531,1602.684143577572,-17.71161588508106,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,1.0,1769.9115069992934,1776.8606714211764,6.949164421883166,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,2.0,1737.6232719365485,1744.4989605610758,6.87568862452725,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,3.0,1675.2986554482254,1683.3305563066428,8.031900858417524,True
+Levochkina  Yuliya,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,4.0,1713.8183925656529,1719.2699123313575,5.451519765704648,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,5.0,1560.4712809382424,1570.5355996975795,10.064318759337032,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Arco (ITA) 2014 ,2014,2014-08-30,Speed,Women,Qualification,7.0,1655.5196494333227,1659.8178355703842,4.298186137061409,True
+Miroslaw Aleksandra,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,3.0,1602.684143577572,1614.527443553095,11.843299975522937,True
+Krasavina Mariia,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,5.0,1787.125057038549,1786.925639754391,-0.19941728415785842,True
+Tsyganova Anna,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,7.0,1585.081081636266,1589.2874297873566,4.206348151090756,True
+Kaplina Iuliia,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,8.0,1730.3571955955758,1726.00404980759,-4.353145787985774,True
+Levochkina  Yuliya,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,12.0,1729.4777390352176,1716.6126936821788,-12.865045353038822,True
+Jaubert Anouck,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Final,15.0,1703.380647351248,1685.1498436415777,-18.23080370967031,True
+Krasavina Mariia,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,1.0,1780.5726295088268,1787.125057038549,6.552427529722087,True
+Jaubert Anouck,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,2.0,1694.8586443719716,1703.380647351248,8.522002979276389,True
+Kaplina Iuliia,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,3.0,1723.8164348882076,1730.3571955955758,6.540760707368186,True
+Tsyganova Anna,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,5.0,1574.3534712833564,1585.081081636266,10.727610352909485,True
+Levochkina  Yuliya,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,7.0,1727.2424802267788,1729.4777390352176,2.235258808438942,True
+Rudzinska Aleksandra,"IFSC Climbing World Championship (L, S) - Gijon (ESP) 2014",2014,2014-09-08,Speed,Women,Qualification,10.0,1659.8178355703842,1662.2484656228091,2.43063005242491,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Final,1.0,1735.127539642345,1745.7423351700334,10.614795527688303,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Final,2.0,1680.064908768318,1688.7114248037224,8.64651603540441,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Final,6.0,1791.204533187179,1776.7745044987876,-14.430028688391447,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Qualification,1.0,1726.00404980759,1735.127539642345,9.123489834755004,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Qualification,2.0,1786.925639754391,1791.204533187179,4.2788934327879495,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR) 2014 ",2014,2014-10-11,Speed,Women,Qualification,7.0,1685.1498436415777,1680.064908768318,-5.084934873259816,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Final,1.0,1777.3043952959838,1786.2253548170236,8.92095952103983,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Final,2.0,1700.9242275446368,1708.7089463752673,7.784718830630436,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Final,3.0,1751.5120168463413,1752.4963973700096,0.9843805236683163,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Qualification,1.0,1688.7114248037224,1700.9242275446368,12.212802740914395,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Qualification,2.0,1745.7423351700334,1751.5120168463413,5.769681676307938,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2014 ",2014,2014-10-18,Speed,Women,Qualification,3.0,1776.7745044987876,1777.3043952959838,0.5298907971962161,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Final,1.0,1760.845582635969,1768.956629804374,8.111047168404765,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Final,2.0,1789.4448251427184,1794.4586289957674,5.013803853049048,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Final,3.0,1598.5030417163084,1609.0991011654944,10.596059449186098,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Final,4.0,1716.7490968232564,1720.1866708306172,3.4375740073607517,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Final,5.0,1614.527443553095,1620.1785815669914,5.651138013896396,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Qualification,1.0,1752.4963973700096,1760.845582635969,8.349185265959527,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Qualification,2.0,1708.7089463752673,1716.7490968232564,8.040150447989193,True
+Krasavina Mariia,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Qualification,3.0,1786.2253548170236,1789.4448251427184,3.2194703256948816,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Qualification,4.0,1589.2874297873566,1598.5030417163084,9.215611928951791,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Central Saanich (CAN) 2015,2015,2015-05-17,Speed,Women,Qualification,7.0,1662.2484656228091,1662.2996325237057,0.05116690089655496,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Final,1.0,1799.513053755345,1806.3530988016287,6.8400450462836835,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Final,3.0,1776.9967021602179,1780.369129496549,3.372427336331251,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Final,4.0,1725.8240504802536,1728.9316556482509,3.107605167997196,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Final,5.0,1604.6318414818336,1610.6966726854077,6.064831203574147,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Final,6.0,1620.1785815669914,1623.4396397724408,3.2610582054495283,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Qualification,1.0,1768.956629804374,1776.9967021602179,8.040072355843844,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Qualification,2.0,1794.4586289957674,1799.513053755345,5.0544247595775325,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Qualification,3.0,1720.1866708306172,1725.8240504802536,5.637379649636318,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Qualification,6.0,1662.2996325237057,1663.987897115683,1.688264591977196,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2015",2015,2015-06-20,Speed,Women,Qualification,10.0,1609.0991011654944,1604.6318414818336,-4.46725968366077,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Final,1.0,1732.2007410158913,1741.5116637894573,9.310922773566153,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Final,2.0,1621.0277394274638,1632.8052226539173,11.777483226453484,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Final,3.0,1788.0935979566923,1791.2107045141115,3.117106557419167,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Final,4.0,1811.1010249783133,1811.349650142694,0.2486251643806321,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Final,6.0,1623.4396397724408,1626.6392833521486,3.19964357970766,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Qualification,1.0,1780.369129496549,1788.0935979566923,7.724468460143367,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Qualification,2.0,1806.3530988016287,1811.1010249783133,4.747926176684568,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Qualification,3.0,1610.6966726854077,1621.0277394274638,10.331066742056073,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Qualification,4.0,1728.9316556482509,1732.2007410158913,3.269085367640308,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Haiyang (CHN) 2015",2015,2015-06-26,Speed,Women,Qualification,8.0,1663.987897115683,1661.4253341139074,-2.5625630017754935,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,1.0,1748.6117989059658,1758.8866546177596,10.274855711793906,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,2.0,1797.6824834388399,1803.9907933594554,6.308309920615453,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,3.0,1815.3854876374137,1818.951670331841,3.5661826944272867,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,4.0,1642.1344750089231,1650.576282164386,8.441807155462708,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,6.0,1717.5884947486095,1718.5616366840984,0.973141935488971,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Final,7.0,1626.6392833521486,1629.415213988186,2.7759306360374647,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,1.0,1791.2107045141115,1797.6824834388399,6.471778924728466,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,2.0,1741.5116637894573,1748.6117989059658,7.1001351165084055,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,3.0,1811.349650142694,1815.3854876374137,4.035837494719851,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,4.0,1632.8052226539173,1642.1344750089231,9.329252355005707,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,7.0,1661.4253341139074,1666.811376664732,5.386042550824555,True
+Levochkina  Yuliya,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2015",2015,2015-07-10,Speed,Women,Qualification,9.0,1716.6126936821788,1717.5884947486095,0.9758010664306545,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Final,1.0,1825.5463753285496,1834.9031702304353,9.35679490188567,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Final,2.0,1765.3625221668037,1772.9019869063306,7.539464739526922,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Final,4.0,1806.828862948374,1803.440952831742,-3.3879101166321535,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Final,5.0,1629.415213988186,1629.856029815509,0.44081582732282865,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Final,8.0,1657.0354530884092,1642.390438549913,-14.64501453849622,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Qualification,1.0,1818.951670331841,1825.5463753285496,6.594704996708721,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Qualification,2.0,1758.8866546177596,1765.3625221668037,6.475867549044041,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Qualification,3.0,1803.9907933594554,1806.828862948374,2.838069588918563,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Qualification,4.0,1650.576282164386,1657.0354530884092,6.4591709240233435,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2015",2015,2015-10-17,Speed,Women,Qualification,7.0,1666.811376664732,1666.2419581322265,-0.5694185325054482,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Final,1.0,1807.8275055128042,1814.2233798512048,6.395874338400513,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Final,3.0,1629.856029815509,1638.8101927223267,8.954162906817796,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Final,5.0,1776.4694106909126,1775.441696685034,-1.0277140058785195,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Final,8.0,1654.368861087652,1651.674227560531,-2.6946335271210033,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Qualification,1.0,1642.390438549913,1654.368861087652,11.97842253773909,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Qualification,2.0,1803.440952831742,1807.8275055128042,4.386552681062255,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Qualification,3.0,1772.9019869063306,1776.4694106909126,3.5674237845818793,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B, S) - Chongqing (CHN) 2016",2016,2016-04-30,Speed,Women,Qualification,11.0,1666.2419581322265,1659.6016686412552,-6.640289490971374,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Final,1.0,1818.081272504615,1823.8954952989952,5.814222794380216,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Final,3.0,1659.343532998808,1666.5807160394036,7.23718304059544,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Final,4.0,1638.8101927223267,1644.7978080962328,5.987615373905938,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Final,8.0,1782.4673937291739,1774.5451548976293,-7.922238831544558,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Qualification,1.0,1775.441696685034,1782.4673937291739,7.0256970441398,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Qualification,2.0,1814.2233798512048,1818.081272504615,3.85789265341022,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Qualification,3.0,1651.674227560531,1659.343532998808,7.66930543827702,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) - Nanjing (CHN) 2016,2016,2016-05-07,Speed,Women,Qualification,5.0,1659.6016686412552,1662.9837177558873,3.3820491146321867,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Final,1.0,1781.2302489033505,1788.094978074471,6.8647291711206835,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Final,2.0,1644.7978080962328,1654.8630226553992,10.065214559166424,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Final,3.0,1674.6274633420794,1681.309037912427,6.6815745703475535,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Qualification,1.0,1774.5451548976293,1781.2302489033505,6.685094005721044,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Qualification,2.0,1662.9837177558873,1672.3870093726669,9.403291616779576,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Qualification,3.0,1666.5807160394036,1674.6274633420794,8.046747302675762,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA) 2016",2016,2016-07-11,Speed,Women,Qualification,25.0,1823.8954952989952,1799.714243596798,-24.181251702197176,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Final,1.0,1793.1911629693495,1800.4907674386661,7.29960446931655,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Final,2.0,1805.7414257624162,1810.518066811324,4.776641048907725,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Final,8.0,1683.7187133690954,1680.3499476079137,-3.3687657611817663,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Final,16.0,1654.8630226553992,1635.5511262117257,-19.31189644367346,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Qualification,1.0,1799.714243596798,1805.7414257624162,6.027182165618068,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Qualification,2.0,1788.094978074471,1793.1911629693495,5.096184894878441,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Qualification,4.0,1672.3870093726669,1678.943749602481,6.556740229814019,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2016",2016,2016-07-15,Speed,Women,Qualification,7.0,1681.309037912427,1683.7187133690954,2.409675456668565,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Final,1.0,1803.8769195380455,1810.4731524192066,6.596232881161074,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Final,2.0,1815.9005883041236,1820.014644259234,4.114055955110366,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Final,4.0,1635.5511262117257,1642.156978787444,6.605852575718186,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Qualification,1.0,1810.518066811324,1815.9005883041236,5.382521492799599,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Qualification,3.0,1800.4907674386661,1803.8769195380455,3.3861520993792884,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L, S) - Arco (ITA) 2016",2016,2016-08-26,Speed,Women,Qualification,4.0,1678.943749602481,1685.1369601463691,6.193210543888089,True
+Tsyganova Anna,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Final,1.0,1689.9278124471382,1701.1899151152822,11.262102668144065,True
+Jaubert Anouck,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Final,2.0,1815.218241235817,1819.7788944840527,4.560653248235611,True
+Kaplina Iuliia,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Final,3.0,1823.8100684081214,1825.982908244203,2.17283983608146,True
+Miroslaw Aleksandra,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Final,4.0,1642.156978787444,1649.1055331989257,6.948554411481867,True
+Tsyganova Anna,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Qualification,1.0,1680.3499476079137,1689.9278124471382,9.577864839224524,True
+Jaubert Anouck,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Qualification,2.0,1810.4731524192066,1815.218241235817,4.7450888166105,True
+Kaplina Iuliia,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Qualification,3.0,1820.014644259234,1823.8100684081214,3.795424148887415,True
+Rudzinska Aleksandra,IFSC Climbing World Championships - Paris (FRA) 2016,2016,2016-09-14,Speed,Women,Qualification,4.0,1685.1369601463691,1692.4207715733194,7.283811426950203,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Final,1.0,1822.7088367808192,1829.43984114774,6.731004366920905,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Final,2.0,1832.2456332208667,1836.566418775984,4.320785555117233,True
+Miroslaw Aleksandra,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Final,3.0,1649.1055331989257,1658.2241114042959,9.118578205370143,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Final,15.0,1692.3760625314392,1674.1205333251953,-18.255529206243928,True
+Kaplina Iuliia,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Qualification,1.0,1825.982908244203,1832.2456332208667,6.262724976663828,True
+Rudzinska Aleksandra,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Qualification,2.0,1692.4207715733194,1701.6140310711169,9.193259497797541,True
+Jaubert Anouck,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Qualification,3.0,1819.7788944840527,1822.7088367808192,2.929942296766408,True
+Tsyganova Anna,IFSC Climbing Worldcup (S) -  Wujiang (CHN) 2016,2016,2016-10-18,Speed,Women,Qualification,12.0,1701.1899151152822,1692.3760625314392,-8.813852583843056,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Final,2.0,1840.6826318447918,1844.8305268531674,4.1478950083755075,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Final,3.0,1677.1477150340993,1685.1672577912643,8.019542757165112,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Final,4.0,1835.426623914277,1835.50094382335,0.07431990907328867,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Final,6.0,1658.2241114042959,1660.699728486539,2.475617082243099,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Qualification,1.0,1829.43984114774,1835.426623914277,5.986782766536788,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Qualification,2.0,1836.566418775984,1840.6826318447918,4.1162130688078085,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Qualification,3.0,1701.6140310711169,1708.5591532945407,6.945122223423808,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2016",2016,2016-10-22,Speed,Women,Qualification,6.0,1674.1205333251953,1677.1477150340993,3.0271817089039823,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Final,1.0,1849.1581095450317,1855.7310201110852,6.572910566053415,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Final,2.0,1829.4826832356523,1834.5546898569294,5.072006621277029,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Final,4.0,1689.9282164500319,1695.9176074187362,5.98939096870437,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Final,5.0,1841.7614953086477,1840.102300042378,-1.659195266269658,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Qualification,1.0,1835.50094382335,1841.7614953086477,6.260551485297557,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Qualification,2.0,1844.8305268531674,1849.1581095450317,4.327582691864415,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Qualification,5.0,1685.1672577912643,1689.9282164500319,4.760958658767458,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2017",2017,2017-04-22,Speed,Women,Qualification,8.0,1834.9031702304353,1829.4826832356523,-5.4204869947829035,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Final,1.0,1856.721835709523,1863.0973922597218,6.375556550198705,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Final,2.0,1833.0876837445808,1838.0719066899733,4.984222945392499,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Final,3.0,1844.5349938327993,1847.0459042522177,2.5109104194185443,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Final,4.0,1706.6112932562874,1711.888790158415,5.277496902127783,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Qualification,1.0,1695.9176074187362,1706.6112932562874,10.693685837551145,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Qualification,2.0,1840.102300042378,1844.5349938327993,4.432693790421247,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Qualification,4.0,1855.7310201110852,1856.721835709523,0.9908155984378756,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Nanjing (CHN) 2017",2017,2017-04-29,Speed,Women,Qualification,6.0,1834.5546898569294,1833.0876837445808,-1.4670061123486962,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Final,1.0,1851.2601802421013,1857.9466188066156,6.686438564514138,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Final,2.0,1867.864507240324,1871.9415573034,4.07705006307608,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Final,3.0,1840.642183130743,1843.4238796516925,2.7816965209495867,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Final,5.0,1717.3700189693939,1720.3513558847233,2.9813369153293303,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Qualification,1.0,1863.0973922597218,1867.864507240324,4.767114980602139,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Qualification,2.0,1847.0459042522177,1851.2601802421013,4.214275989883598,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Qualification,4.0,1838.0719066899733,1840.642183130743,2.570276440769747,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2017",2017,2017-07-07,Speed,Women,Qualification,5.0,1711.888790158415,1717.3700189693939,5.481228810978867,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Final,1.0,1861.8245711491113,1868.5552292765417,6.730658127430492,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Final,2.0,1876.2381918917285,1880.4222349026738,4.18404301094537,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Final,3.0,1726.6463423105338,1733.9506749428572,7.304332632323458,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Final,12.0,1846.9107058773227,1830.7459354524344,-16.164770424888236,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Qualification,1.0,1871.9415573034,1876.2381918917285,4.296634588328522,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Qualification,2.0,1857.9466188066156,1861.8245711491113,3.8779523424958255,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Qualification,3.0,1843.4238796516925,1846.9107058773227,3.486826225630275,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2017 ",2017,2017-08-25,Speed,Women,Qualification,4.0,1720.3513558847233,1726.6463423105338,6.294986425810486,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Final,1.0,1873.5731674792448,1879.4926882348668,5.919520755622061,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Final,2.0,1833.968132253448,1838.9410852974438,4.972953043995875,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Final,3.0,1883.7772059889835,1885.181510213909,1.4043042249254882,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Qualification,1.0,1868.5552292765417,1873.5731674792448,5.017938202703176,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Qualification,2.0,1880.4222349026738,1883.7772059889835,3.3549710863096585,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Edinburgh (GBR) 2017",2017,2017-09-23,Speed,Women,Qualification,3.0,1830.7459354524344,1833.968132253448,3.222196801013473,True
+Susanti Rahayu Aries,Initial Rating,2017,2017-10-07,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Final,1.0,1888.8115501630514,1894.8033568354472,5.991806672395688,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Final,2.0,1879.5917854227632,1883.7348254688204,4.143040046057189,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Final,4.0,1518.919389231666,1532.984310755195,14.064921523529051,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Final,6.0,1837.6288634480534,1834.6085405808992,-3.020322867154164,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Final,8.0,1740.20526240476,1736.4468255273246,-3.7584368774355967,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Qualification,1.0,1500.0,1518.919389231666,18.91938923166599,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Qualification,2.0,1885.181510213909,1888.8115501630514,3.630039949142443,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Qualification,3.0,1733.9506749428572,1740.20526240476,6.254587461903042,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Qualification,5.0,1879.4926882348668,1879.5917854227632,0.09909718789634528,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2017",2017,2017-10-07,Speed,Women,Qualification,7.0,1838.9410852974438,1837.6288634480534,-1.3122218493904878,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Final,1.0,1887.5222380559853,1892.56269293122,5.040454875234717,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Final,2.0,1550.995095162961,1566.7128054039001,15.717710240939052,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Final,3.0,1743.3491877833305,1748.7857115040708,5.436523720740272,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Final,7.0,1836.945747196583,1830.7101804307326,-6.235566765850352,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Qualification,1.0,1532.984310755195,1550.995095162961,18.010784407765765,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Qualification,2.0,1883.7348254688204,1887.5222380559853,3.787412587164873,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Qualification,3.0,1736.4468255273246,1743.3491877833305,6.902362256005976,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Qualification,4.0,1834.6085405808992,1836.945747196583,2.337206615683675,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2017",2017,2017-10-14,Speed,Women,Qualification,23.0,1894.8033568354472,1869.132294618175,-25.671062217272162,True
+Kalucka Aleksandra,Initial Rating,2018,2018-04-21,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,1.0,1896.2474524663724,1901.8427477213293,5.595295254956968,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,2.0,1872.7996485469862,1876.9373792145698,4.1377306675835,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,4.0,1575.0139022961607,1586.3451140101226,11.331211713961876,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,5.0,1832.3828021881395,1831.4139194040126,-0.9688827841269706,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,7.0,1753.6413219930398,1751.1823714101088,-2.458950582931112,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Final,11.0,1516.2164065764305,1515.2088490316448,-1.0075575447857366,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,1.0,1892.56269293122,1896.2474524663724,3.6847595351523825,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,2.0,1869.132294618175,1872.7996485469862,3.6673539288112784,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,3.0,1500.0,1516.2164065764305,16.21640657643037,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,6.0,1748.7857115040708,1753.6413219930398,4.85561048896904,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,8.0,1830.7101804307326,1832.3828021881395,1.6726217574068336,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2018 ",2018,2018-04-21,Speed,Women,Qualification,13.0,1566.7128054039001,1575.0139022961607,8.301096892260716,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Final,1.0,1600.418063845113,1617.2664595093736,16.84839566426063,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Final,4.0,1755.5635951537836,1759.6978868601211,4.134291706337426,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Final,8.0,1904.2415317067787,1894.9817879277352,-9.259743779043369,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Final,9.0,1833.4957318227996,1824.219223339981,-9.27650848281869,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Final,16.0,1880.607499772202,1854.841707228223,-25.765792543979035,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Qualification,1.0,1586.3451140101226,1600.418063845113,14.072949834990286,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Qualification,2.0,1876.9373792145698,1880.607499772202,3.6701205576321696,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Qualification,3.0,1901.8427477213293,1904.2415317067787,2.3987839854493784,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Qualification,5.0,1831.4139194040126,1833.4957318227996,2.081812418786923,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2018 ",2018,2018-05-05,Speed,Women,Qualification,5.0,1751.1823714101088,1755.5635951537836,4.381223743674832,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Final,1.0,1898.2370878312786,1904.108891739607,5.871803908328529,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Final,3.0,1628.472240896275,1640.367872581127,11.895631684851798,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Final,6.0,1760.6242099604078,1760.635515407706,0.011305447298081361,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Final,7.0,1827.4509818927318,1822.86186514355,-4.589116749181715,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Final,16.0,1859.8183090266753,1834.8974244732347,-24.920884553440683,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Qualification,1.0,1854.841707228223,1859.8183090266753,4.9766017984522835,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Qualification,2.0,1894.9817879277352,1898.2370878312786,3.255299903543379,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Qualification,3.0,1617.2664595093736,1628.472240896275,11.205781386901368,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Qualification,4.0,1824.219223339981,1827.4509818927318,3.231758552750778,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Tai'an (CHN) 2018 ",2018,2018-05-12,Speed,Women,Qualification,9.0,1759.6978868601211,1760.6242099604078,0.9263231002866736,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Final,1.0,1906.8834066512584,1912.0097571841748,5.126350532916373,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Final,3.0,1827.929185197116,1831.151486485273,3.2223012881567845,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Final,7.0,1838.4582240987065,1832.8679021465693,-5.59032195213707,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Qualification,1.0,1822.86186514355,1827.929185197116,5.067320053566106,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Qualification,2.0,1904.108891739607,1906.8834066512584,2.7745149116513534,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Villars (SUI) 2018 ",2018,2018-07-06,Speed,Women,Qualification,3.0,1834.8974244732347,1838.4582240987065,3.5607996254718266,True
+Kalucka Natalia,Initial Rating,2018,2018-07-11,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,1.0,1660.699728486539,1675.8649435053148,15.165215018775939,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,2.0,1764.326270891874,1773.020538277026,8.694267385152065,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,3.0,1834.5410083777465,1838.503477967778,3.962469590031663,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,5.0,1527.8870391289256,1540.4076106915704,12.520571562644918,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,11.0,1914.813645071596,1899.2458729006844,-15.567772170911638,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Final,13.0,1836.7391380149493,1819.3325427788072,-17.406595236142113,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,1.0,1708.5591532945407,1717.0265768577276,8.467423563186935,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,2.0,1912.0097571841748,1914.813645071596,2.8038878874213977,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,3.0,1832.8679021465693,1836.7391380149493,3.8712358683799506,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,4.0,1831.151486485273,1834.5410083777465,3.3895218924735455,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,7.0,1760.635515407706,1764.326270891874,3.6907554841679397,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,8.0,1515.2088490316448,1527.8870391289256,12.678190097280828,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA) 2018 ",2018,2018-07-11,Speed,Women,Qualification,20.0,1500.0,1507.1313284790917,7.1313284790916525,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Final,1.0,1824.0113646319517,1831.4292095105193,7.41784487856773,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Final,2.0,1840.7779558631255,1845.5544966819907,4.776540818865102,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Final,3.0,1902.8421491431386,1903.7298344646667,0.8876853215282018,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Final,4.0,1554.6083434307754,1566.5119067898443,11.903563359068809,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Final,7.0,1518.9501710758964,1526.068512013743,7.118340937846545,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Qualification,1.0,1899.2458729006844,1902.8421491431386,3.5962762424541186,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Qualification,2.0,1819.3325427788072,1824.0113646319517,4.678821853144384,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Qualification,3.0,1540.4076106915704,1554.6083434307754,14.200732739205037,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Qualification,5.0,1838.503477967778,1840.7779558631255,2.2744778953474856,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L,S) - Arco (ITA) 2018 ",2018,2018-07-27,Speed,Women,Qualification,9.0,1507.1313284790917,1518.9501710758964,11.818842596804737,True
+Miroslaw Aleksandra,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,1.0,1675.8649435053148,1690.3936420381735,14.528698532858781,True
+Krasavina Mariia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,3.0,1849.2666953802377,1852.782715226297,3.5160198460591943,True
+Kalucka Aleksandra,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,4.0,1579.214678441093,1591.669073531495,12.454395090402155,True
+Tsyganova Anna,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,8.0,1777.8255291988517,1773.3673744891266,-4.458154709725053,True
+Kalucka Natalia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,10.0,1537.671368111749,1539.2075918028231,1.5362236910742206,True
+Kaplina Iuliia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,13.0,1833.2358493494808,1816.0370825401794,-17.198766809301315,True
+Jaubert Anouck,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Final,15.0,1906.6759891502181,1882.7801209432298,-23.89586820698827,True
+Rudzinska Aleksandra,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,1.0,1717.0265768577276,1724.8925002849,7.86592342717254,True
+Jaubert Anouck,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,2.0,1903.7298344646667,1906.6759891502181,2.9461546855514382,True
+Krasavina Mariia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,3.0,1845.5544966819907,1849.2666953802377,3.7121986982469157,True
+Kalucka Aleksandra,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,4.0,1566.5119067898443,1579.214678441093,12.702771651248774,True
+Tsyganova Anna,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,5.0,1773.020538277026,1777.8255291988517,4.804990921825725,True
+Kaplina Iuliia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,9.0,1831.4292095105193,1833.2358493494808,1.8066398389615768,True
+Kalucka Natalia,IFSC Climbing World Championships - Innsbruck (AUT) 2018,2018,2018-09-06,Speed,Women,Qualification,12.0,1526.068512013743,1537.671368111749,11.602856098005967,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Final,1.0,1650.8466194441153,1665.9213067072383,15.074687263123016,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Final,2.0,1883.4414088167816,1887.6281529043056,4.186744087524015,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Final,3.0,1821.363928413363,1825.4365860921166,4.072657678753485,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Final,4.0,1858.1260475934455,1858.85321191384,0.7271643203944891,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Final,6.0,1772.0383278856184,1771.5461711940857,-0.4921566915326628,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Qualification,1.0,1852.782715226297,1858.1260475934455,5.343332367148506,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Qualification,2.0,1816.0370825401794,1821.363928413363,5.3268458731835215,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Qualification,3.0,1640.367872581127,1650.8466194441153,10.478746862988274,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Qualification,5.0,1882.7801209432298,1883.4414088167816,0.6612878735517792,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN) 2018 ",2018,2018-10-20,Speed,Women,Qualification,10.0,1773.3673744891266,1772.0383278856184,-1.3290466035081316,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Final,1.0,1673.0213550264934,1688.0730499944918,15.051694967998305,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Final,2.0,1831.5405357995303,1838.0172148309823,6.476679031452029,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Final,3.0,1891.3062789327219,1893.659605252403,2.35332631968123,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Final,7.0,1860.5638983749768,1855.443172714966,-5.120725660010708,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Final,16.0,1773.0792175407767,1751.9486923933168,-21.130525147459714,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Qualification,1.0,1825.4365860921166,1831.5405357995303,6.103949707413699,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Qualification,2.0,1887.6281529043056,1891.3062789327219,3.6781260284163197,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Qualification,5.0,1858.85321191384,1860.5638983749768,1.7106864611369754,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Qualification,6.0,1665.9213067072383,1673.0213550264934,7.100048319255084,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L,S) - Xiamen (CHN) 2018 ",2018,2018-10-27,Speed,Women,Qualification,8.0,1771.5461711940857,1773.0792175407767,1.5330463466909223,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,2.0,1894.749242190063,1899.1786210856806,4.4293788956176465,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,3.0,1842.7873098859004,1846.821573453966,4.034263568065537,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,4.0,1756.8928166358985,1762.1002075559195,5.207390920020966,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,6.0,1696.8228048686613,1700.3591796927249,3.536374824063637,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,7.0,1600.019155059335,1605.7036166004036,5.684461541068703,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Final,16.0,1856.8664000388142,1832.6895861577743,-24.176813881039756,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,1.0,1838.0172148309823,1842.7873098859004,4.770095054918129,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,2.0,1688.0730499944918,1696.8228048686613,8.749754874169453,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,6.0,1751.9486923933168,1756.8928166358985,4.944124242581685,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,7.0,1893.659605252403,1894.749242190063,1.0896369376599724,True
+Krasavina Mariia,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,8.0,1855.443172714966,1856.8664000388142,1.423227323848033,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Moscow (RUS) 2019 ",2019,2019-04-12,Speed,Women,Qualification,12.0,1591.669073531495,1600.019155059335,8.35008152783986,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,2.0,1690.3936420381735,1701.9396905018527,11.546048463679112,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,3.0,1850.4589345407553,1853.6359853583574,3.1770508176021517,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,4.0,1901.3423755115014,1900.8038133739706,-0.53856213753072,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,5.0,1707.2662619463283,1711.7248830821857,4.458621135857263,True
+Kalucka Natalia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,7.0,1550.8990605690892,1557.9918575553354,7.092796986246279,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,8.0,1766.5935124078026,1762.2362253668673,-4.357287040935212,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Final,14.0,1612.360959536976,1601.8258336344911,-10.535125902484848,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,2.0,1724.8925002849,1732.279529693261,7.387029408360984,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,3.0,1846.821573453966,1850.4589345407553,3.6373610867891752,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,4.0,1899.1786210856806,1901.3423755115014,2.1637544258207515,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,5.0,1700.3591796927249,1707.2662619463283,6.907082253603487,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,6.0,1762.1002075559195,1766.5935124078026,4.493304851883009,True
+Kalucka Natalia,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,9.0,1539.2075918028231,1550.8990605690892,11.691468766266016,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Chongqing (CHN) 2019",2019,2019-04-26,Speed,Women,Qualification,14.0,1605.7036166004036,1612.360959536976,6.657342936572455,True
+Miroslaw Aleksandra,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,1.0,1701.9396905018527,1715.8098512804333,13.870160778580567,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,2.0,1717.7465823084356,1728.8318297080696,11.085247399633955,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,3.0,1902.8999709592797,1904.8747702548642,1.9747992955844538,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,4.0,1764.7613289650778,1769.6181855446675,4.856856579589706,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,8.0,1607.8070595824092,1611.1189016488674,3.3118420664582726,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Final,13.0,1857.1415765616287,1839.3304101339422,-17.811166427686366,True
+Rudzinska Aleksandra,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,1.0,1732.279529693261,1739.9867059536468,7.707176260385831,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,3.0,1853.6359853583574,1857.1415765616287,3.505591203271158,True
+Jaubert Anouck,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,4.0,1900.8038133739706,1902.8999709592797,2.0961575853090473,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,6.0,1711.7248830821857,1717.7465823084356,6.021699226249988,True
+Tsyganova Anna,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,10.0,1762.2362253668673,1764.7613289650778,2.5251035982104706,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,15.0,1601.8258336344911,1607.8070595824092,5.9812259479181185,True
+Kalucka Natalia,"IFSC Climbing Worldcup (B,S) - Wujiang (CHN) 2019",2019,2019-05-03,Speed,Women,Qualification,18.0,1557.9918575553354,1564.430741191061,6.438883635725586,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Final,1.0,1907.3720695013083,1912.6154715224172,5.243402021109031,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Final,5.0,1575.9197229630615,1585.5804646130764,9.660741650014822,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Final,6.0,1771.6948070123271,1770.8398872082043,-0.8549198041229005,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Final,14.0,1835.3281969711988,1815.102273515179,-20.2259234560199,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Final,15.0,1621.4905695759735,1607.7470837882827,-13.743485787690917,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,3.0,1904.8747702548642,1907.3720695013083,2.4972992464440926,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,5.0,1611.1189016488674,1621.4905695759735,10.371667927106154,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,6.0,1832.6895861577743,1835.3281969711988,2.6386108134245485,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,7.0,1564.430741191061,1575.9197229630615,11.488981772000471,True
+Tsyganova Anna,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,11.0,1769.6181855446675,1771.6948070123271,2.0766214676595696,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L, S) - Villars (SUI) 2019",2019,2019-07-04,Speed,Women,Qualification,19.0,1728.8318297080696,1728.6375698084246,-0.19425989964490775,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Final,3.0,1618.652137127691,1630.9684705121783,12.316333384487283,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Final,4.0,1735.4090181943698,1740.4903067464788,5.081288552109095,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Final,8.0,1818.6597831209679,1812.0268587661792,-6.632924354788662,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Final,16.0,1910.707785076774,1884.0239712994364,-26.68381377733756,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Qualification,3.0,1728.6375698084246,1735.4090181943698,6.771448385945149,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Qualification,4.0,1607.7470837882827,1618.652137127691,10.905053339408262,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Qualification,5.0,1815.102273515179,1818.6597831209679,3.5575096057889906,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Qualification,14.0,1912.6154715224172,1910.707785076774,-1.9076864456434024,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA) 2019 ",2019,2019-07-11,Speed,Women,Qualification,19.0,1585.5804646130764,1591.6451437025653,6.064679089488986,True
+Miroslaw Aleksandra,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,1.0,1715.8098512804333,1729.5596074092412,13.749756128807745,True
+Jaubert Anouck,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,3.0,1886.9060989147515,1889.6787715139858,2.772672599234354,True
+Kalucka Aleksandra,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,5.0,1637.3680913854876,1646.2605172476076,8.892425862120096,True
+Krasavina Mariia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,6.0,1816.831337214142,1815.7931641742891,-1.0381730398528144,True
+Kalucka Natalia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,10.0,1601.9699320292057,1601.8311865380938,-0.1387454911119521,True
+Kaplina Iuliia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Final,14.0,1842.7269629216346,1823.6236731150436,-19.103289806590965,True
+Rudzinska Aleksandra,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,1.0,1739.9867059536468,1747.1576889054404,7.170982951793628,True
+Krasavina Mariia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,2.0,1812.0268587661792,1816.831337214142,4.804478447962844,True
+Jaubert Anouck,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,3.0,1884.0239712994364,1886.9060989147515,2.8821276153149866,True
+Kaplina Iuliia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,4.0,1839.3304101339422,1842.7269629216346,3.396552787692308,True
+Kalucka Natalia,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,7.0,1591.6451437025653,1601.9699320292057,10.324788326640302,True
+Kalucka Aleksandra,IFSC Climbing World Championships - Hachioji (JPN) 2019,2019,2019-08-11,Speed,Women,Qualification,13.0,1630.9684705121783,1637.3680913854876,6.399620873309233,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Final,1.0,1748.5244541479374,1758.73502522888,10.210571080942598,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Final,3.0,1819.6978569840076,1823.097856091379,3.3999991073715172,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Final,4.0,1892.4958327636082,1891.5337005154875,-0.9621322481207697,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Final,11.0,1610.0604241514563,1604.9846519140817,-5.075772237374606,True
+Susanti Rahayu Aries,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,1.0,1740.4903067464788,1748.5244541479374,8.034147401458501,True
+Jaubert Anouck,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,3.0,1889.6787715139858,1892.4958327636082,2.817061249622472,True
+Krasavina Mariia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,4.0,1815.7931641742891,1819.6978569840076,3.9046928097184077,True
+Kalucka Natalia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,9.0,1601.8311865380938,1610.0604241514563,8.229237613362576,True
+Kaplina Iuliia,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,18.0,1823.6236731150436,1818.430253852205,-5.193419262838793,True
+Kalucka Aleksandra,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN) 2019 ",2019,2019-10-18,Speed,Women,Qualification,20.0,1646.2605172476076,1645.68983445082,-0.5706827967876323,True
+Kaplina Iuliia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Final,2.0,1824.1082395062322,1828.7394418240187,4.631202317786619,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Final,6.0,1616.588213300676,1620.8724842480483,4.284270947372267,True
+Jaubert Anouck,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Final,7.0,1892.2511079613141,1884.348679951065,-7.902428010249111,True
+Kaplina Iuliia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Qualification,1.0,1818.430253852205,1824.1082395062322,5.677985654027321,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Qualification,3.0,1604.9846519140817,1616.588213300676,11.603561386594228,True
+Jaubert Anouck,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Qualification,5.0,1891.5337005154875,1892.2511079613141,0.7174074458267143,True
+Tsyganova Anna,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2021",2021,2021-07-01,Speed,Women,Qualification,25.0,1770.8398872082043,1758.2946360271621,-12.54525118104211,True
+Kalucka Natalia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Final,1.0,1630.7450870537496,1646.2910503967466,15.545963342997062,True
+Kaplina Iuliia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Final,2.0,1833.2041035644593,1838.3919559275246,5.187852363065228,True
+Miroslaw Aleksandra,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Final,3.0,1737.8807108000212,1744.5432989151745,6.662588115153252,True
+Kalucka Aleksandra,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Final,10.0,1646.606566612195,1642.397497221148,-4.209069391047054,True
+Krasavina Mariia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Final,14.0,1820.6551817899285,1800.7356098793593,-19.919571910569115,True
+Miroslaw Aleksandra,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Qualification,1.0,1729.5596074092412,1737.8807108000212,8.32110339078004,True
+Kaplina Iuliia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Qualification,2.0,1828.7394418240187,1833.2041035644593,4.464661740440624,True
+Kalucka Natalia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Qualification,4.0,1620.8724842480483,1630.7450870537496,9.872602805701149,True
+Krasavina Mariia,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Qualification,10.0,1823.097856091379,1820.6551817899285,-2.4426743014505385,True
+Kalucka Aleksandra,"IFSC - Climbing World Championships (B,L,S) - Moscow 2021",2021,2021-09-16,Speed,Women,Qualification,13.0,1645.68983445082,1646.606566612195,0.9167321613749837,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Final,1.0,1751.734384349033,1759.7962320288339,8.061847679800756,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Final,3.0,1649.7182811660332,1657.77217165293,8.053890486896666,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Final,13.0,1648.7964099970172,1635.6428455162823,-13.153564480735088,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Qualification,1.0,1744.5432989151745,1751.734384349033,7.191085433858511,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Qualification,5.0,1642.397497221148,1649.7182811660332,7.320783944885367,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Seoul (KOR) 2022",2022,2022-05-06,Speed,Women,Qualification,10.0,1646.2910503967466,1648.7964099970172,2.505359600270489,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Final,1.0,1766.8572648606184,1774.7253245278098,7.868059667191265,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Final,2.0,1667.4839057826828,1677.2843499215028,9.800444138820055,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Final,3.0,1642.9049866918442,1651.7062751118256,8.801288419981322,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Qualification,1.0,1759.7962320288339,1766.8572648606184,7.061032831784558,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Qualification,2.0,1657.77217165293,1667.4839057826828,9.711734129752736,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-20,Speed,Women,Qualification,5.0,1635.6428455162823,1642.9049866918442,7.26214117556207,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Final,1.0,1781.2682596921081,1788.722047626309,7.453787934200729,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Final,3.0,1686.2298777339206,1693.1972362305316,6.967358496611042,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Final,4.0,1659.6511211257007,1665.6658650476447,6.0147439219440475,True
+Miroslaw Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Qualification,1.0,1774.7253245278098,1781.2682596921081,6.542935164298252,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Qualification,2.0,1677.2843499215028,1686.2298777339206,8.945527812417769,True
+Kalucka Natalia,"IFSC - Climbing World Cup (B,S) - Salt Lake City (USA) 2022",2022,2022-05-27,Speed,Women,Qualification,4.0,1651.7062751118256,1659.6511211257007,7.944846013875219,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",2022,2022-06-30,Speed,Women,Final,7.0,1670.8271479778807,1670.1791721502414,-0.6479758276393794,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",2022,2022-06-30,Speed,Women,Final,9.0,1700.660171135787,1694.420513985279,-6.239657150508079,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",2022,2022-06-30,Speed,Women,Qualification,3.0,1693.1972362305316,1700.660171135787,7.462934905255452,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Villars (SUI) 2022",2022,2022-06-30,Speed,Women,Qualification,8.0,1665.6658650476447,1670.8271479778807,5.161282930236061,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",2022,2022-07-08,Speed,Women,Final,2.0,1701.4519435844754,1709.6686505725806,8.216706988105248,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",2022,2022-07-08,Speed,Women,Final,7.0,1674.813577793154,1672.9141954877455,-1.8993823054086185,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",2022,2022-07-08,Speed,Women,Qualification,3.0,1694.420513985279,1701.4519435844754,7.031429599196291,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Chamonix (FRA) 2022",2022,2022-07-08,Speed,Women,Qualification,7.0,1670.1791721502414,1674.813577793154,4.634405642912641,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2022,2022-09-09,Speed,Women,Final,1.0,1715.9540868437514,1725.7118801636086,9.757793319857182,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2022,2022-09-09,Speed,Women,Final,2.0,1683.0546096586183,1692.1037669832053,9.049157324587007,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2022,2022-09-09,Speed,Women,Qualification,1.0,1672.9141954877455,1683.0546096586183,10.140414170872836,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Edinburgh (GBR) 2022",2022,2022-09-09,Speed,Women,Qualification,3.0,1709.6686505725806,1715.9540868437514,6.285436271170643,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2022,2022-09-24,Speed,Women,Final,2.0,1698.5922326099285,1706.6973577946378,8.105125184709433,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2022,2022-09-24,Speed,Women,Final,3.0,1731.863609699236,1736.5093741938108,4.64576449457494,True
+Kalucka Aleksandra,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2022,2022-09-24,Speed,Women,Qualification,3.0,1725.7118801636086,1731.863609699236,6.151729535627218,True
+Kalucka Natalia,"IFSC - Climbing World Cup (L,S) - Jakarta (INA) 2022",2022,2022-09-24,Speed,Women,Qualification,4.0,1692.1037669832053,1698.5922326099285,6.488465626723071,True
+Miroslaw Aleksandra,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Final,1.0,1794.728901041951,1802.5448876539,7.815986611948939,True
+Kalucka Natalia,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Final,2.0,1714.690851590899,1723.5505289359428,8.859677345043838,True
+Kalucka Aleksandra,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Final,4.0,1742.8277340606155,1746.3116058555229,3.4838717949074356,True
+Miroslaw Aleksandra,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Qualification,1.0,1788.722047626309,1794.728901041951,6.006853415642078,True
+Kalucka Natalia,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Qualification,2.0,1706.6973577946378,1714.690851590899,7.993493796261246,True
+Kalucka Aleksandra,IFSC World Cup Seoul 2023,2023,2023-04-28,Speed,Women,Qualification,3.0,1736.5093741938108,1742.8277340606155,6.318359866804652,True
+Miroslaw Aleksandra,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Final,1.0,1808.3351004226654,1815.986978581244,7.651878158578721,True
+Kalucka Aleksandra,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Final,3.0,1751.0451490332373,1756.664166834676,5.619017801438805,True
+Kalucka Natalia,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Final,6.0,1729.7431301670804,1729.9031969626499,0.16006679556943987,True
+Miroslaw Aleksandra,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Qualification,1.0,1802.5448876539,1808.3351004226654,5.790212768765351,True
+Kalucka Natalia,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Qualification,4.0,1723.5505289359428,1729.7431301670804,6.192601231137563,True
+Kalucka Aleksandra,IFSC World Cup Jakarta 2023,2023,2023-05-06,Speed,Women,Qualification,5.0,1746.3116058555229,1751.0451490332373,4.733543177714521,True
+Miroslaw Aleksandra,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Final,1.0,1821.4062885684568,1828.968436326078,7.562147757621267,True
+Kalucka Natalia,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Final,5.0,1734.5380118663784,1737.0628432471942,2.524831380815728,True
+Kalucka Aleksandra,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Final,9.0,1763.1150008394045,1755.9689617915287,-7.146039047875823,True
+Miroslaw Aleksandra,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Qualification,1.0,1815.986978581244,1821.4062885684568,5.419309987212659,True
+Kalucka Aleksandra,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Qualification,2.0,1756.664166834676,1763.1150008394045,6.450834004728498,True
+Kalucka Natalia,IFSC World Cup Salt Lake City 2023,2023,2023-05-19,Speed,Women,Qualification,6.0,1729.9031969626499,1734.5380118663784,4.634814903728607,True
+Kalucka Natalia,IFSC World Cup Villars 2023,2023,2023-06-30,Speed,Women,Final,1.0,1744.4242406247538,1754.086519701956,9.662279077202149,True
+Kalucka Aleksandra,IFSC World Cup Villars 2023,2023,2023-06-30,Speed,Women,Final,9.0,1761.54014065164,1753.6098691603236,-7.9302714913164305,True
+Kalucka Natalia,IFSC World Cup Villars 2023,2023,2023-06-30,Speed,Women,Qualification,1.0,1737.0628432471942,1744.4242406247538,7.361397377559613,True
+Kalucka Aleksandra,IFSC World Cup Villars 2023,2023,2023-06-30,Speed,Women,Qualification,3.0,1755.9689617915287,1761.54014065164,5.571178860111414,True
+Kalucka Natalia,IFSC World Cup Chamonix 2023,2023,2023-07-07,Speed,Women,Final,5.0,1760.8531762483735,1761.6984685486,0.8452923002263557,True
+Kalucka Aleksandra,IFSC World Cup Chamonix 2023,2023,2023-07-07,Speed,Women,Final,6.0,1759.149785284125,1757.93248287682,-1.2173024073051781,True
+Kalucka Natalia,IFSC World Cup Chamonix 2023,2023,2023-07-07,Speed,Women,Qualification,1.0,1754.086519701956,1760.8531762483735,6.766656546417568,True
+Kalucka Aleksandra,IFSC World Cup Chamonix 2023,2023,2023-07-07,Speed,Women,Qualification,3.0,1753.6098691603236,1759.149785284125,5.539916123801589,True
+Miroslaw Aleksandra,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Final,3.0,1833.9886154184967,1837.5420439793102,3.5534285608135185,True
+Kalucka Aleksandra,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Final,4.0,1763.7880995713028,1767.9300575997565,4.141958028453691,True
+Kalucka Natalia,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Final,9.0,1766.3274027666014,1759.7741713220696,-6.553231444531821,True
+Miroslaw Aleksandra,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Qualification,1.0,1828.968436326078,1833.9886154184967,5.020179092418586,True
+Kalucka Aleksandra,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Qualification,3.0,1757.93248287682,1763.7880995713028,5.855616694482943,True
+Kalucka Natalia,IFSC World Championships Bern 2023,2023,2023-08-01,Speed,Women,Qualification,5.0,1761.6984685486,1766.3274027666014,4.628934218001318,True
+Kalucka Natalia,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Final,2.0,1763.4068555559757,1770.4230935410728,7.0162379850971615,True
+Kalucka Aleksandra,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Final,4.0,1774.0951820830337,1776.4951424681988,2.399960385164957,True
+Miroslaw Aleksandra,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Final,5.0,1842.6713796457248,1840.6014044753151,-2.069975170409558,True
+Miroslaw Aleksandra,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Qualification,1.0,1837.5420439793102,1842.6713796457248,5.129335666414692,True
+Kalucka Aleksandra,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Qualification,2.0,1767.9300575997565,1774.0951820830337,6.165124483277258,True
+Kalucka Natalia,IFSC World Cup Wujiang 2023,2023,2023-09-22,Speed,Women,Qualification,5.0,1759.7741713220696,1763.4068555559757,3.632684233906065,True
+Miroslaw Aleksandra,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Final,1.0,1842.288715378247,1849.7139386785043,7.425223300257343,True
+Kalucka Natalia,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Final,2.0,1772.6587768224,1780.5696274427398,7.91085062033987,True
+Kalucka Aleksandra,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Final,4.0,1782.9576302835262,1786.2503780623597,3.292747778833411,True
+Kalucka Aleksandra,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Qualification,2.0,1776.4951424681988,1782.9576302835262,6.462487815327548,True
+Miroslaw Aleksandra,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Qualification,6.0,1840.6014044753151,1842.288715378247,1.6873109029317528,True
+Kalucka Natalia,IFSC World Cup Wujiang 2024,2024,2024-04-12,Speed,Women,Qualification,8.0,1770.4230935410728,1772.6587768224,2.2356832813271152,True
+Kalucka Natalia,IFSC World Cup Chamonix 2024,2024,2024-07-12,Speed,Women,Final,2.0,1786.0946589861778,1790.2513691398883,4.156710153710601,True
+Kalucka Natalia,IFSC World Cup Chamonix 2024,2024,2024-07-12,Speed,Women,Qualification,1.0,1780.5696274427398,1786.0946589861778,5.525031543437936,True

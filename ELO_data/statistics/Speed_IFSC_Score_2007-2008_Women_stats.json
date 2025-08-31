@@ -1,0 +1,29 @@
+{
+  "era_key": "Speed_IFSC_Score_2007-2008_Women",
+  "discipline": "Speed",
+  "gender": "Women",
+  "era_name": "IFSC_Score",
+  "start_year": 2007,
+  "end_year": 2008,
+  "total_athletes": 85,
+  "total_competitions": 13,
+  "total_elo_records": 476,
+  "avg_elo": 1502.263567339808,
+  "median_elo": 1491.8155578347855,
+  "max_elo": 1628.4167115445343,
+  "min_elo": 1435.293401781939,
+  "most_active_athlete": "Ropek Edyta",
+  "most_active_competitions": 24,
+  "highest_elo_athlete": "Tuzhylina Svitlana",
+  "years_covered": [
+    2007,
+    2008
+  ],
+  "date_range": {
+    "start": "2007-05-01T00:00:00",
+    "end": "2008-10-31T00:00:00"
+  },
+  "time_series_records": 341,
+  "time_series_generation_seconds": 0.025192,
+  "initialization_fix_applied": true
+}

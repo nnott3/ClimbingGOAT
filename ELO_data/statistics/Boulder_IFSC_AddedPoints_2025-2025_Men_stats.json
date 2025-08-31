@@ -1,0 +1,28 @@
+{
+  "era_key": "Boulder_IFSC_AddedPoints_2025-2025_Men",
+  "discipline": "Boulder",
+  "gender": "Men",
+  "era_name": "IFSC_AddedPoints",
+  "start_year": 2025,
+  "end_year": 2025,
+  "total_athletes": 195,
+  "total_competitions": 7,
+  "total_elo_records": 868,
+  "avg_elo": 1500.547197282359,
+  "median_elo": 1493.1019623316456,
+  "max_elo": 1691.5815717165117,
+  "min_elo": 1445.0987316735843,
+  "most_active_athlete": "ANRAKU Sorato",
+  "most_active_competitions": 18,
+  "highest_elo_athlete": "ANRAKU Sorato",
+  "years_covered": [
+    2025
+  ],
+  "date_range": {
+    "start": "2025-04-18T00:00:00",
+    "end": "2025-06-25T00:00:00"
+  },
+  "time_series_records": 672,
+  "time_series_generation_seconds": 0.031468,
+  "initialization_fix_applied": true
+}

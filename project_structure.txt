@@ -1,0 +1,85 @@
+|-- .DS_Store
+|-- README.md
+|-- advanced_climbing_analysis.py
+|-- app.py
+|-- ifsc_analysis_pipeline.py
+|-- leagues.csv
+|-- partial_app.py
+|-- requirements.txt
+|-- test.ipynb
+|-- .streamlit
+  |-- config.toml
+|-- .vscode
+  |-- settings.json
+|-- API_Event_metadata
+  |-- 1990_event_meta.csv
+  |-- 2025_event_meta.csv
+|-- API_Results_Expanded
+  |-- 1991
+    |-- 1991-04-25_Wien_Lead_Men_no-round.csv
+    |-- 1991-04-25_Wien_Lead_Women_no-round.csv
+  |-- 2006
+    |-- 2006-11-18_Kranj_Lead_Men_no-round.csv
+    |-- 2006-11-18_Kranj_Lead_Women_no-round.csv
+  |-- 2007
+    |-- 2007-11-17_Kranj_Lead_Women_Final.csv
+    |-- 2007-11-17_Kranj_Lead_Women_Qualification.csv
+    |-- 2007-11-17_Kranj_Lead_Women_Semi-Final.csvv
+  |-- 2025
+    |-- 2025-04-18_Keqiao, CHN_Boulder_Men_Final.csv
+    |-- 2025-09-21_Seoul, KOR_Speed_Women_Qualification.csv
+|-- ELO_data
+  |-- .DS_Store
+  |-- README.md
+  |-- export_summary.json
+  |-- master_history.csv
+  |-- master_leaderboard.csv
+  |-- charts_data
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men_top10_history.csv
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women_top10_history.csv
+  |-- historical_data
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men_history.csv
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women_history.csv
+  |-- leaderboards
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men_leaderboard.csv
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women_leaderboard.csv
+  |-- statistics
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men_stats.json
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women_stats.json
+  |-- raw_calculations
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men_raw.csv
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women_raw.csv
+|-- utils
+  |-- 1_API_scraper.py
+  |-- 2_Aggregator.py
+  |-- 3_BasicStats.py
+  |-- analysis.py
+  |-- elo_scoring.py
+  |-- export_elo_data.py
+|-- Data
+  |-- aggregate_data
+    |-- .DS_Store
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Men.csv
+    |-- Boulder_IFSC_AddedPoints_2025-2025_Women.csv
+    |-- Boulder_IFSC_ZoneTop_2007-2024_Men.csv
+    |-- Boulder_IFSC_ZoneTop_2007-2024_Women.csv
+    |-- Boulder_UIAA_Legacy_1991-2006_Men.csv
+    |-- Boulder_UIAA_Legacy_1991-2006_Women.csv
+    |-- Lead_IFSC_Modern_2007-2025_Men.csv
+    |-- Lead_IFSC_Modern_2007-2025_Women.csv
+    |-- Lead_UIAA_Legacy_1991-2006_Men.csv
+    |-- Lead_UIAA_Legacy_1991-2006_Women.csv
+    |-- Speed_IFSC_Score_2007-2008_Men.csv
+    |-- Speed_IFSC_Score_2007-2008_Women.csv
+    |-- Speed_IFSC_Time_2009-2025_Men.csv
+    |-- Speed_IFSC_Time_2009-2025_Women.csv
+    |-- Speed_UIAA_Legacy_1991-2006_Men.csv
+    |-- Speed_UIAA_Legacy_1991-2006_Women.csv
+    |-- aggregated_results.csv
+  |-- reports
+  |-- visuals
+  |-- data_summary
+    |-- data_summary.csv
+    |-- era_files_summary.csv
+    |-- era_statistics.csv
+    |-- event_metadata.csv

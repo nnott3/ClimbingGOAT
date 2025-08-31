@@ -1,0 +1,185 @@
+name,event,year,date,discipline,gender,round,rank,elo_before,elo_after,elo_change,competed
+Tuzhylina Svitlana,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Ryepko Olena,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Ropek Edyta,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Stenkovaya Anna,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Yurina Valentina,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Ruyga Tatiana,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Blanco Lucelia,Initial Rating,2007,2007-05-01,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Ruyga Tatiana,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,2.0,1498.7677891059482,1510.683879550688,11.916090444739975,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,3.0,1504.5598909855462,1511.6782867524423,7.118395766896096,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,5.0,1513.1578460721385,1510.742862107277,-2.4149839648613995,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,6.0,1516.0,1508.8481580776597,-7.151841922340334,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,7.0,1501.669889047729,1490.653594514535,-11.016294533193935,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Final,8.0,1507.437847963685,1491.4742597606846,-15.963588203000462,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,1.0,1500.0,1516.0,16.000000000000004,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,2.0,1500.0,1513.1578460721385,13.157846072138366,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,4.0,1500.0,1507.437847963685,7.437847963685105,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,5.0,1500.0,1504.5598909855462,4.559890985546088,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,6.0,1500.0,1501.669889047729,1.6698890477289918,True
+Ruyga Tatiana,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,7.0,1500.0,1498.7677891059482,-1.2322108940518168,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Women,Qualification,10.0,1500.0,1489.9883925413935,-10.011607458606544,True
+He Cuifang,Initial Rating,2007,2007-07-11,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Li Chunhua,Initial Rating,2007,2007-07-11,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,1.0,1524.4319355040423,1539.388923983116,14.956988479073633,True
+Ruyga Tatiana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,2.0,1522.7003645566053,1535.6545612072086,12.954196650603386,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,4.0,1511.3305159641566,1520.6495870306362,9.319071066479712,True
+Yurina Valentina,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,6.0,1500.1453481532064,1505.7972546123042,5.65190645909764,True
+Ropek Edyta,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,7.0,1506.1638434197823,1509.4048330700346,3.2409896502521285,True
+Li Chunhua,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,8.0,1503.7617909182209,1504.997120373734,1.2353294555131602,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,9.0,1488.9149907541307,1488.747623209434,-0.16736754469650705,True
+He Cuifang,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Final,11.0,1505.5254334646443,1500.2684167859434,-5.257016678701003,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,1.0,1508.8481580776597,1524.4319355040423,15.58377742638259,True
+Ropek Edyta,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,2.0,1491.4742597606846,1506.1638434197823,14.689583659097682,True
+Ruyga Tatiana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,3.0,1510.683879550688,1522.7003645566053,12.016485005917172,True
+Yurina Valentina,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,5.0,1490.653594514535,1500.1453481532064,9.491753638671556,True
+He Cuifang,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,7.0,1500.0,1505.5254334646443,5.525433464644312,True
+Li Chunhua,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,8.0,1500.0,1503.7617909182209,3.76179091822095,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,10.0,1511.6782867524423,1511.3305159641566,-0.347770788285636,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Women,Qualification,11.0,1489.9883925413935,1488.9149907541307,-1.0734017872627124,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,1.0,1514.9980655410104,1531.0683466540627,16.070281113052197,True
+Ruyga Tatiana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,2.0,1539.82555479304,1550.129730809538,10.304176016497806,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,3.0,1504.2692592140174,1511.931319520807,7.662060306789423,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,4.0,1526.6602054979642,1528.6283330487981,1.9681275508340446,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,5.0,1539.8361632068338,1536.5561878699823,-3.2799753368514115,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Final,8.0,1532.5874181747515,1515.8556601984174,-16.731757976334187,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,1.0,1510.742862107277,1526.6602054979642,15.91734339068714,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,2.0,1520.6495870306362,1532.5874181747515,11.937831144115234,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,3.0,1505.7972546123042,1514.9980655410104,9.200810928706252,True
+Ruyga Tatiana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,4.0,1535.6545612072086,1539.82555479304,4.170993585831473,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,5.0,1539.388923983116,1539.8361632068338,0.44723922371792013,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,7.0,1509.4048330700346,1504.2692592140174,-5.135573856017125,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Women,Qualification,10.0,1488.747623209434,1473.8680396407422,-14.879583568691938,True
+He CuiLian,Initial Rating,2007,2007-08-11,Speed,Women,N/A,,1500.0,1500.0,0.0,False
+Ruyga Tatiana,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,1.0,1558.9529383727859,1572.5596833564205,13.606744983634497,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,2.0,1527.9800247107742,1540.9964447462241,13.016420035449954,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,3.0,1544.1115869906187,1554.2495593215433,10.13797233092467,True
+He Cuifang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,4.0,1516.4445615953734,1525.828808938384,9.384247343010584,True
+Li Chunhua,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,5.0,1512.6659775450573,1520.130444137212,7.464466592154586,True
+He CuiLian,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,6.0,1506.24475195118,1511.9127205547702,5.667968603590245,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Final,7.0,1520.9273928676805,1523.7616165060272,2.8342236383466717,True
+He Cuifang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,1.0,1500.2684167859434,1516.4445615953734,16.176144809430042,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,2.0,1531.0683466540627,1544.1115869906187,13.043240336555886,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,3.0,1515.8556601984174,1527.9800247107742,12.124364512356774,True
+Ruyga Tatiana,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,4.0,1550.129730809538,1558.9529383727859,8.823207563247914,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,5.0,1511.931319520807,1520.9273928676805,8.996073346873683,True
+Li Chunhua,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,6.0,1504.997120373734,1512.6659775450573,7.668857171323252,True
+He CuiLian,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Women,Qualification,7.0,1500.0,1506.24475195118,6.244751951179874,True
+Ruyga Tatiana,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,1.0,1580.4550220529466,1593.792699162404,13.33767710945745,True
+Ropek Edyta,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,2.0,1535.5740640453316,1548.9883972815212,13.41433323618964,True
+Yurina Valentina,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,3.0,1561.3207498585932,1571.3921552264494,10.071405367856215,True
+Li Chunhua,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,5.0,1534.592517121013,1541.7580227277776,7.165505606764504,True
+Tuzhylina Svitlana,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,6.0,1548.5966886618291,1552.9689657440972,4.37227708226812,True
+Blanco Lucelia,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,8.0,1480.5386983836136,1483.9737521384577,3.4350537548442164,True
+He Cuifang,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,12.0,1540.847080629253,1532.8172590435877,-8.02982158566522,True
+Stenkovaya Anna,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,13.0,1553.6564761735638,1542.8457888397925,-10.81068733377136,True
+Ryepko Olena,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Final,14.0,1537.7243094243413,1525.5221692785021,-12.202140145839259,True
+He Cuifang,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,1.0,1525.828808938384,1540.847080629253,15.018271690868831,True
+Li Chunhua,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,2.0,1520.130444137212,1534.592517121013,14.462072983801239,True
+Stenkovaya Anna,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,3.0,1540.9964447462241,1553.6564761735638,12.660031427339652,True
+Tuzhylina Svitlana,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,4.0,1536.5561878699823,1548.5966886618291,12.040500791846894,True
+Ropek Edyta,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,5.0,1523.7616165060272,1535.5740640453316,11.812447539304559,True
+Ruyga Tatiana,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,7.0,1572.5596833564205,1580.4550220529466,7.895338696526047,True
+Ryepko Olena,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,8.0,1528.6283330487981,1537.7243094243413,9.095976375543136,True
+Yurina Valentina,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,9.0,1554.2495593215433,1561.3207498585932,7.071190537049838,True
+Blanco Lucelia,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Women,Qualification,14.0,1473.8680396407422,1480.5386983836136,6.6706587428714155,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,1.0,1566.8880905745575,1580.250772624583,13.3626820500255,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,2.0,1555.2890355413742,1567.1102275914834,11.821192050109234,True
+Ruyga Tatiana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,3.0,1597.939770614947,1605.667727470903,7.7279568559558305,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,4.0,1574.5924518437657,1581.293015546744,6.700563702978428,True
+Blanco Lucelia,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,7.0,1495.327880215911,1499.4962927369145,4.168412521003471,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Final,9.0,1549.2762555407564,1546.5927395966166,-2.683515944139771,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,1.0,1552.9689657440972,1566.8880905745575,13.91912483046038,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,2.0,1542.8457888397925,1555.2890355413742,12.443246701581685,True
+Blanco Lucelia,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,4.0,1483.9737521384577,1495.327880215911,11.354128077453218,True
+Ruyga Tatiana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,5.0,1593.792699162404,1597.939770614947,4.147071452543075,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,6.0,1571.3921552264494,1574.5924518437657,3.2002966173162815,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Women,Qualification,8.0,1548.9883972815212,1549.2762555407564,0.28785825923527875,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,1.0,1507.332203643142,1523.7879041313151,16.455700488173047,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,2.0,1553.924603674265,1566.0394215614824,12.11481788721749,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,3.0,1540.8417288505025,1551.4915291521233,10.64980030162082,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,4.0,1578.1589848050858,1584.9212284121174,6.762243607031704,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,8.0,1578.7091663201172,1576.988083915461,-1.7210824046561968,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Final,9.0,1578.946357497824,1575.075448404847,-3.8709090929769716,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,1.0,1525.5221692785021,1540.8417288505025,15.319559572000456,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,2.0,1567.1102275914834,1578.7091663201172,11.598938728633886,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,5.0,1546.5927395966166,1553.924603674265,7.331864077648315,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,6.0,1499.4962927369145,1507.332203643142,7.835910906227522,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,9.0,1580.250772624583,1578.946357497824,-1.3044151267591122,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Women,Qualification,10.0,1581.293015546744,1578.1589848050858,-3.1340307416581954,True
+Li Chunhua,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Final,1.0,1556.8168600549363,1571.6798968193705,14.863036764434062,True
+He Cuifang,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Final,2.0,1545.472406717463,1556.4537848263874,10.981378108924511,True
+He CuiLian,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Final,3.0,1519.8856470056921,1527.7041231802393,7.818476174547083,True
+Ropek Edyta,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Final,5.0,1568.4623421103322,1564.678527020528,-3.7838150898042966,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Final,8.0,1570.1693290367161,1552.4650212749502,-17.704307761765925,True
+Li Chunhua,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,1.0,1541.7580227277776,1556.8168600549363,15.058837327158615,True
+He Cuifang,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,2.0,1532.8172590435877,1545.472406717463,12.65514767387519,True
+He CuiLian,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,4.0,1511.9127205547702,1519.8856470056921,7.972926450922029,True
+Ropek Edyta,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,5.0,1566.0394215614824,1568.4623421103322,2.422920548849833,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,8.0,1576.988083915461,1570.1693290367161,-6.818754878744877,True
+Ryepko Olena,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,9.0,1551.4915291521233,1542.9847253188925,-8.50680383323078,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Women,Qualification,10.0,1575.075448404847,1562.4676051745582,-12.607843230288838,True
+He Cuifang,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,1.0,1569.266372408236,1583.2250951054325,13.958722697196395,True
+Li Chunhua,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,2.0,1585.1443430420477,1596.25736373711,11.113020695062245,True
+He CuiLian,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,3.0,1536.398068913167,1547.7512730414364,11.353204128269445,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,4.0,1570.8931356365736,1578.485522736108,7.592387099534405,True
+Ryepko Olena,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,6.0,1555.0674662922029,1559.2004019915794,4.132935699376463,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,7.0,1558.6123062106283,1560.453841091248,1.8415348806196872,True
+Ropek Edyta,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,8.0,1574.372436662684,1573.3308244231384,-1.0416122395456344,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Final,9.0,1525.7741270503561,1524.9391225688546,-0.8350044815014702,True
+Li Chunhua,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,1.0,1571.6798968193705,1585.1443430420477,13.464446222677113,True
+He Cuifang,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,2.0,1556.4537848263874,1569.266372408236,12.812587581848586,True
+Ryepko Olena,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,3.0,1542.9847253188925,1555.0674662922029,12.082740973310397,True
+Ropek Edyta,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,4.0,1564.678527020528,1574.372436662684,9.693909642156013,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,5.0,1562.4676051745582,1570.8931356365736,8.425530462015251,True
+He CuiLian,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,6.0,1527.7041231802393,1536.398068913167,8.693945732927633,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,7.0,1552.4650212749502,1558.6123062106283,6.147284935678148,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,11.0,1523.7879041313151,1525.7741270503561,1.9862229190410372,True
+Yurina Valentina,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Women,Qualification,17.0,1584.9212284121174,1575.6864085517905,-9.234819860327061,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,1.0,1586.988031849833,1600.3920017186622,13.403969868829218,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,2.0,1588.597353409388,1599.8334792053365,11.236125795948558,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,3.0,1582.607427703452,1592.0267155327522,9.419287829300268,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,4.0,1571.8709040942924,1579.6942567004112,7.823352606118695,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,6.0,1569.75184733314,1573.458169665727,3.706322332587059,True
+Li Chunhua,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,7.0,1600.5586377411767,1600.6919622968355,0.1333245556588969,True
+He Cuifang,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,9.0,1583.1133951231336,1579.8055151585686,-3.307879964565007,True
+He CuiLian,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,14.0,1540.8956524414361,1528.8878138342502,-12.007838607185956,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Final,15.0,1515.7707381561552,1502.797307173731,-12.973430982424182,True
+Ropek Edyta,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,1.0,1573.3308244231384,1586.988031849833,13.65720742669475,True
+Ryepko Olena,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,2.0,1559.2004019915794,1571.8709040942924,12.670502102712973,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,3.0,1578.485522736108,1588.597353409388,10.11183067328014,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,4.0,1560.453841091248,1569.75184733314,9.298006241891914,True
+Yurina Valentina,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,5.0,1575.6864085517905,1582.607427703452,6.92101915166164,True
+Li Chunhua,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,6.0,1596.25736373711,1600.5586377411767,4.301274004066619,True
+He Cuifang,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,9.0,1583.2250951054325,1583.1133951231336,-0.11169998229882505,True
+He CuiLian,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,14.0,1547.7512730414364,1540.8956524414361,-6.855620600000389,True
+Blanco Lucelia,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Women,Qualification,16.0,1524.9391225688546,1515.7707381561552,-9.168384412699464,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,1.0,1613.3242456556775,1627.3595496651333,14.035304009455672,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,2.0,1585.6109397961209,1596.6022590855828,10.991319289462,True
+Ryepko Olena,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,3.0,1581.0202490084105,1587.7510857459552,6.730836737544612,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,4.0,1606.000694377812,1606.9080467596025,0.9073523817905369,True
+Blanco Lucelia,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,5.0,1515.772752514531,1516.7670671991045,0.9943146845735793,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,6.0,1590.0924670379309,1582.6939627784311,-7.398504259499665,True
+Li Chunhua,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Final,7.0,1595.6656129856397,1583.357642732161,-12.307970253478816,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,1.0,1599.8334792053365,1613.3242456556775,13.490766450341061,True
+Stenkovaya Anna,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,2.0,1573.458169665727,1585.6109397961209,12.152770130393844,True
+Blanco Lucelia,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,3.0,1502.797307173731,1515.772752514531,12.975445340800077,True
+Ropek Edyta,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,4.0,1600.3920017186622,1606.000694377812,5.608692659149731,True
+Ryepko Olena,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,6.0,1579.6942567004112,1581.0202490084105,1.3259923079993459,True
+Yurina Valentina,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,7.0,1592.0267155327522,1590.0924670379309,-1.9342484948212415,True
+Li Chunhua,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,8.0,1600.6919622968355,1595.6656129856397,-5.026349311195776,True
+He Cuifang,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Women,Qualification,11.0,1579.8055151585686,1567.737767481328,-12.06774767724049,True
+Ryepko Olena,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,1.0,1594.3688377776275,1607.9925458837126,13.623708106085237,True
+Ropek Edyta,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,2.0,1615.1924499173165,1625.7495657350592,10.557115817742657,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,3.0,1531.7375949199456,1544.1674236804497,12.429828760504035,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,4.0,1628.4167115445343,1634.166896343651,5.750184799116524,True
+Li Chunhua,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,5.0,1591.4410222007398,1596.7985672619998,5.357545061259983,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,6.0,1609.119640771445,1611.528777869889,2.409137098444123,True
+Yurina Valentina,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Final,8.0,1593.3329565599329,1592.2371737654887,-1.0957827944440919,True
+Stenkovaya Anna,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,1.0,1596.6022590855828,1609.119640771445,12.51738168586211,True
+Blanco Lucelia,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,2.0,1516.7670671991045,1531.7375949199456,14.970527720841114,True
+Yurina Valentina,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,3.0,1582.6939627784311,1593.3329565599329,10.638993781501698,True
+Ropek Edyta,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,4.0,1606.9080467596025,1615.1924499173165,8.28440315771407,True
+Li Chunhua,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,5.0,1583.357642732161,1591.4410222007398,8.083379468578785,True
+Ryepko Olena,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,6.0,1587.7510857459552,1594.3688377776275,6.617752031672284,True
+Tuzhylina Svitlana,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Women,Qualification,9.0,1627.3595496651333,1628.4167115445343,1.0571618794010456,True

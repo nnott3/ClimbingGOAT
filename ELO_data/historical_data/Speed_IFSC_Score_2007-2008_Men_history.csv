@@ -1,0 +1,696 @@
+name,event,year,date,discipline,gender,round,rank,elo_before,elo_after,elo_change,competed
+Sinitcyn Sergei,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Vaitsekhovskii Evgenii,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Skripov Anatoly,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Peshekhonov Alexander,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Escobar Manuel,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Komondi Csaba,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Carvajal Nestor,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+De Las Salas Leonel,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Amann Mark,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Osipov Maksym,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Swirk Lukasz,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kosterin Alexander,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Januel Nicolas,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Hroza Libor,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Svacha Jiri,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Portsev Aleksei,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lau Johannes,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Conrad Mathias,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sirotti Michel,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Coretti Manuel,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Giupponi Luca,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Juhasz Gyula,Initial Rating,2007,2007-05-01,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Skripov Anatoly,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,1.0,1513.019246969457,1528.6117869261284,15.59253995667129,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,2.0,1516.0,1529.360816056164,13.360816056164003,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,3.0,1510.025427070086,1521.587022448557,11.56159537847104,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,4.0,1502.483285346313,1512.317129641372,9.833844295058851,True
+Komondi Csaba,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,5.0,1508.5235965882375,1515.957893368008,7.43429677977052,True
+Januel Nicolas,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,6.0,1497.9181974152561,1503.762254920393,5.844057505136894,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,7.0,1505.5100545006778,1508.8663203092185,3.356265808540571,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,8.0,1514.5112527044535,1515.302790558591,0.7915378541375515,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,9.0,1499.4432279048078,1498.8431724737202,-0.6000554310877309,True
+Amann Mark,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,10.0,1503.9983271728452,1501.0396589368122,-2.958668236032948,True
+Carvajal Nestor,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,11.0,1507.0184750358048,1501.7691966771154,-5.249278358689561,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,12.0,1500.9649214210292,1493.8631981770868,-7.101723243942341,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,13.0,1511.52397449364,1501.7490603305891,-9.774914163050864,True
+Portsev Aleksei,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,14.0,1493.323011970064,1482.2774532245464,-11.045558745517503,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,15.0,1496.3898226817023,1483.026757290678,-13.363065391024387,True
+Svacha Jiri,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Final,16.0,1494.8580965471215,1479.3957514971764,-15.462345049945036,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,1.0,1500.0,1516.0,16.000000000000007,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,2.0,1500.0,1514.5112527044535,14.511252704453433,True
+Skripov Anatoly,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,3.0,1500.0,1513.019246969457,13.01924696945714,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,4.0,1500.0,1511.52397449364,11.523974493640036,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,5.0,1500.0,1510.025427070086,10.025427070086025,True
+Komondi Csaba,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,6.0,1500.0,1508.5235965882375,8.523596588237638,True
+Carvajal Nestor,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,7.0,1500.0,1507.0184750358048,7.018475035804761,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,8.0,1500.0,1505.5100545006778,5.51005450067787,True
+Amann Mark,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,9.0,1500.0,1503.9983271728452,3.998327172845163,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,10.0,1500.0,1502.483285346313,2.483285346313023,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,11.0,1500.0,1500.9649214210292,0.964921421029155,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,12.0,1500.0,1499.4432279048078,-0.5567720951922261,True
+Januel Nicolas,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,13.0,1500.0,1497.9181974152561,-2.081802584743798,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,14.0,1500.0,1496.3898226817023,-3.6101773182978025,True
+Svacha Jiri,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,15.0,1500.0,1494.8580965471215,-5.14190345287863,True
+Portsev Aleksei,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,16.0,1500.0,1493.323011970064,-6.676988029936057,True
+Lau Johannes,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,17.0,1500.0,1491.7845620265803,-8.215437973419785,True
+Conrad Mathias,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,18.0,1500.0,1490.2427399121439,-9.757260087856032,True
+Sirotti Michel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,19.0,1500.0,1488.6975389435731,-11.302461056426893,True
+Coretti Manuel,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,20.0,1500.0,1487.1489525609468,-12.851047439053197,True
+Giupponi Luca,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,21.0,1500.0,1485.5969743295184,-14.403025670481643,True
+Juhasz Gyula,IFSC Climbing Worldcup (S) - Trento (ITA) 2007,2007,2007-05-01,Speed,Men,Qualification,22.0,1500.0,1484.041597941623,-15.958402058376965,True
+Salimov Oleksandr,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sharafutdinov Dmitrii,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Badia Nicolas,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Jubes Angarita Marco Antonio,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Preti Lucas,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Vorobyev Valeriy,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Chernikov Mikhail,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kaurov Ivan,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Chapelle Sylvain,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Shyshkovskyy Ivan,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lopez Mateos Eric,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kryvonos Sergiy,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Glairon Mondet Guillaume,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Subbotin Iakov,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Cai LuYuan,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Gogol Mikhail,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lai Chi-Wai,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Boulbahaiem Salah,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Hejl Jakub,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Zhong QiXin,Initial Rating,2007,2007-07-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,1.0,1538.1127786302618,1552.9915728550918,14.878794224829988,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,2.0,1529.8083125250384,1543.0055599217103,13.197247396671843,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,3.0,1513.2791495465701,1525.1935767416878,11.914427195117701,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,4.0,1515.200863903357,1524.924325665706,9.723461762349066,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,5.0,1512.686291964017,1520.429511168598,7.743219204581007,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,6.0,1511.8372099593857,1517.5124731470905,5.675263187704787,True
+Hroza Libor,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,7.0,1494.8144481213687,1499.2064206139507,4.391972492582093,True
+Escobar Manuel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,8.0,1536.642445796078,1536.8665239426423,0.2240781465643349,True
+Skripov Anatoly,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,9.0,1534.8368838405224,1533.0166451956757,-1.8202386448466972,True
+Carvajal Nestor,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,10.0,1510.9684247483706,1508.17892808481,-2.789496663560575,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,11.0,1514.308661384463,1509.2135623364397,-5.095099048023302,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,12.0,1503.284638106957,1496.580531779084,-6.704106327873039,True
+Preti Lucas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,13.0,1504.144344996451,1495.2442581402797,-8.900086856171395,True
+Badia Nicolas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,14.0,1506.7175870736744,1495.5308920484104,-11.18669502526395,True
+Jubes Angarita Marco Antonio,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,15.0,1505.002983375485,1491.7325526967268,-13.2704306787581,True
+Januel Nicolas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Final,16.0,1512.013926164691,1496.2261627014454,-15.787763463245497,True
+Escobar Manuel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,1.0,1521.587022448557,1536.642445796078,15.055423347520845,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,2.0,1515.302790558591,1529.8083125250384,14.505521966447482,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,3.0,1498.8431724737202,1513.2791495465701,14.435977072849974,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,4.0,1501.7490603305891,1515.200863903357,13.45180357276791,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,5.0,1500.0,1512.686291964017,12.686291964017038,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,6.0,1500.0,1511.8372099593857,11.837209959385845,True
+Hroza Libor,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,7.0,1483.026757290678,1494.8144481213687,11.787690830690627,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,8.0,1529.360816056164,1538.1127786302618,8.751962574097803,True
+Carvajal Nestor,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,9.0,1501.7691966771154,1510.9684247483706,9.199228071255218,True
+Januel Nicolas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,10.0,1503.762254920393,1512.013926164691,8.251671244297931,True
+Skripov Anatoly,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,11.0,1528.6117869261284,1534.8368838405224,6.225096914393936,True
+Badia Nicolas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,12.0,1500.0,1506.7175870736744,6.7175870736744745,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,13.0,1508.8663203092185,1514.308661384463,5.442341075244574,True
+Jubes Angarita Marco Antonio,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,14.0,1500.0,1505.002983375485,5.002983375485036,True
+Preti Lucas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,15.0,1500.0,1504.144344996451,4.1443449964510055,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,16.0,1500.0,1503.284638106957,3.284638106956876,True
+Komondi Csaba,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,17.0,1515.957893368008,1517.6282153229056,1.6703219548976986,True
+Lau Johannes,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,18.0,1491.7845620265803,1493.7333358275405,1.94877380096028,True
+Chernikov Mikhail,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,19.0,1500.0,1500.6986301450931,0.698630145093251,True
+Kaurov Ivan,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,20.0,1500.0,1499.834634822493,-0.16536517750703605,True
+Chapelle Sylvain,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,21.0,1500.0,1498.9695641374315,-1.0304358625685905,True
+Osipov Maksym,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,22.0,1512.317129641372,1509.838856418397,-2.4782732229750444,True
+Shyshkovskyy Ivan,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,23.0,1500.0,1497.2354704765467,-2.764529523453266,True
+Lopez Mateos Eric,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,24.0,1500.0,1496.3671648386376,-3.6328351613624292,True
+Kryvonos Sergiy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,25.0,1500.0,1495.4977785644464,-4.502221435553505,True
+Glairon Mondet Guillaume,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,26.0,1500.0,1494.62731036567,-5.372689634330165,True
+Amann Mark,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,27.0,1501.0396589368122,1494.746324521177,-6.2933344156352,True
+Swirk Lukasz,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,28.0,1493.8631981770868,1487.035927626833,-6.827270550253859,True
+Sirotti Michel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,29.0,1488.6975389435731,1481.2404902956343,-7.457048647938763,True
+Subbotin Iakov,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,30.0,1500.0,1491.1355774844662,-8.864422515533686,True
+Cai LuYuan,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,31.0,1500.0,1490.2596819929086,-9.740318007091439,True
+Gogol Mikhail,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,32.0,1500.0,1489.3826971079818,-10.617302892018248,True
+Lai Chi-Wai,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,33.0,1500.0,1488.5046216289861,-11.495378371013896,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,34.0,1500.0,1487.6254543681914,-12.374545631808616,True
+Juhasz Gyula,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,35.0,1484.041597941623,1471.5393308792798,-12.502267062343224,True
+Hejl Jakub,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,36.0,1500.0,1485.8648335220503,-14.13516647794971,True
+Svacha Jiri,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,37.0,1479.3957514971764,1464.9167099924966,-14.479041504679877,True
+Zhong QiXin,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2007,2007,2007-07-11,Speed,Men,Qualification,37.0,1500.0,1484.5320493100394,-15.467950689960626,True
+Styenkovyy Maksym,Initial Rating,2007,2007-07-21,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Schmidl Matthias,Initial Rating,2007,2007-07-21,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,1.0,1566.6684899174445,1580.2636772910394,13.595187373594763,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,2.0,1555.7279614848417,1567.7577769700995,12.029815485257709,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,3.0,1535.9089263883336,1546.8037818378025,10.894855449468986,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,4.0,1489.492501450783,1500.5487392375437,11.056237786760775,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,5.0,1544.8660765991783,1551.1254022774278,6.259325678249613,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,6.0,1494.2222539361906,1500.8350995894941,6.612845653303588,True
+Skripov Anatoly,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,7.0,1536.1710674256672,1538.6259783908338,2.454910965166577,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,8.0,1531.347557903689,1531.9118174696148,0.5642595659258992,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,9.0,1505.4194576311845,1505.1171667612489,-0.3022908699356963,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,10.0,1518.5508260431452,1515.4737544246818,-3.0770716184634654,True
+Subbotin Iakov,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,11.0,1491.9469831314548,1488.0226405481487,-3.9243425833060286,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,12.0,1513.3482083493282,1506.2369418571473,-7.111266492180887,True
+Shyshkovskyy Ivan,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,13.0,1496.3023566453987,1487.8661213752312,-8.436235270167627,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,14.0,1512.6532346857612,1501.2615682216335,-11.391666464127564,True
+Amann Mark,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,15.0,1491.0162990107997,1478.5091275368673,-12.507171473932397,True
+Januel Nicolas,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Final,16.0,1490.9630031462734,1476.286700118436,-14.676303027837255,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,1.0,1552.9915728550918,1566.6684899174445,13.676917062352727,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,2.0,1543.0055599217103,1555.7279614848417,12.722401563131323,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,3.0,1500.0,1513.3482083493282,13.348208349328187,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,4.0,1525.1935767416878,1535.9089263883336,10.715349646645754,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,5.0,1536.8665239426423,1544.8660765991783,7.999552656536098,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,5.0,1509.2135623364397,1518.5508260431452,9.337263706705558,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,7.0,1524.924325665706,1531.347557903689,6.423232237983075,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,8.0,1499.2064206139507,1505.4194576311845,6.213037017233795,True
+Skripov Anatoly,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,9.0,1533.0166451956757,1536.1710674256672,3.1544222299915123,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,10.0,1509.838856418397,1512.6532346857612,2.8143782673641877,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,11.0,1487.035927626833,1489.492501450783,2.456573823950165,True
+Subbotin Iakov,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,12.0,1491.1355774844662,1491.9469831314548,0.8114056469885578,True
+Shyshkovskyy Ivan,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,13.0,1497.2354704765467,1496.3023566453987,-0.9331138311478698,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,14.0,1496.580531779084,1494.2222539361906,-2.358277842893404,True
+Amann Mark,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,15.0,1494.746324521177,1491.0162990107997,-3.730025510377411,True
+Januel Nicolas,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,16.0,1496.2261627014454,1490.9630031462734,-5.263159555172008,True
+Kryvonos Sergiy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,17.0,1495.4977785644464,1488.8038983196716,-6.6938802447748165,True
+Svacha Jiri,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,18.0,1464.9167099924966,1458.2090093904253,-6.707700602071412,True
+Schmidl Matthias,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,19.0,1500.0,1490.1537299273004,-9.846270072699491,True
+Sirotti Michel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,20.0,1481.2404902956343,1470.8150061073786,-10.425484188255732,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,21.0,1487.6254543681914,1475.4192049158305,-12.206249452360996,True
+Giupponi Luca,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,22.0,1485.5969743295184,1472.007415132428,-13.589559197090564,True
+Hejl Jakub,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007,2007,2007-07-21,Speed,Men,Qualification,23.0,1485.8648335220503,1470.7795220696044,-15.085311452445945,True
+Chen Xiaojie,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ma Hetai,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Pilpa Reza,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Toozandehjani Hamidreza,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ye Xiangyang,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+PAN JinYu,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Chang Yeu-Shiang,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Jaggi Martin,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Verhoeven Jorg,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Mrázek Tomás,Initial Rating,2007,2007-08-11,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,1.0,1581.0055954228783,1593.8247385837467,12.819143160868455,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,2.0,1584.1834642533977,1594.759460823804,10.575996570406204,True
+Kosterin Alexander,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,3.0,1555.813601746526,1565.6357040904043,9.822102343878303,True
+Lai Chi-Wai,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,4.0,1495.0454357244773,1505.7090691492429,10.663633424765628,True
+Zhong QiXin,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,5.0,1498.2837287747973,1506.689848766041,8.406119991243706,True
+Chen Xiaojie,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,6.0,1509.5093144010568,1515.2629472865415,5.753632885484535,True
+Ma Hetai,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,7.0,1502.4595706630032,1506.439919936509,3.9803492735058796,True
+Skripov Anatoly,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,8.0,1551.5157919108085,1550.9947568574808,-0.5210350533277531,True
+Ye Xiangyang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,9.0,1497.131506886986,1497.114225746778,-0.017281140208083245,True
+Chernikov Mikhail,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,10.0,1494.222869931803,1492.2130672863034,-2.0098026454995086,True
+Kaurov Ivan,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,11.0,1504.0691216522787,1499.4424416654094,-4.626679986869142,True
+Chang Yeu-Shiang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,12.0,1489.9647286393558,1483.873832098337,-6.09089654101866,True
+Pilpa Reza,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,13.0,1500.6880854142685,1491.925944353386,-8.76214106088239,True
+PAN JinYu,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,14.0,1491.7635747704915,1481.2734663137462,-10.490108456745206,True
+Toozandehjani Hamidreza,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,15.0,1498.9120680510973,1485.9103223540724,-13.001745697025044,True
+Cai LuYuan,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Final,16.0,1486.0749818845782,1471.5208567809111,-14.554125103667072,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,1.0,1567.7577769700995,1581.0055954228783,13.24781845277882,True
+Skripov Anatoly,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,2.0,1538.6259783908338,1551.5157919108085,12.889813519974783,True
+Zhong QiXin,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,3.0,1484.5320493100394,1498.2837287747973,13.751679464757915,True
+Kosterin Alexander,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,4.0,1546.8037818378025,1555.813601746526,9.00981990872357,True
+Chen Xiaojie,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,5.0,1500.0,1509.5093144010568,9.50931440105676,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,6.0,1580.2636772910394,1584.1834642533977,3.9197869623582857,True
+Lai Chi-Wai,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,7.0,1488.5046216289861,1495.0454357244773,6.54081409549124,True
+Kaurov Ivan,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,8.0,1499.834634822493,1504.0691216522787,4.234486829785692,True
+Ma Hetai,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,9.0,1500.0,1502.4595706630032,2.4595706630032668,True
+Pilpa Reza,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,10.0,1500.0,1500.6880854142685,0.6880854142683654,True
+Toozandehjani Hamidreza,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,11.0,1500.0,1498.9120680510973,-1.0879319489025647,True
+Ye Xiangyang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,12.0,1500.0,1497.131506886986,-2.8684931130139786,True
+Cai LuYuan,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,13.0,1490.2596819929086,1486.0749818845782,-4.184700108330345,True
+Chernikov Mikhail,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,14.0,1500.6986301450931,1494.222869931803,-6.47576021329022,True
+PAN JinYu,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,15.0,1500.0,1491.7635747704915,-8.236425229508516,True
+Chang Yeu-Shiang,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,16.0,1500.0,1489.9647286393558,-10.035271360644273,True
+Jaggi Martin,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,17.0,1500.0,1488.161283481029,-11.838716518971083,True
+Verhoeven Jorg,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,18.0,1500.0,1486.3532289178086,-13.646771082191485,True
+Mrázek Tomás,IFSC Climbing Worldcup (L+S) - Qinghai (CHN) 2007,2007,2007-08-11,Speed,Men,Qualification,19.0,1500.0,1484.540554804649,-15.459445195350918,True
+Shulga Olexiy,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Oleksy Tomasz,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Nigmatulin Alexandr,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Devyaterikov Artyom,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Devyaterikov Nikita,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Yekimenko Mikhail,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kucsera Bálint,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Petkov Mincho,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Pouvreau Gérome,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Baumann Jonas,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Priestley Sefton,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Gál Bence,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lazarov Blagovest,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+"Low Kien Seong, Francis",Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Baxter Adrian,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Stranik Martin,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Svub Matej,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Svub Ondrej,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ulloa David,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Winkler Daniel,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Greksak Tomas,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Juárez Lester,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Perov Aleksey,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lalov Boyko,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Morgado Sílvio,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Belchior Ricardo,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Och Tumur,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ten Sijthoff Casper,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Trotter Andrew,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+ANDRADA JIMENEZ Daniel,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Crespo Esteban,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Delgado Gabriel,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Duran Daniel,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Enkhjargal  Davaakhuu,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Farrell Thomas,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Furciniti Brian,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Krastev Ivaylo,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lachat Cédric,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+March Casañas  Pau,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Radkov Ivaylo,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Urazaleev Djamshid,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Urbina Jonathan,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Van der Werf Roman,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Zelaya Diaz Roberto Antonio,Initial Rating,2007,2007-09-17,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Zhong QiXin,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,1.0,1522.1466709267584,1538.9670084624454,16.820337535686935,True
+Escobar Manuel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,2.0,1563.1631192410155,1575.9056696965806,12.742550455565144,True
+Sinitcyn Sergei,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,3.0,1604.3871838163377,1613.0597841967256,8.672600380387845,True
+Vaitsekhovskii Evgenii,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,4.0,1605.7690090645463,1612.269806968538,6.500797903991819,True
+Preti Lucas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,5.0,1508.9563522627197,1518.0153931333355,9.059040870615707,True
+Kosterin Alexander,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,6.0,1577.9234101429656,1581.5312123171216,3.607802174155985,True
+Styenkovyy Maksym,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,7.0,1520.8055329999638,1525.06327170739,4.2577387074260455,True
+Hroza Libor,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,8.0,1517.915491654607,1520.1930045689728,2.277512914365744,True
+De Las Salas Leonel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,9.0,1524.5965988383,1524.4238253057024,-0.17277353259770467,True
+Peshekhonov Alexander,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,10.0,1541.1864592996103,1538.07320606873,-3.1132532308803085,True
+Sharafutdinov Dmitrii,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,11.0,1528.823749960604,1524.1689296155482,-4.654820345055699,True
+Swirk Lukasz,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,12.0,1512.1927117875193,1506.1963919545228,-5.9963198329964085,True
+Shulga Olexiy,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,13.0,1512.5811190105442,1504.4142918402065,-8.166827170337683,True
+Lai Chi-Wai,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,14.0,1516.657020367735,1506.1346710183993,-10.522349349335533,True
+Oleksy Tomasz,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,15.0,1510.2993752026953,1497.9187033583903,-12.380671844304976,True
+Skripov Anatoly,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Final,16.0,1558.0183252389882,1541.1512268412598,-16.867098397728448,True
+Vaitsekhovskii Evgenii,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,1.0,1593.8247385837467,1605.7690090645463,11.94427048079961,True
+Zhong QiXin,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,2.0,1506.689848766041,1522.1466709267584,15.456822160717469,True
+Kosterin Alexander,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,3.0,1565.6357040904043,1577.9234101429656,12.287706052561347,True
+Styenkovyy Maksym,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,4.0,1506.2369418571473,1520.8055329999638,14.56859114281645,True
+Escobar Manuel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,5.0,1551.1254022774278,1563.1631192410155,12.037716963587734,True
+Sinitcyn Sergei,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,6.0,1594.759460823804,1604.3871838163377,9.627722992533817,True
+Preti Lucas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,7.0,1495.2442581402797,1508.9563522627197,13.71209412244004,True
+Hroza Libor,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,8.0,1505.1171667612489,1517.915491654607,12.798324893358023,True
+Shulga Olexiy,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,9.0,1500.0,1512.5811190105442,12.581119010544185,True
+Sharafutdinov Dmitrii,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,10.0,1517.5124731470905,1528.823749960604,11.311276813513258,True
+Swirk Lukasz,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,11.0,1500.5487392375437,1512.1927117875193,11.643972549975711,True
+Lai Chi-Wai,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,12.0,1505.7090691492429,1516.657020367735,10.947951218492,True
+Peshekhonov Alexander,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,13.0,1531.9118174696148,1541.1864592996103,9.274641829995558,True
+Oleksy Tomasz,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,14.0,1500.0,1510.2993752026953,10.299375202695254,True
+De Las Salas Leonel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,15.0,1515.4737544246818,1524.5965988383,9.122844413618195,True
+Skripov Anatoly,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,16.0,1550.9947568574808,1558.0183252389882,7.023568381507494,True
+Shyshkovskyy Ivan,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,17.0,1487.8661213752312,1497.355186438335,9.48906506310395,True
+Nigmatulin Alexandr,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,18.0,1500.0,1508.4681467663413,8.468146766341386,True
+Devyaterikov Artyom,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,19.0,1500.0,1508.0100293078856,8.01002930788558,True
+Devyaterikov Nikita,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,20.0,1500.0,1507.3197222084734,7.31972220847353,True
+Yekimenko Mikhail,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,20.0,1500.0,1507.324606785305,7.324606785304946,True
+Komondi Csaba,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,22.0,1517.6282153229056,1523.4423066634738,5.81409134056818,True
+Badia Nicolas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,23.0,1495.5308920484104,1501.9125237890732,6.381631740662917,True
+Kucsera Bálint,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,24.0,1500.0,1505.7144320441382,5.714432044138158,True
+Carvajal Nestor,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,25.0,1508.17892808481,1513.053047142208,4.87411905739804,True
+Jubes Angarita Marco Antonio,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,26.0,1491.7325526967268,1496.9105650133522,5.178012316625451,True
+Petkov Mincho,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,27.0,1500.0,1504.333646133359,4.33364613335897,True
+Lau Johannes,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,28.0,1493.7333358275405,1497.897276228325,4.163940400784427,True
+Pouvreau Gérome,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,29.0,1500.0,1503.4117807400685,3.411780740068424,True
+Baumann Jonas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,30.0,1500.0,1502.9502896278848,2.9502896278847213,True
+Priestley Sefton,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,31.0,1500.0,1502.4884905350266,2.4884905350265574,True
+Lopez Mateos Eric,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,32.0,1496.3671648386376,1498.5623828577332,2.195218019095643,True
+Gál Bence,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,33.0,1500.0,1501.5640801737432,1.5640801737431864,True
+Lazarov Blagovest,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,34.0,1500.0,1501.101355942834,1.1013559428340802,True
+"Low Kien Seong, Francis",IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,35.0,1500.0,1500.6383228869738,0.63832288697372,True
+Baxter Adrian,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,36.0,1500.0,1500.1749807974404,0.17498079744048084,True
+Stranik Martin,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,37.0,1500.0,1499.711329466467,-0.2886705335329449,True
+Svub Matej,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,38.0,1500.0,1499.2473686872454,-0.7526313127544952,True
+Svub Ondrej,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,39.0,1500.0,1498.7830982539324,-1.2169017460676859,True
+Ulloa David,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,40.0,1500.0,1498.3185179616535,-1.6814820383465547,True
+Winkler Daniel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,41.0,1500.0,1497.8536276065095,-2.1463723934906147,True
+Greksak Tomas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,42.0,1500.0,1497.3884269855803,-2.611573014419796,True
+Juárez Lester,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,43.0,1500.0,1496.9229158969306,-3.077084103069403,True
+Perov Aleksey,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,44.0,1500.0,1496.457094139615,-3.542905860385053,True
+Lalov Boyko,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,45.0,1500.0,1495.9909615136824,-4.009038486317632,True
+Verhoeven Jorg,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,46.0,1486.3532289178086,1482.511251245008,-3.84197767280058,True
+Morgado Sílvio,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,47.0,1500.0,1495.0581906742216,-4.941809325778436,True
+Boulbahaiem Salah,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,48.0,1475.4192049158305,1471.149287202743,-4.269917713087684,True
+Belchior Ricardo,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,49.0,1500.0,1494.1245234299429,-5.875476570057079,True
+Och Tumur,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,50.0,1500.0,1493.6568343008844,-6.343165699115702,True
+Ten Sijthoff Casper,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,51.0,1500.0,1493.1888331251737,-6.811166874826202,True
+Trotter Andrew,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,52.0,1500.0,1492.7205197099622,-7.279480290037727,True
+ANDRADA JIMENEZ Daniel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.3098648779285,-11.690135122071604,True
+Crespo Esteban,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.302065638058,-11.697934361942153,True
+Delgado Gabriel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2942611987426,-11.705738801257416,True
+Duran Daniel,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2864515565243,-11.713548443475794,True
+Enkhjargal  Davaakhuu,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.278636707942,-11.721363292057971,True
+Farrell Thomas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2708166495331,-11.729183350466917,True
+Furciniti Brian,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2629913778321,-11.737008622167888,True
+Jaggi Martin,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1488.161283481029,1476.9661472358791,-11.195136245149707,True
+Januel Nicolas,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1476.286700118436,1465.6335132516224,-10.65318686681362,True
+Krastev Ivaylo,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2406483803575,-11.759351619642496,True
+Lachat Cédric,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.232802996861,-11.76719700313909,True
+March Casañas  Pau,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.224952383228,-11.775047616772182,True
+Mrázek Tomás,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1484.540554804649,1473.475098355865,-11.065456448784044,True
+Radkov Ivaylo,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2097387840652,-11.790261215934944,True
+Urazaleev Djamshid,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.2018727946868,-11.798127205313243,True
+Urbina Jonathan,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.1940015614666,-11.805998438533353,True
+Van der Werf Roman,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.186125080917,-11.813874919082998,True
+Zelaya Diaz Roberto Antonio,IFSC Climbing World Championship (L + B + S) - Aviles (ESP) 2007,2007,2007-09-17,Speed,Men,Qualification,53.0,1500.0,1488.1782433495478,-11.82175665045221,True
+Escobar Manuel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,1.0,1576.359056593773,1590.4749780317472,14.11592143797426,True
+Kosterin Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,2.0,1591.4009744642733,1602.7120309477916,11.3110564835184,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,3.0,1619.726421332619,1627.618811924391,7.892390591771802,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,4.0,1622.4764822629727,1628.133844988395,5.657362725422178,True
+De Las Salas Leonel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,5.0,1521.108566357964,1529.4683022231047,8.359735865140747,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,6.0,1542.9769821324164,1548.1746448375716,5.197662705155208,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,7.0,1540.2537462620887,1543.4654279510141,3.21168168892543,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,8.0,1532.3482427609167,1533.817837209023,1.4695944481063687,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,9.0,1511.0278525949357,1511.39426142502,0.3664088300843149,True
+Hroza Libor,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,10.0,1515.293721479539,1513.3232783255455,-1.9704431539934595,True
+Carvajal Nestor,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,11.0,1513.838364012033,1509.7983964288662,-4.039967583166763,True
+Amann Mark,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,12.0,1472.0039763446591,1467.7996782484367,-4.204298096222458,True
+Portsev Aleksei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,13.0,1473.8009454548105,1467.3667097456398,-6.434235709170618,True
+Skripov Anatoly,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,14.0,1543.2549734100237,1531.3544243338138,-11.900549076209845,True
+Komondi Csaba,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,15.0,1521.955553807323,1508.9113451004878,-13.044208706835162,True
+Lai Chi-Wai,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Final,16.0,1500.1159326967295,1485.9447109537332,-14.171221742996252,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,1.0,1524.1689296155482,1540.2537462620887,16.084816646540535,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,2.0,1612.269806968538,1622.4764822629727,10.206675294434607,True
+Kosterin Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,3.0,1581.5312123171216,1591.4009744642733,9.869762147151818,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,4.0,1613.0597841967256,1619.726421332619,6.666637135893568,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,5.0,1500.8350995894941,1511.0278525949357,10.192753005441576,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,6.0,1525.06327170739,1532.3482427609167,7.2849710535268155,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,7.0,1538.07320606873,1542.9769821324164,4.903776063686334,True
+Escobar Manuel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,8.0,1575.9056696965806,1576.359056593773,0.45338689719242686,True
+Skripov Anatoly,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,8.0,1541.1512268412598,1543.2549734100237,2.1037465687638064,True
+Carvajal Nestor,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,10.0,1513.053047142208,1513.838364012033,0.7853168698249829,True
+Komondi Csaba,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,11.0,1523.4423066634738,1521.955553807323,-1.4867528561507695,True
+De Las Salas Leonel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,12.0,1524.4238253057024,1521.108566357964,-3.3152589477382524,True
+Hroza Libor,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,13.0,1520.1930045689728,1515.293721479539,-4.899283089433801,True
+Lai Chi-Wai,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,14.0,1506.1346710183993,1500.1159326967295,-6.018738321669845,True
+Amann Mark,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,15.0,1478.5091275368673,1472.0039763446591,-6.505151192208227,True
+Portsev Aleksei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,16.0,1482.2774532245464,1473.8009454548105,-8.476507769736026,True
+Hejl Jakub,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,17.0,1470.7795220696044,1461.041779945143,-9.737742124461318,True
+Svacha Jiri,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,18.0,1458.2090093904253,1446.3618572606927,-11.847152129732686,True
+Swirk Lukasz,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2007,2007,2007-09-28,Speed,Men,Qualification,18.0,1506.1963919545228,1492.067093312311,-14.1292986422117,True
+Shaulskiy Alexandr,Initial Rating,2008,2008-04-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Komosinski Jedrzej,Initial Rating,2008,2008-04-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Stadlober Paul,Initial Rating,2008,2008-04-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,1.0,1635.476094096253,1647.1495502665077,11.67345617025477,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,2.0,1636.2474091631275,1645.7885319398536,9.541122776726171,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,3.0,1603.2628548818986,1612.2193207369148,8.956465855016258,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,4.0,1547.9801977415748,1557.468135452766,9.48793771119136,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,5.0,1535.6257377718675,1543.6042768049292,7.9785390330616135,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,6.0,1511.9112484615075,1518.918242984629,7.006994523121348,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,7.0,1528.9170897283275,1532.9975322350758,4.08044250674838,True
+Shulga Olexiy,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,8.0,1507.312928266167,1510.3064149091,2.993486642933043,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,9.0,1599.7640411754514,1596.205610029148,-3.5584311463034366,True
+Shyshkovskyy Ivan,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,10.0,1495.4600896343645,1494.7479689877289,-0.712120646635557,True
+Komondi Csaba,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,11.0,1507.7557749920636,1504.324967869409,-3.430807122654673,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,12.0,1546.4541883806144,1539.0222556979543,-7.431932682660077,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,13.0,1520.2524394511574,1511.9245833989223,-8.32785605223521,True
+Carvajal Nestor,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,14.0,1514.9861711201136,1504.751557213817,-10.234613906296438,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,15.0,1502.3938299228578,1490.5946382103382,-11.799191712519683,True
+Shaulskiy Alexandr,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Final,16.0,1511.9668444005224,1497.542280179794,-14.424564220728474,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,1.0,1590.4749780317472,1603.2628548818986,12.787876850151388,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,2.0,1533.817837209023,1547.9801977415748,14.162360532551704,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,3.0,1627.618811924391,1636.2474091631275,8.628597238736559,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,4.0,1628.133844988395,1635.476094096253,7.342249107858088,True
+Shaulskiy Alexandr,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,5.0,1500.0,1511.9668444005224,11.966844400522502,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,6.0,1501.2615682216335,1511.9112484615075,10.64968023987389,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,7.0,1520.429511168598,1528.9170897283275,8.487578559729394,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,8.0,1529.4683022231047,1535.6257377718675,6.157435548762793,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,8.0,1513.3232783255455,1520.2524394511574,6.929161125611889,True
+Carvajal Nestor,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,10.0,1509.7983964288662,1514.9861711201136,5.187774691247348,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,11.0,1497.9187033583903,1502.3938299228578,4.475126564467401,True
+Shulga Olexiy,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,12.0,1504.4142918402065,1507.312928266167,2.898636425960657,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,13.0,1602.7120309477916,1599.7640411754514,-2.947989772340192,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,14.0,1548.1746448375716,1546.4541883806144,-1.720456456957172,True
+Komondi Csaba,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,15.0,1508.9113451004878,1507.7557749920636,-1.1555701084242016,True
+Shyshkovskyy Ivan,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,16.0,1497.355186438335,1495.4600896343645,-1.8950968039705893,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,17.0,1492.067093312311,1489.135984515931,-2.931108796380019,True
+Skripov Anatoly,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,18.0,1531.3544243338138,1525.2908612698288,-6.063563063984877,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,19.0,1511.39426142502,1504.9797371562274,-6.414524268792556,True
+Komosinski Jedrzej,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,20.0,1500.0,1492.8291228342687,-7.170877165731382,True
+Sirotti Michel,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,21.0,1470.8150061073786,1463.7096724703722,-7.1053336370065185,True
+Preti Lucas,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,22.0,1518.0153931333355,1507.4113238929167,-10.60406924041886,True
+Schmidl Matthias,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,23.0,1490.1537299273004,1479.5581035347602,-10.595626392540138,True
+Amann Mark,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,24.0,1467.7996782484367,1456.941414219824,-10.858264028612556,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,25.0,1471.149287202743,1458.8367257148616,-12.31256148788123,True
+Stadlober Paul,IFSC Climbing Worldcup (S) - Trento (ITA) 2008,2008,2008-04-27,Speed,Men,Qualification,26.0,1500.0,1485.041740918817,-14.958259081183199,True
+Li Guangpu,Initial Rating,2008,2008-06-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+ZHANG Ning,Initial Rating,2008,2008-06-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Molchanov Alexey,Initial Rating,2008,2008-06-27,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Zhong QiXin,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,1.0,1554.8164345975772,1570.310605938612,15.494171341034864,True
+Chen Xiaojie,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,2.0,1526.02276294053,1538.517960543404,12.495197602874061,True
+Li Guangpu,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,3.0,1514.6418444696917,1523.226414661879,8.58457019218741,True
+ZHANG Ning,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,4.0,1508.3586051341515,1512.7462952570381,4.3876901228865695,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,5.0,1645.2289095287356,1638.1904244055181,-7.038485123217454,True
+PAN JinYu,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,6.0,1477.750767634426,1474.5155913006865,-3.235176333739532,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,7.0,1639.1229008531463,1623.1708176173606,-15.95208323578568,True
+Perov Aleksey,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Final,8.0,1497.0198402389447,1483.5703924362074,-13.44944780273726,True
+Zhong QiXin,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,1.0,1538.9670084624454,1554.8164345975772,15.849426135131795,True
+Li Guangpu,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,2.0,1500.0,1514.6418444696917,14.64184446969162,True
+Chen Xiaojie,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,3.0,1515.2629472865415,1526.02276294053,10.75981565398844,True
+ZHANG Ning,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,4.0,1500.0,1508.3586051341515,8.358605134151562,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,5.0,1647.1495502665077,1645.2289095287356,-1.9206407377722174,True
+Perov Aleksey,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,6.0,1496.457094139615,1497.0198402389447,0.5627460993296571,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,6.0,1645.7885319398536,1639.1229008531463,-6.665631086707313,True
+PAN JinYu,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,8.0,1481.2734663137462,1477.750767634426,-3.5226986793203006,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,9.0,1557.468135452766,1546.980176688665,-10.487958764101032,True
+Osipov Maksym,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,10.0,1518.918242984629,1507.0897070938438,-11.828535890785131,True
+Molchanov Alexey,IFSC Climbing Worldcup (S + L) - Qinghai (CHN) 2008,2008,2008-06-27,Speed,Men,Qualification,11.0,1500.0,1485.8483943295603,-14.15160567043978,True
+Nieves Josmar,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Titov Vyacheslav,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Podchesov Kostiantyn,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Donets Sergey,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Abrossimov Dmitriy,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Tuzhilkin Alexander,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ter-Minasyan Arman,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Valiev Vladislav,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+LE COUSTER Yoann,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Diaz Luis,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Dupin Thomas,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kalina Alexander,Initial Rating,2008,2008-07-12,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Zhong QiXin,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,1.0,1583.6715416439943,1598.0696290551284,14.398087411134094,True
+ZHANG Ning,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,2.0,1522.0170458746686,1537.2899915675155,15.272945692846768,True
+Osipov Maksym,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,3.0,1520.374943408292,1533.6400134534622,13.265070045170246,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,4.0,1598.642099945315,1606.0562779671861,7.414178021871024,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,5.0,1633.4616834274173,1637.1390540629595,3.677370635542352,True
+Nigmatulin Alexandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,6.0,1519.056543016522,1526.0569877437129,7.000444727190901,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,7.0,1559.1633772373398,1562.1237247446975,2.9603475073576684,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,8.0,1644.8576548083824,1641.6553175818703,-3.202337226512075,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,9.0,1539.0647310009178,1538.7269607992594,-0.3377702016585633,True
+Li Guangpu,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,10.0,1537.2564643199646,1534.8713542351977,-2.385110084766999,True
+Nieves Josmar,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,11.0,1505.3308752104479,1502.331071339006,-2.9998038714417556,True
+Swirk Lukasz,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,12.0,1495.7248485623566,1491.0356293977309,-4.689219164625599,True
+Preti Lucas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,13.0,1516.17836204315,1508.3727660593502,-7.805595983799677,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,14.0,1516.8600991725552,1506.864693504215,-9.995405668340204,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,15.0,1502.0240852786724,1490.5691339571576,-11.454951321514825,True
+Escobar Manuel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Final,16.0,1615.4701887347867,1596.434235574416,-19.03595316037047,True
+Zhong QiXin,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,1.0,1570.310605938612,1583.6715416439943,13.36093570538216,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,2.0,1623.1708176173606,1633.4616834274173,10.29086581005664,True
+Li Guangpu,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,3.0,1523.226414661879,1537.2564643199646,14.0300496580855,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,4.0,1546.980176688665,1559.1633772373398,12.183200548674682,True
+Osipov Maksym,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,5.0,1507.0897070938438,1520.374943408292,13.285236314448294,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,6.0,1638.1904244055181,1644.8576548083824,6.667230402864386,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,7.0,1504.9797371562274,1516.8600991725552,11.880362016327831,True
+Nigmatulin Alexandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,8.0,1508.4681467663413,1519.056543016522,10.588396250180725,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,8.0,1490.5946382103382,1502.0240852786724,11.42944706833411,True
+ZHANG Ning,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,10.0,1512.7462952570381,1522.0170458746686,9.270750617630393,True
+Preti Lucas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,11.0,1507.4113238929167,1516.17836204315,8.767038150233219,True
+Escobar Manuel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,12.0,1612.2193207369148,1615.4701887347867,3.2508679978718904,True
+Salimov Oleksandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,13.0,1532.9975322350758,1539.0647310009178,6.067198765841946,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,14.0,1596.205610029148,1598.642099945315,2.436489916167036,True
+Swirk Lukasz,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,15.0,1489.135984515931,1495.7248485623566,6.588864046425513,True
+Nieves Josmar,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,16.0,1500.0,1505.3308752104479,5.330875210447889,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,17.0,1539.0222556979543,1541.7848151726791,2.7625594747249607,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,18.0,1543.6042768049292,1545.3960428003566,1.7917659954273373,True
+Devyaterikov Nikita,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,19.0,1507.3197222084734,1510.035745628,2.7160234195267137,True
+Titov Vyacheslav,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,20.0,1500.0,1502.2969981883348,2.2969981883347157,True
+Podchesov Kostiantyn,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,21.0,1500.0,1501.5376119772532,1.5376119772531225,True
+Shaulskiy Alexandr,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,22.0,1497.542280179794,1498.4336750008752,0.8913948210811105,True
+Sirotti Michel,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,23.0,1463.7096724703722,1465.396511175645,1.6868387052726979,True
+Schmidl Matthias,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,24.0,1479.5581035347602,1479.7595291129333,0.2014255781730495,True
+Amann Mark,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,25.0,1456.941414219824,1457.4135650675257,0.47215084770162563,True
+Hroza Libor,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,26.0,1511.9245833989223,1509.1039440999346,-2.8206392989877824,True
+Donets Sergey,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,27.0,1500.0,1496.9683172546734,-3.0316827453265645,True
+PAN JinYu,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,28.0,1474.5155913006865,1471.8954127907705,-2.620178509915988,True
+Abrossimov Dmitriy,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,29.0,1500.0,1495.4383277569837,-4.561672243016403,True
+Komondi Csaba,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,30.0,1504.324967869409,1498.7956093849161,-5.5293584844928185,True
+Kaurov Ivan,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,31.0,1499.4424416654094,1493.37176538205,-6.070676283359458,True
+Tuzhilkin Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,32.0,1500.0,1493.1348940777164,-6.865105922283675,True
+Ter-Minasyan Arman,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,33.0,1500.0,1492.365462918846,-7.634537081153853,True
+Valiev Vladislav,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,34.0,1500.0,1491.5951884700728,-8.404811529927118,True
+LE COUSTER Yoann,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,35.0,1500.0,1490.8240698893537,-9.1759301106463,True
+Juhasz Gyula,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,36.0,1471.5393308792798,1462.9048090185975,-8.634521860682344,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,37.0,1458.8367257148616,1450.0098378159023,-8.826887898959354,True
+Devyaterikov Artyom,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1508.0100293078856,1494.2428424472305,-13.767186860655029,True
+Diaz Luis,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1500.0,1486.5895452363516,-13.410454763648403,True
+Dupin Thomas,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1500.0,1486.5748483851019,-13.42515161489805,True
+Jubes Angarita Marco Antonio,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1496.9105650133522,1483.6139477955323,-13.296617217819819,True
+Kalina Alexander,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1500.0,1486.5455693336826,-13.454430666317316,True
+Lopez Mateos Eric,IFSC Climbing Worldcup (S+L) - Chamonix (FRA) 2008,2008,2008-07-12,Speed,Men,Qualification,38.0,1498.5623828577332,1485.159872563355,-13.402510294378077,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,1.0,1506.3247782368885,1524.5050722339438,18.180293997055287,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,2.0,1652.1766010912906,1661.4092445972278,9.23264350593716,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,3.0,1572.0904586456538,1582.9430149886616,10.852556343007786,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,4.0,1646.8320295759024,1652.0971278145125,5.2650982386100065,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,5.0,1504.870326100337,1514.710789936135,9.840463835797893,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,6.0,1541.8626898867735,1547.841433077119,5.978743190345533,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,7.0,1603.8283319205598,1604.7356654074604,0.9073334869006519,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,8.0,1547.5890056302387,1549.0478401110795,1.4588344808408031,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,9.0,1517.448913786832,1518.2173050117983,0.7683912249663893,True
+Komosinski Jedrzej,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,10.0,1498.8603334274815,1498.3736613854355,-0.48667204204587833,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,11.0,1612.0028981004325,1604.0012632253035,-8.001634875128971,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,12.0,1550.0090563984973,1542.800035629653,-7.20902076884436,True
+Zhong QiXin,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,13.0,1596.1783002673897,1584.6085711098663,-11.569729157523446,True
+Sirotti Michel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,14.0,1468.575937415568,1460.8761518673598,-7.699785548208132,True
+Shaulskiy Alexandr,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,15.0,1502.15590614639,1490.7457934294052,-11.410112716984715,True
+Shulga Olexiy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Final,16.0,1514.5030520778523,1500.3417588633993,-14.161293214453103,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,1.0,1641.6553175818703,1652.1766010912906,10.521283509420217,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,2.0,1637.1390540629595,1646.8320295759024,9.692975512942906,True
+Swirk Lukasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,3.0,1491.0356293977309,1506.3247782368885,15.289148839157635,True
+Oleksy Tomasz,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,4.0,1490.5691339571576,1504.870326100337,14.301192143179348,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,5.0,1562.1237247446975,1572.0904586456538,9.966733900956383,True
+Escobar Manuel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,6.0,1596.434235574416,1603.8283319205598,7.394096346143655,True
+Kosterin Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,7.0,1606.0562779671861,1612.0028981004325,5.946620133246374,True
+Osipov Maksym,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,8.0,1533.6400134534622,1541.8626898867735,8.222676433311246,True
+Hroza Libor,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,9.0,1509.1039440999346,1517.448913786832,8.344969686897425,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,10.0,1541.7848151726791,1547.5890056302387,5.8041904575596455,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,11.0,1545.3960428003566,1550.0090563984973,4.6130135981406335,True
+Komosinski Jedrzej,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,12.0,1492.8291228342687,1498.8603334274815,6.031210593212686,True
+Shulga Olexiy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,13.0,1510.3064149091,1514.5030520778523,4.196637168752118,True
+Shaulskiy Alexandr,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,14.0,1498.4336750008752,1502.15590614639,3.7222311455148085,True
+Zhong QiXin,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,15.0,1598.0696290551284,1596.1783002673897,-1.8913287877388056,True
+Sirotti Michel,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,16.0,1465.396511175645,1468.575937415568,3.179426239923065,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,17.0,1506.864693504215,1507.1061736244503,0.2414801202353204,True
+Komondi Csaba,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,18.0,1498.7956093849161,1498.3799972183933,-0.4156121665228049,True
+ZHANG Ning,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,19.0,1537.2899915675155,1534.0501830630376,-3.2398085044778897,True
+Devyaterikov Artyom,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,20.0,1494.2428424472305,1491.9683676653683,-2.2744747818622164,True
+Nieves Josmar,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,21.0,1502.331071339006,1498.6458135725425,-3.6852577664635633,True
+Devyaterikov Nikita,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,22.0,1510.035745628,1504.9545377260715,-5.081207901928463,True
+Donets Sergey,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,23.0,1496.9683172546734,1491.4543888458422,-5.513928408831042,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,24.0,1450.0098378159023,1445.084888510086,-4.924949305816234,True
+Schmidl Matthias,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,24.0,1479.7595291129333,1473.4763850036188,-6.283144109314492,True
+Li Guangpu,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,26.0,1534.8713542351977,1524.4731424500314,-10.3982117851663,True
+Diaz Luis,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,27.0,1486.5895452363516,1477.3867291458073,-9.202816090544228,True
+PAN JinYu,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,28.0,1471.8954127907705,1462.321726693028,-9.573686097742534,True
+Kalina Alexander,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,29.0,1486.5455693336826,1475.252421595809,-11.29314773787355,True
+Svub Ondrej,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,30.0,1498.7830982539324,1485.8747559336398,-12.908342320292597,True
+Svub Matej,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,31.0,1499.2473686872454,1485.2660701322784,-13.981298554967044,True
+Juhasz Gyula,IFSC Climbing Worldcup (S) - Val Daone (ITA) 2008,2008,2008-07-19,Speed,Men,Qualification,32.0,1462.9048090185975,1449.5409912052394,-13.363817813358018,True
+Leduc David,Initial Rating,2008,2008-09-26,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Rugens Rolands,Initial Rating,2008,2008-09-26,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+De Boeck Jérôme,Initial Rating,2008,2008-09-26,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lis Jurgen,Initial Rating,2008,2008-09-26,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+De Las Salas Leonel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,1.0,1547.2207500662441,1563.2519356028358,16.03118553659169,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,2.0,1669.985100634832,1678.2855627237905,8.300462088958454,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,3.0,1588.6665712143051,1598.5349915139166,9.868420299611453,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,4.0,1557.9321749080393,1567.1544034619155,9.222228553876123,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,5.0,1662.6386117379757,1664.9353666898846,2.296754951908913,True
+Zhong QiXin,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,6.0,1588.668432980731,1592.2019385000538,3.533505519322672,True
+Osipov Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,7.0,1558.358251834344,1561.2056966843402,2.8474448499962763,True
+Escobar Manuel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,8.0,1614.1967519423195,1612.2919605703833,-1.904791371936239,True
+Swirk Lukasz,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,9.0,1528.196714674457,1528.215708806359,0.01899413190199606,True
+Komondi Csaba,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,10.0,1500.1120582540689,1499.3219115998736,-0.7901466541952096,True
+Komosinski Jedrzej,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,11.0,1501.6983625778837,1498.6982592577472,-3.0001033201365783,True
+Preti Lucas,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,12.0,1503.2346759067543,1498.0200887796764,-5.214587127078058,True
+Rugens Rolands,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,13.0,1496.8605429132822,1489.794561236637,-7.065981676645154,True
+Kaurov Ivan,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,14.0,1487.3219380763758,1478.543960772742,-8.777977303633907,True
+Leduc David,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,15.0,1498.464079477942,1487.0080284405285,-11.456051037413568,True
+Portsev Aleksei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Final,16.0,1468.9327708895044,1456.6688917073454,-12.263879182158991,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,1.0,1652.0971278145125,1662.6386117379757,10.541483923463215,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,2.0,1661.4092445972278,1669.985100634832,8.57585603760413,True
+Escobar Manuel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,3.0,1604.7356654074604,1614.1967519423195,9.461086534859,True
+Osipov Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,4.0,1547.841433077119,1558.358251834344,10.516818757224943,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,5.0,1549.0478401110795,1557.9321749080393,8.884334796959765,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,6.0,1582.9430149886616,1588.6665712143051,5.72355622564352,True
+Zhong QiXin,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,7.0,1584.6085711098663,1588.668432980731,4.059861870864784,True
+De Las Salas Leonel,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,8.0,1542.800035629653,1547.2207500662441,4.420714436591232,True
+Swirk Lukasz,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,9.0,1524.5050722339438,1528.196714674457,3.6916424405134007,True
+Komosinski Jedrzej,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,10.0,1498.3736613854355,1501.6983625778837,3.3247011924482432,True
+Komondi Csaba,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,11.0,1498.3799972183933,1500.1120582540689,1.7320610356755126,True
+Portsev Aleksei,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,12.0,1467.3667097456398,1468.9327708895044,1.5660611438645669,True
+Leduc David,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,13.0,1500.0,1498.464079477942,-1.5359205220578758,True
+Rugens Rolands,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,14.0,1500.0,1496.8605429132822,-3.1394570867177842,True
+Preti Lucas,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,15.0,1508.3727660593502,1503.2346759067543,-5.138090152595748,True
+Kaurov Ivan,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,16.0,1493.37176538205,1487.3219380763758,-6.049827305674234,True
+Baumann Jonas,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,17.0,1502.9502896278848,1494.8401159387179,-8.11017368916681,True
+De Boeck Jérôme,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,18.0,1500.0,1490.4088943974848,-9.591105602515137,True
+Boulbahaiem Salah,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,19.0,1445.084888510086,1434.780198486188,-10.304690023898116,True
+Hroza Libor,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,19.0,1518.2173050117983,1504.5285883969589,-13.688716614839526,True
+Lis Jurgen,IFSC Climbing Worldcup (L+S) - Puurs (BEL) 2008,2008,2008-09-26,Speed,Men,Qualification,19.0,1500.0,1487.1323034792786,-12.867696520721442,True
+Kokorin Stanislav,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Shilenberg Andrey,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Posmashnyy Bogdan,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Abdrakhmanov Sergey,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Novitskiy Yury,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Ismagilov Eduard,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Kozlov Vasily,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Skachkov Egor,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Novikov Ivan,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Nigmanov Zufar,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sirekanyan Vaginak,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Belchikov Alexey,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Derkachev Georgy,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Podzorov Anton,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Lobzov Stanislav,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Musich Vladimir,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Yurko Oleksiy,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Topal Yaroslav,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Khopko Alexander,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Prizavoits Janis,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Sabitov Eduard,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Shirokov Evgeniy,Initial Rating,2008,2008-10-31,Speed,Men,N/A,,1500.0,1500.0,0.0,False
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,1.0,1685.9875363197982,1696.2974671718594,10.30993085206106,True
+Escobar Manuel,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,2.0,1618.3937024557188,1629.6266127978752,11.23291034215647,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,3.0,1521.5630434211776,1535.2867212231836,13.72367780200609,True
+Shilenberg Andrey,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,4.0,1510.4854903430594,1522.6378817786326,12.152391435573202,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,5.0,1616.1960570596284,1621.2398179760892,5.043760916460662,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,6.0,1578.131538061115,1582.857835989727,4.726297928612064,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,7.0,1554.8123793133432,1558.5326066484472,3.7202273351041137,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,8.0,1673.8730231160478,1669.9404828835457,-3.932540232502165,True
+Podchesov Kostiantyn,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,9.0,1507.6391537373568,1509.3244165259148,1.685262788557917,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,10.0,1605.958184609729,1600.8500745323295,-5.108110077399513,True
+Devyaterikov Artyom,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,11.0,1501.3904754224886,1499.0902461997603,-2.3002292227283503,True
+Kokorin Stanislav,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,12.0,1512.6412194295974,1507.676336279697,-4.964883149900443,True
+Preti Lucas,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,13.0,1507.8805643814794,1500.9895612838382,-6.891003097641251,True
+ZHANG Ning,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,14.0,1540.8103066769404,1530.211986794847,-10.598319882093337,True
+Nigmatulin Alexandr,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,15.0,1532.4666627815943,1520.098587928424,-12.368074853170322,True
+Swirk Lukasz,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Final,16.0,1533.8049247198753,1519.2021247613313,-14.602799958544052,True
+Kosterin Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,1.0,1604.0012632253035,1616.1960570596284,12.194793834324873,True
+Sinitcyn Sergei,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,2.0,1664.9353666898846,1673.8730231160478,8.937656426163224,True
+Vaitsekhovskii Evgenii,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,3.0,1678.2855627237905,1685.9875363197982,7.701973596007766,True
+Vorobyev Valeriy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,4.0,1507.1061736244503,1521.5630434211776,14.456869796727212,True
+Peshekhonov Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,5.0,1567.1544034619155,1578.131538061115,10.977134599199415,True
+Sharafutdinov Dmitrii,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,6.0,1543.4654279510141,1554.8123793133432,11.346951362328994,True
+Kokorin Stanislav,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,7.0,1500.0,1512.6412194295974,12.641219429597514,True
+Styenkovyy Maksym,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,8.0,1598.5349915139166,1605.958184609729,7.423193095812322,True
+Escobar Manuel,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,9.0,1612.2919605703833,1618.3937024557188,6.101741885335495,True
+Shilenberg Andrey,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,10.0,1500.0,1510.4854903430594,10.48549034305943,True
+Preti Lucas,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,11.0,1498.0200887796764,1507.8805643814794,9.86047560180294,True
+Devyaterikov Artyom,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,12.0,1491.9683676653683,1501.3904754224886,9.422107757120312,True
+ZHANG Ning,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,13.0,1534.0501830630376,1540.8103066769404,6.760123613902741,True
+Nigmatulin Alexandr,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,14.0,1526.0569877437129,1532.4666627815943,6.409675037881506,True
+Swirk Lukasz,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,15.0,1528.215708806359,1533.8049247198753,5.589215913516254,True
+Podchesov Kostiantyn,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,16.0,1501.5376119772532,1507.6391537373568,6.1015417601037,True
+Posmashnyy Bogdan,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,17.0,1500.0,1505.4515739166225,5.451573916622433,True
+Osipov Maksym,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,18.0,1561.2056966843402,1563.1111490046965,1.905452320356277,True
+Abdrakhmanov Sergey,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,19.0,1500.0,1504.0046655760016,4.00466557600162,True
+Novitskiy Yury,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,20.0,1500.0,1503.2815840646008,3.2815840646007577,True
+De Las Salas Leonel,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,21.0,1563.2519356028358,1562.891433530583,-0.3605020722527908,True
+Ismagilov Eduard,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,22.0,1500.0,1501.830107964921,1.8301079649210106,True
+Kozlov Vasily,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,23.0,1500.0,1501.1047506650777,1.1047506650778014,True
+Skachkov Egor,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,24.0,1500.0,1500.3786341986413,0.37863419864134823,True
+Novikov Ivan,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,25.0,1500.0,1499.651757760967,-0.3482422390330421,True
+Titov Vyacheslav,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,26.0,1502.2969981883348,1501.1151649499643,-1.1818332383704813,True
+Rugens Rolands,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,27.0,1489.794561236637,1488.4597614671127,-1.334799769524324,True
+Nigmanov Zufar,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,28.0,1500.0,1497.4669425160996,-2.5330574839004227,True
+Kalina Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,29.0,1475.252421595809,1473.1237576472865,-2.128663948522437,True
+Sirekanyan Vaginak,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,30.0,1500.0,1496.0075302714483,-3.992469728551701,True
+Belchikov Alexey,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,31.0,1500.0,1495.276079091148,-4.723920908852054,True
+Donets Sergey,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,32.0,1491.4543888458422,1486.3916087890861,-5.062780056756121,True
+Derkachev Georgy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,33.0,1500.0,1493.8112963663293,-6.188703633670687,True
+Kaurov Ivan,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,34.0,1478.543960772742,1472.6059470933926,-5.93801367934928,True
+Podzorov Anton,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,35.0,1500.0,1492.344090178409,-7.655909821591042,True
+Lobzov Stanislav,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,36.0,1500.0,1491.6088058460653,-8.391194153934658,True
+Musich Vladimir,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,37.0,1500.0,1490.8727523539492,-9.127247646050858,True
+Yurko Oleksiy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,38.0,1500.0,1490.1359289761988,-9.8640710238012,True
+Topal Yaroslav,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,39.0,1500.0,1489.398334993349,-10.601665006651002,True
+Khopko Alexander,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,40.0,1500.0,1488.6599696923781,-11.340030307621785,True
+Prizavoits Janis,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,41.0,1500.0,1487.9208323667563,-12.079167633243777,True
+Abrossimov Dmitriy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,42.0,1495.4383277569837,1482.8293700252252,-12.608957731758505,True
+Sabitov Eduard,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,43.0,1500.0,1486.440467023645,-13.559532976355017,True
+Li Guangpu,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,44.0,1524.4731424500314,1508.678019934783,-15.795122515248536,True
+Shirokov Evgeniy,IFSC Climbing Worldcup (S+B) - Moscow (RUS) 2008  ,2008,2008-10-31,Speed,Men,Qualification,44.0,1500.0,1485.3188820740793,-14.681117925920812,True

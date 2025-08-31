@@ -1,0 +1,28 @@
+{
+  "era_key": "Boulder_IFSC_AddedPoints_2025-2025_Women",
+  "discipline": "Boulder",
+  "gender": "Women",
+  "era_name": "IFSC_AddedPoints",
+  "start_year": 2025,
+  "end_year": 2025,
+  "total_athletes": 163,
+  "total_competitions": 7,
+  "total_elo_records": 730,
+  "avg_elo": 1500.6250691382527,
+  "median_elo": 1492.010374450434,
+  "max_elo": 1636.1974469457084,
+  "min_elo": 1459.3711541266134,
+  "most_active_athlete": "NAKAMURA Mao",
+  "most_active_competitions": 17,
+  "highest_elo_athlete": "BERTONE Oriane",
+  "years_covered": [
+    2025
+  ],
+  "date_range": {
+    "start": "2025-04-18T00:00:00",
+    "end": "2025-06-25T00:00:00"
+  },
+  "time_series_records": 544,
+  "time_series_generation_seconds": 0.023839,
+  "initialization_fix_applied": true
+}

@@ -1,0 +1,608 @@
+name,date,elo,year,competed,record_type
+Chon Jongwon,2014-04-26,1500.0,2014,False,competition
+Chon Jongwon,2014-05-31,1528.6486310658809,2014,True,competition
+Chon Jongwon,2014-06-06,1553.516795467861,2014,True,competition
+Chon Jongwon,2014-06-20,1566.2656329534404,2014,True,competition
+Chon Jongwon,2014-06-27,1590.0072366843465,2014,True,competition
+Chon Jongwon,2014-08-21,1589.2432803360591,2014,True,competition
+Chon Jongwon,2014-12-31,1589.2432803360591,2014,True,year_end
+Chon Jongwon,2015-05-30,1592.90943712333,2015,True,competition
+Chon Jongwon,2015-06-05,1604.4145693947596,2015,True,competition
+Chon Jongwon,2015-06-20,1634.0456529445703,2015,True,competition
+Chon Jongwon,2015-06-26,1679.0361720730589,2015,True,competition
+Chon Jongwon,2015-08-14,1705.3629074007176,2015,True,competition
+Chon Jongwon,2015-12-31,1717.300357465641,2015,True,year_end
+Chon Jongwon,2016-04-15,1720.2268387389117,2016,True,competition
+Chon Jongwon,2016-04-23,1700.5301855827383,2016,True,competition
+Chon Jongwon,2016-04-30,1710.8780691436637,2016,True,competition
+Chon Jongwon,2016-05-14,1730.9645546131096,2016,True,competition
+Chon Jongwon,2016-05-20,1765.8112164425852,2016,True,competition
+Chon Jongwon,2016-06-10,1782.6720161875226,2016,True,competition
+Chon Jongwon,2016-08-12,1782.6800855580746,2016,True,competition
+Chon Jongwon,2016-09-14,1791.1314830897877,2016,True,competition
+Chon Jongwon,2016-12-31,1789.4726604976186,2016,True,year_end
+Chon Jongwon,2017-04-07,1794.8961503599344,2017,True,competition
+Chon Jongwon,2017-04-22,1804.267468617808,2017,True,competition
+Chon Jongwon,2017-04-29,1810.016090390445,2017,True,competition
+Chon Jongwon,2017-05-06,1824.0496745663634,2017,True,competition
+Chon Jongwon,2017-06-09,1832.2291016265942,2017,True,competition
+Chon Jongwon,2017-06-24,1850.3565540446702,2017,True,competition
+Chon Jongwon,2017-08-18,1855.4065198524795,2017,True,competition
+Chon Jongwon,2017-12-31,1863.2217144262993,2017,True,year_end
+Chon Jongwon,2018-04-13,1850.5562341040547,2018,True,competition
+Chon Jongwon,2018-04-21,1849.3111900994622,2018,True,competition
+Chon Jongwon,2018-05-12,1840.2026786867361,2018,True,competition
+Chon Jongwon,2018-06-02,1841.199739297583,2018,True,competition
+Chon Jongwon,2018-06-08,1846.2892890781866,2018,True,competition
+Chon Jongwon,2018-09-06,1853.2105168089613,2018,True,competition
+Chon Jongwon,2018-12-31,1861.8224647431512,2018,True,year_end
+Chon Jongwon,2019-04-05,1850.8450349577695,2019,True,competition
+Chon Jongwon,2019-04-12,1856.7154069273718,2019,True,competition
+Chon Jongwon,2019-04-26,1855.8903095926844,2019,True,competition
+Chon Jongwon,2019-05-03,1847.522211010598,2019,True,competition
+Chon Jongwon,2019-05-18,1825.9346181114902,2019,True,competition
+Chon Jongwon,2019-06-07,1836.9626240360556,2019,True,competition
+Chon Jongwon,2019-08-11,1851.198501087485,2019,True,competition
+Chon Jongwon,2019-12-31,1843.7641708873314,2019,True,year_end
+Chon Jongwon,2021-06-23,1847.586236300779,2021,True,competition
+Chon Jongwon,2021-09-16,1834.7105547424376,2021,True,competition
+Chon Jongwon,2021-12-31,1834.7105547424376,2021,True,year_end
+Chon Jongwon,2022-04-08,1833.6810788430514,2022,True,competition
+Chon Jongwon,2022-12-31,1833.6810788430514,2022,True,year_end
+Fischhuber Kilian,2007-03-30,1500.0,2007,False,competition
+Fischhuber Kilian,2007-04-20,1550.1272897475562,2007,True,competition
+Fischhuber Kilian,2007-04-27,1590.8764011335115,2007,True,competition
+Fischhuber Kilian,2007-05-04,1604.145103051681,2007,True,competition
+Fischhuber Kilian,2007-06-08,1637.914118950579,2007,True,competition
+Fischhuber Kilian,2007-06-22,1650.9008731089018,2007,True,competition
+Fischhuber Kilian,2007-09-17,1669.256014675889,2007,True,competition
+Fischhuber Kilian,2007-11-09,1676.305400379564,2007,True,competition
+Fischhuber Kilian,2007-12-31,1678.0807719507095,2007,True,year_end
+Fischhuber Kilian,2008-04-18,1697.6973975157223,2008,True,competition
+Fischhuber Kilian,2008-05-02,1712.9882291639503,2008,True,competition
+Fischhuber Kilian,2008-05-30,1731.6828067703566,2008,True,competition
+Fischhuber Kilian,2008-06-06,1748.4150864400797,2008,True,competition
+Fischhuber Kilian,2008-06-13,1760.7295198838121,2008,True,competition
+Fischhuber Kilian,2008-07-04,1765.5709066461343,2008,True,competition
+Fischhuber Kilian,2008-10-31,1767.9932796989194,2008,True,competition
+Fischhuber Kilian,2008-12-31,1775.1573522072208,2008,True,year_end
+Fischhuber Kilian,2009-04-11,1764.9971947619094,2009,True,competition
+Fischhuber Kilian,2009-05-01,1779.0755462799646,2009,True,competition
+Fischhuber Kilian,2009-05-29,1785.172072832158,2009,True,competition
+Fischhuber Kilian,2009-06-05,1784.8491653614963,2009,True,competition
+Fischhuber Kilian,2009-06-12,1798.4082084019176,2009,True,competition
+Fischhuber Kilian,2009-06-30,1786.9300983291366,2009,True,competition
+Fischhuber Kilian,2009-12-31,1791.537840225408,2009,True,year_end
+Fischhuber Kilian,2010-05-14,1804.8489691763848,2010,True,competition
+Fischhuber Kilian,2010-05-28,1823.6460606851133,2010,True,competition
+Fischhuber Kilian,2010-06-04,1823.8189791779746,2010,True,competition
+Fischhuber Kilian,2010-06-17,1825.9610146691027,2010,True,competition
+Fischhuber Kilian,2010-06-25,1828.986602043241,2010,True,competition
+Fischhuber Kilian,2010-07-03,1836.1233162536344,2010,True,competition
+Fischhuber Kilian,2010-07-30,1823.1844270305287,2010,True,competition
+Fischhuber Kilian,2010-12-31,1827.1772570779601,2010,True,year_end
+Fischhuber Kilian,2011-04-14,1841.1109823897186,2011,True,competition
+Fischhuber Kilian,2011-05-07,1843.0514849820522,2011,True,competition
+Fischhuber Kilian,2011-05-13,1839.5236680060211,2011,True,competition
+Fischhuber Kilian,2011-05-27,1838.1058710436937,2011,True,competition
+Fischhuber Kilian,2011-06-03,1843.195814120995,2011,True,competition
+Fischhuber Kilian,2011-06-17,1856.8904992338191,2011,True,competition
+Fischhuber Kilian,2011-06-25,1855.6175777993328,2011,True,competition
+Fischhuber Kilian,2011-07-02,1868.3975672008903,2011,True,competition
+Fischhuber Kilian,2011-07-15,1864.217046497116,2011,True,competition
+Fischhuber Kilian,2011-08-19,1848.8949600002936,2011,True,competition
+Fischhuber Kilian,2011-12-31,1850.1867052958103,2011,True,year_end
+Fischhuber Kilian,2012-04-21,1859.0167004934112,2012,True,competition
+Fischhuber Kilian,2012-04-27,1858.515681615731,2012,True,competition
+Fischhuber Kilian,2012-05-18,1867.7951088482703,2012,True,competition
+Fischhuber Kilian,2012-06-01,1883.7501200275315,2012,True,competition
+Fischhuber Kilian,2012-08-25,1875.1449022426427,2012,True,competition
+Fischhuber Kilian,2012-09-12,1881.8547294489617,2012,True,competition
+Fischhuber Kilian,2012-12-31,1886.666904559265,2012,True,year_end
+Fischhuber Kilian,2013-04-05,1896.4686217578624,2013,True,competition
+Fischhuber Kilian,2013-04-26,1890.8787877197856,2013,True,competition
+Fischhuber Kilian,2013-05-11,1894.0797738485367,2013,True,competition
+Fischhuber Kilian,2013-05-17,1877.9763139939898,2013,True,competition
+Fischhuber Kilian,2013-06-01,1894.2795479822146,2013,True,competition
+Fischhuber Kilian,2013-06-07,1882.9355199903491,2013,True,competition
+Fischhuber Kilian,2013-08-24,1894.844934547899,2013,True,competition
+Fischhuber Kilian,2013-12-31,1879.8867894087705,2013,True,year_end
+Fischhuber Kilian,2014-04-26,1878.168914040455,2014,True,competition
+Fischhuber Kilian,2014-05-03,1849.1097992118637,2014,True,competition
+Fischhuber Kilian,2014-05-10,1855.2336376195535,2014,True,competition
+Fischhuber Kilian,2014-05-16,1873.033004182625,2014,True,competition
+Fischhuber Kilian,2014-05-31,1881.8602603447648,2014,True,competition
+Fischhuber Kilian,2014-06-06,1866.0793753738812,2014,True,competition
+Fischhuber Kilian,2014-08-21,1871.5592541970034,2014,True,competition
+Fischhuber Kilian,2014-12-31,1863.4610963623995,2014,True,year_end
+Fujii Kokoro,2013-05-11,1500.0,2013,False,competition
+Fujii Kokoro,2013-05-17,1505.1037209858234,2013,True,competition
+Fujii Kokoro,2013-08-24,1513.0335961200722,2013,True,competition
+Fujii Kokoro,2013-12-31,1513.0335961200722,2013,True,year_end
+Fujii Kokoro,2014-04-26,1528.4419898295093,2014,True,competition
+Fujii Kokoro,2014-05-03,1526.2042350056165,2014,True,competition
+Fujii Kokoro,2014-05-10,1539.1824335214492,2014,True,competition
+Fujii Kokoro,2014-05-16,1554.2741065871555,2014,True,competition
+Fujii Kokoro,2014-05-31,1557.1388289331646,2014,True,competition
+Fujii Kokoro,2014-06-06,1566.8494408708766,2014,True,competition
+Fujii Kokoro,2014-08-21,1584.5452446893491,2014,True,competition
+Fujii Kokoro,2014-12-31,1584.5452446893491,2014,True,year_end
+Fujii Kokoro,2015-05-30,1598.466452461169,2015,True,competition
+Fujii Kokoro,2015-06-05,1612.345719943678,2015,True,competition
+Fujii Kokoro,2015-06-20,1636.8620061597378,2015,True,competition
+Fujii Kokoro,2015-06-26,1646.2281892877434,2015,True,competition
+Fujii Kokoro,2015-08-14,1653.558628877515,2015,True,competition
+Fujii Kokoro,2015-12-31,1653.558628877515,2015,True,year_end
+Fujii Kokoro,2016-04-15,1661.2011663556325,2016,True,competition
+Fujii Kokoro,2016-04-23,1677.386002562985,2016,True,competition
+Fujii Kokoro,2016-04-30,1697.1495495904044,2016,True,competition
+Fujii Kokoro,2016-05-14,1730.3659475276972,2016,True,competition
+Fujii Kokoro,2016-05-20,1741.156724905516,2016,True,competition
+Fujii Kokoro,2016-06-10,1761.9950560261104,2016,True,competition
+Fujii Kokoro,2016-08-12,1774.5612395447856,2016,True,competition
+Fujii Kokoro,2016-09-14,1779.5100458547283,2016,True,competition
+Fujii Kokoro,2016-12-31,1772.4496073883413,2016,True,year_end
+Fujii Kokoro,2017-04-07,1791.1294809680194,2017,True,competition
+Fujii Kokoro,2017-04-22,1800.12604097059,2017,True,competition
+Fujii Kokoro,2017-04-29,1797.812032258569,2017,True,competition
+Fujii Kokoro,2017-05-06,1792.8577125378029,2017,True,competition
+Fujii Kokoro,2017-06-09,1783.6557189194532,2017,True,competition
+Fujii Kokoro,2017-06-24,1796.8329225055827,2017,True,competition
+Fujii Kokoro,2017-08-18,1793.2170126184255,2017,True,competition
+Fujii Kokoro,2017-12-31,1801.6257180584737,2017,True,year_end
+Fujii Kokoro,2018-04-13,1803.6713465625517,2018,True,competition
+Fujii Kokoro,2018-04-21,1801.27441815563,2018,True,competition
+Fujii Kokoro,2018-05-05,1805.8572410756603,2018,True,competition
+Fujii Kokoro,2018-05-12,1798.2006986502377,2018,True,competition
+Fujii Kokoro,2018-06-02,1815.9297984641435,2018,True,competition
+Fujii Kokoro,2018-06-08,1807.4704033321561,2018,True,competition
+Fujii Kokoro,2018-08-17,1794.7242608908527,2018,True,competition
+Fujii Kokoro,2018-09-06,1787.6914561736664,2018,True,competition
+Fujii Kokoro,2018-12-31,1800.6781530246471,2018,True,year_end
+Fujii Kokoro,2019-04-05,1803.4980783121382,2019,True,competition
+Fujii Kokoro,2019-04-12,1814.2352109787787,2019,True,competition
+Fujii Kokoro,2019-04-26,1797.356048321475,2019,True,competition
+Fujii Kokoro,2019-05-03,1798.070910361259,2019,True,competition
+Fujii Kokoro,2019-06-07,1811.5734024922008,2019,True,competition
+Fujii Kokoro,2019-08-11,1809.8018310645202,2019,True,competition
+Fujii Kokoro,2019-12-31,1819.1641949327268,2019,True,year_end
+Fujii Kokoro,2021-04-16,1817.1862109095873,2021,True,competition
+Fujii Kokoro,2021-06-23,1821.4779012745616,2021,True,competition
+Fujii Kokoro,2021-09-16,1847.9206422056484,2021,True,competition
+Fujii Kokoro,2021-12-31,1852.4037320034276,2021,True,year_end
+Fujii Kokoro,2022-05-06,1874.9492959336492,2022,True,competition
+Fujii Kokoro,2022-05-20,1876.5969028451862,2022,True,competition
+Fujii Kokoro,2022-06-10,1865.5509593757959,2022,True,competition
+Fujii Kokoro,2022-06-22,1848.9270104963782,2022,True,competition
+Fujii Kokoro,2022-12-31,1866.2386090671862,2022,True,year_end
+Glairon Mondet Guillaume,2007-03-30,1500.0,2007,False,competition
+Glairon Mondet Guillaume,2007-06-08,1507.637193277267,2007,True,competition
+Glairon Mondet Guillaume,2007-06-22,1514.9708524061143,2007,True,competition
+Glairon Mondet Guillaume,2007-09-17,1542.6520035906146,2007,True,competition
+Glairon Mondet Guillaume,2007-11-09,1551.5370585216301,2007,True,competition
+Glairon Mondet Guillaume,2007-12-31,1547.2319100145758,2007,True,year_end
+Glairon Mondet Guillaume,2008-04-18,1554.6651126775894,2008,True,competition
+Glairon Mondet Guillaume,2008-05-02,1577.3700665852823,2008,True,competition
+Glairon Mondet Guillaume,2008-05-30,1574.8734028312344,2008,True,competition
+Glairon Mondet Guillaume,2008-06-06,1569.277785267628,2008,True,competition
+Glairon Mondet Guillaume,2008-06-13,1575.2473261951445,2008,True,competition
+Glairon Mondet Guillaume,2008-07-04,1585.6444989424922,2008,True,competition
+Glairon Mondet Guillaume,2008-12-31,1576.273501441759,2008,True,year_end
+Glairon Mondet Guillaume,2009-04-11,1590.4477121210596,2009,True,competition
+Glairon Mondet Guillaume,2009-05-01,1572.4278227831771,2009,True,competition
+Glairon Mondet Guillaume,2009-05-29,1582.6465921981285,2009,True,competition
+Glairon Mondet Guillaume,2009-06-05,1606.2094981949558,2009,True,competition
+Glairon Mondet Guillaume,2009-06-12,1612.8185284686747,2009,True,competition
+Glairon Mondet Guillaume,2009-06-30,1622.9128732994473,2009,True,competition
+Glairon Mondet Guillaume,2009-12-31,1636.1306544693477,2009,True,year_end
+Glairon Mondet Guillaume,2010-05-14,1639.2204659957954,2010,True,competition
+Glairon Mondet Guillaume,2010-05-28,1645.4468656490133,2010,True,competition
+Glairon Mondet Guillaume,2010-06-04,1654.1005901819913,2010,True,competition
+Glairon Mondet Guillaume,2010-06-17,1659.0051236091524,2010,True,competition
+Glairon Mondet Guillaume,2010-06-25,1665.9375268613874,2010,True,competition
+Glairon Mondet Guillaume,2010-07-03,1660.4650364853906,2010,True,competition
+Glairon Mondet Guillaume,2010-07-30,1678.3931784304423,2010,True,competition
+Glairon Mondet Guillaume,2010-12-31,1673.930420729002,2010,True,year_end
+Glairon Mondet Guillaume,2011-04-14,1680.229682806246,2011,True,competition
+Glairon Mondet Guillaume,2011-05-07,1712.1458264367218,2011,True,competition
+Glairon Mondet Guillaume,2011-05-13,1718.190699282729,2011,True,competition
+Glairon Mondet Guillaume,2011-05-27,1702.518111128758,2011,True,competition
+Glairon Mondet Guillaume,2011-06-03,1695.2966487179472,2011,True,competition
+Glairon Mondet Guillaume,2011-06-17,1710.7407104529188,2011,True,competition
+Glairon Mondet Guillaume,2011-06-25,1735.8343330355383,2011,True,competition
+Glairon Mondet Guillaume,2011-07-02,1748.697424728483,2011,True,competition
+Glairon Mondet Guillaume,2011-07-15,1732.9024893428095,2011,True,competition
+Glairon Mondet Guillaume,2011-08-19,1740.0565849815362,2011,True,competition
+Glairon Mondet Guillaume,2011-12-31,1731.208850914045,2011,True,year_end
+Glairon Mondet Guillaume,2012-04-13,1743.8396310964702,2012,True,competition
+Glairon Mondet Guillaume,2012-04-21,1743.159865005285,2012,True,competition
+Glairon Mondet Guillaume,2012-04-27,1759.3820983020976,2012,True,competition
+Glairon Mondet Guillaume,2012-05-18,1757.55315954857,2012,True,competition
+Glairon Mondet Guillaume,2012-06-01,1751.9367292261666,2012,True,competition
+Glairon Mondet Guillaume,2012-08-25,1758.0820593550154,2012,True,competition
+Glairon Mondet Guillaume,2012-09-12,1764.2281540634492,2012,True,competition
+Glairon Mondet Guillaume,2012-12-31,1765.1065213937625,2012,True,year_end
+Glairon Mondet Guillaume,2013-03-22,1755.5106570230646,2013,True,competition
+Glairon Mondet Guillaume,2013-04-05,1768.5347979968697,2013,True,competition
+Glairon Mondet Guillaume,2013-04-26,1788.715008573682,2013,True,competition
+Glairon Mondet Guillaume,2013-05-11,1797.6544715235782,2013,True,competition
+Glairon Mondet Guillaume,2013-05-17,1779.2593404966035,2013,True,competition
+Glairon Mondet Guillaume,2013-06-01,1789.9436291167553,2013,True,competition
+Glairon Mondet Guillaume,2013-06-07,1792.398085884501,2013,True,competition
+Glairon Mondet Guillaume,2013-08-24,1773.3605390706398,2013,True,competition
+Glairon Mondet Guillaume,2013-12-31,1773.3605390706398,2013,True,year_end
+Glairon Mondet Guillaume,2014-04-26,1766.9773602087218,2014,True,competition
+Glairon Mondet Guillaume,2014-05-03,1773.9960708053068,2014,True,competition
+Glairon Mondet Guillaume,2014-05-10,1762.9139584189463,2014,True,competition
+Glairon Mondet Guillaume,2014-05-16,1757.6730746402159,2014,True,competition
+Glairon Mondet Guillaume,2014-05-31,1789.594337168356,2014,True,competition
+Glairon Mondet Guillaume,2014-06-06,1807.0180526169604,2014,True,competition
+Glairon Mondet Guillaume,2014-06-20,1815.2014597090126,2014,True,competition
+Glairon Mondet Guillaume,2014-06-27,1830.8294996632694,2014,True,competition
+Glairon Mondet Guillaume,2014-08-21,1833.8618954698943,2014,True,competition
+Glairon Mondet Guillaume,2014-12-31,1837.2228479781515,2014,True,year_end
+Glairon Mondet Guillaume,2015-05-30,1835.1692746544495,2015,True,competition
+Glairon Mondet Guillaume,2015-06-05,1831.3996808114669,2015,True,competition
+Glairon Mondet Guillaume,2015-08-14,1819.2999747587455,2015,True,competition
+Glairon Mondet Guillaume,2015-12-31,1805.7472586045592,2015,True,year_end
+Glairon Mondet Guillaume,2018-05-05,1799.9540569846165,2018,True,competition
+Glairon Mondet Guillaume,2018-05-12,1792.8348586120974,2018,True,competition
+Glairon Mondet Guillaume,2018-08-17,1788.737584471926,2018,True,competition
+Glairon Mondet Guillaume,2018-12-31,1788.737584471926,2018,True,year_end
+Narasaki Tomoa,2014-05-10,1500.0,2014,False,competition
+Narasaki Tomoa,2014-05-16,1500.0876003843557,2014,True,competition
+Narasaki Tomoa,2014-05-31,1502.8135720194146,2014,True,competition
+Narasaki Tomoa,2014-06-06,1499.2991473050463,2014,True,competition
+Narasaki Tomoa,2014-06-20,1502.7065310408564,2014,True,competition
+Narasaki Tomoa,2014-08-21,1528.5834215759546,2014,True,competition
+Narasaki Tomoa,2014-12-31,1536.2631858013576,2014,True,year_end
+Narasaki Tomoa,2015-05-30,1537.2106930419825,2015,True,competition
+Narasaki Tomoa,2015-06-05,1540.8565279772577,2015,True,competition
+Narasaki Tomoa,2015-06-20,1550.9068162505596,2015,True,competition
+Narasaki Tomoa,2015-06-26,1553.686130493356,2015,True,competition
+Narasaki Tomoa,2015-08-14,1555.8100715411979,2015,True,competition
+Narasaki Tomoa,2015-12-31,1555.8100715411979,2015,True,year_end
+Narasaki Tomoa,2016-04-15,1565.2909177389495,2016,True,competition
+Narasaki Tomoa,2016-04-23,1573.7235986053358,2016,True,competition
+Narasaki Tomoa,2016-04-30,1606.2459013194598,2016,True,competition
+Narasaki Tomoa,2016-05-14,1645.8648824225668,2016,True,competition
+Narasaki Tomoa,2016-05-20,1679.285138675026,2016,True,competition
+Narasaki Tomoa,2016-06-10,1710.0079290054468,2016,True,competition
+Narasaki Tomoa,2016-08-12,1741.2697344154003,2016,True,competition
+Narasaki Tomoa,2016-09-14,1771.3722008234715,2016,True,competition
+Narasaki Tomoa,2016-12-31,1775.5904567008224,2016,True,year_end
+Narasaki Tomoa,2017-04-07,1776.9796887351094,2017,True,competition
+Narasaki Tomoa,2017-04-22,1789.7017439082465,2017,True,competition
+Narasaki Tomoa,2017-04-29,1810.4879098856272,2017,True,competition
+Narasaki Tomoa,2017-05-06,1817.40298728603,2017,True,competition
+Narasaki Tomoa,2017-06-09,1825.3133152167427,2017,True,competition
+Narasaki Tomoa,2017-06-24,1808.9054302255968,2017,True,competition
+Narasaki Tomoa,2017-08-18,1825.7285863557315,2017,True,competition
+Narasaki Tomoa,2017-12-31,1829.5965931779212,2017,True,year_end
+Narasaki Tomoa,2018-04-13,1840.5861591434011,2018,True,competition
+Narasaki Tomoa,2018-04-21,1862.760549602761,2018,True,competition
+Narasaki Tomoa,2018-05-05,1871.7483852380478,2018,True,competition
+Narasaki Tomoa,2018-05-12,1862.6873783167703,2018,True,competition
+Narasaki Tomoa,2018-06-02,1869.304933923438,2018,True,competition
+Narasaki Tomoa,2018-06-08,1873.9217428828877,2018,True,competition
+Narasaki Tomoa,2018-08-17,1881.8093382519573,2018,True,competition
+Narasaki Tomoa,2018-09-06,1880.529435742697,2018,True,competition
+Narasaki Tomoa,2018-12-31,1879.765574781172,2018,True,year_end
+Narasaki Tomoa,2019-04-05,1889.7732230728654,2019,True,competition
+Narasaki Tomoa,2019-04-26,1902.3169811731652,2019,True,competition
+Narasaki Tomoa,2019-05-03,1919.7632967845523,2019,True,competition
+Narasaki Tomoa,2019-06-07,1932.490128845055,2019,True,competition
+Narasaki Tomoa,2019-08-11,1944.7782857029808,2019,True,competition
+Narasaki Tomoa,2019-12-31,1950.5786345503352,2019,True,year_end
+Narasaki Tomoa,2021-06-23,1952.8142252218438,2021,True,competition
+Narasaki Tomoa,2021-09-16,1958.8430631878277,2021,True,competition
+Narasaki Tomoa,2021-12-31,1963.4812029931788,2021,True,year_end
+Narasaki Tomoa,2022-04-08,1973.4244890171105,2022,True,competition
+Narasaki Tomoa,2022-05-06,1975.624433192268,2022,True,competition
+Narasaki Tomoa,2022-05-20,1978.2201828388559,2022,True,competition
+Narasaki Tomoa,2022-06-10,1966.2323194145276,2022,True,competition
+Narasaki Tomoa,2022-06-22,1966.8068870866773,2022,True,competition
+Narasaki Tomoa,2022-12-31,1961.3798386880849,2022,True,year_end
+Ogata Yoshiyuki,2014-04-26,1500.0,2014,False,competition
+Ogata Yoshiyuki,2014-06-27,1496.5801828053602,2014,True,competition
+Ogata Yoshiyuki,2014-12-31,1496.5801828053602,2014,True,year_end
+Ogata Yoshiyuki,2015-05-30,1511.6241765620618,2015,True,competition
+Ogata Yoshiyuki,2015-06-05,1507.1719702961643,2015,True,competition
+Ogata Yoshiyuki,2015-12-31,1507.1719702961643,2015,True,year_end
+Ogata Yoshiyuki,2016-04-23,1521.4108946259062,2016,True,competition
+Ogata Yoshiyuki,2016-04-30,1531.3806304518514,2016,True,competition
+Ogata Yoshiyuki,2016-05-14,1542.3090118065666,2016,True,competition
+Ogata Yoshiyuki,2016-05-20,1550.6314987527112,2016,True,competition
+Ogata Yoshiyuki,2016-06-10,1570.0986143134564,2016,True,competition
+Ogata Yoshiyuki,2016-08-12,1592.079906804599,2016,True,competition
+Ogata Yoshiyuki,2016-09-14,1599.3040144422139,2016,True,competition
+Ogata Yoshiyuki,2016-12-31,1599.3040144422139,2016,True,year_end
+Ogata Yoshiyuki,2017-04-07,1610.5690801458854,2017,True,competition
+Ogata Yoshiyuki,2017-04-22,1623.173658877734,2017,True,competition
+Ogata Yoshiyuki,2017-04-29,1617.0920134622975,2017,True,competition
+Ogata Yoshiyuki,2017-05-06,1630.3153205686847,2017,True,competition
+Ogata Yoshiyuki,2017-06-09,1641.942492799832,2017,True,competition
+Ogata Yoshiyuki,2017-06-24,1668.348587370971,2017,True,competition
+Ogata Yoshiyuki,2017-08-18,1678.633715424652,2017,True,competition
+Ogata Yoshiyuki,2017-12-31,1685.1397120975828,2017,True,year_end
+Ogata Yoshiyuki,2018-04-13,1692.8119080865188,2018,True,competition
+Ogata Yoshiyuki,2018-04-21,1696.6310932600213,2018,True,competition
+Ogata Yoshiyuki,2018-05-05,1706.9030337481938,2018,True,competition
+Ogata Yoshiyuki,2018-05-12,1714.9595152433872,2018,True,competition
+Ogata Yoshiyuki,2018-06-02,1704.1437607531645,2018,True,competition
+Ogata Yoshiyuki,2018-06-08,1712.429380546073,2018,True,competition
+Ogata Yoshiyuki,2018-08-17,1712.3204920478875,2018,True,competition
+Ogata Yoshiyuki,2018-09-06,1733.9152609823611,2018,True,competition
+Ogata Yoshiyuki,2018-12-31,1725.7925449878205,2018,True,year_end
+Ogata Yoshiyuki,2019-04-05,1732.2358592641503,2019,True,competition
+Ogata Yoshiyuki,2019-04-12,1741.6300084909703,2019,True,competition
+Ogata Yoshiyuki,2019-04-26,1750.2673534223832,2019,True,competition
+Ogata Yoshiyuki,2019-05-03,1754.4906019891405,2019,True,competition
+Ogata Yoshiyuki,2019-05-18,1763.6567305536867,2019,True,competition
+Ogata Yoshiyuki,2019-06-07,1781.260176771667,2019,True,competition
+Ogata Yoshiyuki,2019-08-11,1797.3013272778962,2019,True,competition
+Ogata Yoshiyuki,2019-12-31,1787.902472590907,2019,True,year_end
+Ogata Yoshiyuki,2021-04-16,1796.123312971323,2021,True,competition
+Ogata Yoshiyuki,2021-06-23,1820.6207105898463,2021,True,competition
+Ogata Yoshiyuki,2021-09-16,1832.127095919418,2021,True,competition
+Ogata Yoshiyuki,2021-12-31,1828.800926725584,2021,True,year_end
+Ogata Yoshiyuki,2022-04-08,1837.944744499458,2022,True,competition
+Ogata Yoshiyuki,2022-05-06,1839.5170215562719,2022,True,competition
+Ogata Yoshiyuki,2022-05-20,1847.82280696137,2022,True,competition
+Ogata Yoshiyuki,2022-06-10,1837.883176780287,2022,True,competition
+Ogata Yoshiyuki,2022-06-22,1847.0252722428818,2022,True,competition
+Ogata Yoshiyuki,2022-12-31,1850.8600868497954,2022,True,year_end
+Ogata Yoshiyuki,2023-04-28,1847.959520478705,2023,True,competition
+Ogata Yoshiyuki,2023-05-19,1832.242703254573,2023,True,competition
+Ogata Yoshiyuki,2023-06-02,1816.9456312606774,2023,True,competition
+Ogata Yoshiyuki,2023-06-09,1814.3587901533501,2023,True,competition
+Ogata Yoshiyuki,2023-06-14,1816.7536586801273,2023,True,competition
+Ogata Yoshiyuki,2023-08-01,1819.6402845883104,2023,True,competition
+Ogata Yoshiyuki,2023-12-31,1818.9801026875682,2023,True,year_end
+Ogata Yoshiyuki,2024-04-08,1814.5403522798833,2024,True,competition
+Ogata Yoshiyuki,2024-05-03,1814.329904291212,2024,True,competition
+Ogata Yoshiyuki,2024-12-31,1792.7145255532098,2024,True,year_end
+Ondra Adam,2009-05-01,1500.0,2009,False,competition
+Ondra Adam,2009-05-29,1548.5978376338217,2009,True,competition
+Ondra Adam,2009-12-31,1549.1855073671748,2009,True,year_end
+Ondra Adam,2010-05-14,1577.6151236593785,2010,True,competition
+Ondra Adam,2010-05-28,1613.5548992175745,2010,True,competition
+Ondra Adam,2010-06-17,1655.3301086888525,2010,True,competition
+Ondra Adam,2010-06-25,1676.1745216298002,2010,True,competition
+Ondra Adam,2010-07-03,1703.6373852044185,2010,True,competition
+Ondra Adam,2010-07-30,1738.5021642569347,2010,True,competition
+Ondra Adam,2010-12-31,1748.99390143147,2010,True,year_end
+Ondra Adam,2011-07-15,1763.8329215168485,2011,True,competition
+Ondra Adam,2011-12-31,1769.617846162534,2011,True,year_end
+Ondra Adam,2014-05-16,1779.6186418694322,2014,True,competition
+Ondra Adam,2014-08-21,1807.0639506531027,2014,True,competition
+Ondra Adam,2014-12-31,1817.3142864684094,2014,True,year_end
+Ondra Adam,2015-05-30,1814.5745791717343,2015,True,competition
+Ondra Adam,2015-06-05,1826.4327627458376,2015,True,competition
+Ondra Adam,2015-06-20,1837.0818689897128,2015,True,competition
+Ondra Adam,2015-06-26,1823.4693443004317,2015,True,competition
+Ondra Adam,2015-08-14,1834.4115041324985,2015,True,competition
+Ondra Adam,2015-12-31,1830.444382537854,2015,True,year_end
+Ondra Adam,2016-09-14,1837.3742069137843,2016,True,competition
+Ondra Adam,2016-12-31,1847.1255195459958,2016,True,year_end
+Ondra Adam,2018-09-06,1850.812500030692,2018,True,competition
+Ondra Adam,2018-12-31,1834.3070939542124,2018,True,year_end
+Ondra Adam,2019-04-05,1853.986523273189,2019,True,competition
+Ondra Adam,2019-04-12,1864.9650345831385,2019,True,competition
+Ondra Adam,2019-05-03,1878.3575230704432,2019,True,competition
+Ondra Adam,2019-05-18,1875.622490889423,2019,True,competition
+Ondra Adam,2019-06-07,1876.2369557585862,2019,True,competition
+Ondra Adam,2019-08-11,1861.5817925074382,2019,True,competition
+Ondra Adam,2019-12-31,1872.1247295469345,2019,True,year_end
+Ondra Adam,2021-04-16,1885.5161674263413,2021,True,competition
+Ondra Adam,2021-12-31,1891.9414554152827,2021,True,year_end
+Ondra Adam,2023-06-02,1892.7030302081234,2023,True,competition
+Ondra Adam,2023-06-09,1895.7099949642181,2023,True,competition
+Ondra Adam,2023-08-01,1869.4891088600702,2023,True,competition
+Ondra Adam,2023-12-31,1865.3051518405878,2023,True,year_end
+Rubtsov  Aleksei,2008-07-04,1500.0,2008,False,competition
+Rubtsov  Aleksei,2008-10-31,1521.2183482888759,2008,True,competition
+Rubtsov  Aleksei,2008-12-31,1521.3763724709274,2008,True,year_end
+Rubtsov  Aleksei,2009-05-01,1536.3530797113021,2009,True,competition
+Rubtsov  Aleksei,2009-05-29,1539.9525251140865,2009,True,competition
+Rubtsov  Aleksei,2009-06-30,1572.9454642929006,2009,True,competition
+Rubtsov  Aleksei,2009-12-31,1581.853384999771,2009,True,year_end
+Rubtsov  Aleksei,2010-05-14,1591.948640117479,2010,True,competition
+Rubtsov  Aleksei,2010-05-28,1599.8880947602622,2010,True,competition
+Rubtsov  Aleksei,2010-06-17,1616.8798968945378,2010,True,competition
+Rubtsov  Aleksei,2010-06-25,1631.8662605536708,2010,True,competition
+Rubtsov  Aleksei,2010-07-03,1642.3186465880185,2010,True,competition
+Rubtsov  Aleksei,2010-07-30,1639.9012001297347,2010,True,competition
+Rubtsov  Aleksei,2010-12-31,1624.4451930573236,2010,True,year_end
+Rubtsov  Aleksei,2011-04-14,1627.190052068572,2011,True,competition
+Rubtsov  Aleksei,2011-05-07,1632.4641453389652,2011,True,competition
+Rubtsov  Aleksei,2011-05-13,1649.6756502621156,2011,True,competition
+Rubtsov  Aleksei,2011-06-17,1652.2406546087936,2011,True,competition
+Rubtsov  Aleksei,2011-06-25,1664.4557619854363,2011,True,competition
+Rubtsov  Aleksei,2011-07-02,1672.6762743692495,2011,True,competition
+Rubtsov  Aleksei,2011-07-15,1688.2965100052836,2011,True,competition
+Rubtsov  Aleksei,2011-08-19,1700.479980538504,2011,True,competition
+Rubtsov  Aleksei,2011-12-31,1712.4204277309177,2011,True,year_end
+Rubtsov  Aleksei,2012-04-13,1700.4943093919876,2012,True,competition
+Rubtsov  Aleksei,2012-04-21,1696.3061925487125,2012,True,competition
+Rubtsov  Aleksei,2012-04-27,1704.2381197946586,2012,True,competition
+Rubtsov  Aleksei,2012-05-18,1702.918706347888,2012,True,competition
+Rubtsov  Aleksei,2012-09-12,1699.124672836861,2012,True,competition
+Rubtsov  Aleksei,2012-12-31,1699.124672836861,2012,True,year_end
+Rubtsov  Aleksei,2014-06-20,1700.5667251343511,2014,True,competition
+Rubtsov  Aleksei,2014-12-31,1697.2270446528137,2014,True,year_end
+Rubtsov  Aleksei,2015-08-14,1719.7453950917754,2015,True,competition
+Rubtsov  Aleksei,2015-12-31,1729.422001982414,2015,True,year_end
+Rubtsov  Aleksei,2016-04-15,1749.2977914449812,2016,True,competition
+Rubtsov  Aleksei,2016-04-23,1765.0158638377548,2016,True,competition
+Rubtsov  Aleksei,2016-04-30,1750.8726213803232,2016,True,competition
+Rubtsov  Aleksei,2016-05-14,1767.0789856300548,2016,True,competition
+Rubtsov  Aleksei,2016-05-20,1776.5827653601327,2016,True,competition
+Rubtsov  Aleksei,2016-06-10,1771.7022704272247,2016,True,competition
+Rubtsov  Aleksei,2016-08-12,1786.1533048619008,2016,True,competition
+Rubtsov  Aleksei,2016-09-14,1798.7246503207925,2016,True,competition
+Rubtsov  Aleksei,2016-12-31,1800.0920143175974,2016,True,year_end
+Rubtsov  Aleksei,2017-04-07,1809.8429972351769,2017,True,competition
+Rubtsov  Aleksei,2017-04-22,1821.1648773745694,2017,True,competition
+Rubtsov  Aleksei,2017-04-29,1819.2655733559566,2017,True,competition
+Rubtsov  Aleksei,2017-05-06,1834.0495947704592,2017,True,competition
+Rubtsov  Aleksei,2017-06-09,1832.2622486536316,2017,True,competition
+Rubtsov  Aleksei,2017-06-24,1843.5843702905356,2017,True,competition
+Rubtsov  Aleksei,2017-08-18,1849.067455847142,2017,True,competition
+Rubtsov  Aleksei,2017-12-31,1842.0533665840555,2017,True,year_end
+Rubtsov  Aleksei,2018-04-13,1847.5588120505993,2018,True,competition
+Rubtsov  Aleksei,2018-04-21,1839.6273645607237,2018,True,competition
+Rubtsov  Aleksei,2018-05-05,1845.5843413867763,2018,True,competition
+Rubtsov  Aleksei,2018-05-12,1854.8583565898566,2018,True,competition
+Rubtsov  Aleksei,2018-06-02,1832.3007563594113,2018,True,competition
+Rubtsov  Aleksei,2018-06-08,1839.7806710285674,2018,True,competition
+Rubtsov  Aleksei,2018-08-17,1838.755401219638,2018,True,competition
+Rubtsov  Aleksei,2018-09-06,1830.568900503094,2018,True,competition
+Rubtsov  Aleksei,2018-12-31,1823.363888640589,2018,True,year_end
+Rubtsov  Aleksei,2019-04-05,1825.3005997253676,2019,True,competition
+Rubtsov  Aleksei,2019-04-12,1829.1580012030342,2019,True,competition
+Rubtsov  Aleksei,2019-04-26,1814.6093401484086,2019,True,competition
+Rubtsov  Aleksei,2019-05-03,1822.228561275327,2019,True,competition
+Rubtsov  Aleksei,2019-05-18,1818.4905705884205,2019,True,competition
+Rubtsov  Aleksei,2019-12-31,1820.8069550311066,2019,True,year_end
+Sharafutdinov Dmitrii,2007-04-20,1500.0,2007,False,competition
+Sharafutdinov Dmitrii,2007-04-27,1551.500280537499,2007,True,competition
+Sharafutdinov Dmitrii,2007-06-08,1553.0055992762989,2007,True,competition
+Sharafutdinov Dmitrii,2007-06-22,1591.3250546363433,2007,True,competition
+Sharafutdinov Dmitrii,2007-09-17,1623.4798899084524,2007,True,competition
+Sharafutdinov Dmitrii,2007-11-09,1654.5696508278565,2007,True,competition
+Sharafutdinov Dmitrii,2007-12-31,1660.6046005860494,2007,True,year_end
+Sharafutdinov Dmitrii,2008-04-18,1676.0043772524302,2008,True,competition
+Sharafutdinov Dmitrii,2008-05-30,1700.3100520922349,2008,True,competition
+Sharafutdinov Dmitrii,2008-07-04,1717.737767670032,2008,True,competition
+Sharafutdinov Dmitrii,2008-10-31,1718.0564346604622,2008,True,competition
+Sharafutdinov Dmitrii,2008-12-31,1723.8488925237498,2008,True,year_end
+Sharafutdinov Dmitrii,2009-04-11,1726.8558588474448,2009,True,competition
+Sharafutdinov Dmitrii,2009-05-01,1727.4527789548472,2009,True,competition
+Sharafutdinov Dmitrii,2009-12-31,1705.1305676324714,2009,True,year_end
+Sharafutdinov Dmitrii,2010-05-14,1688.800986057584,2010,True,competition
+Sharafutdinov Dmitrii,2010-06-17,1700.173889830326,2010,True,competition
+Sharafutdinov Dmitrii,2010-06-25,1727.2688898773706,2010,True,competition
+Sharafutdinov Dmitrii,2010-07-30,1744.8528556916015,2010,True,competition
+Sharafutdinov Dmitrii,2010-12-31,1748.433714153729,2010,True,year_end
+Sharafutdinov Dmitrii,2011-04-14,1737.8120939035764,2011,True,competition
+Sharafutdinov Dmitrii,2011-05-07,1758.1280562738355,2011,True,competition
+Sharafutdinov Dmitrii,2011-05-13,1781.7155701529175,2011,True,competition
+Sharafutdinov Dmitrii,2011-06-03,1795.5609764319777,2011,True,competition
+Sharafutdinov Dmitrii,2011-06-17,1793.2472060719288,2011,True,competition
+Sharafutdinov Dmitrii,2011-06-25,1807.6857044760084,2011,True,competition
+Sharafutdinov Dmitrii,2011-07-15,1831.8913137917273,2011,True,competition
+Sharafutdinov Dmitrii,2011-08-19,1853.0917925752499,2011,True,competition
+Sharafutdinov Dmitrii,2011-12-31,1857.4114210174855,2011,True,year_end
+Sharafutdinov Dmitrii,2012-04-13,1860.334106479571,2012,True,competition
+Sharafutdinov Dmitrii,2012-04-21,1846.4895011590736,2012,True,competition
+Sharafutdinov Dmitrii,2012-04-27,1853.265076804085,2012,True,competition
+Sharafutdinov Dmitrii,2012-05-18,1862.6219192796439,2012,True,competition
+Sharafutdinov Dmitrii,2012-08-25,1869.0490731727264,2012,True,competition
+Sharafutdinov Dmitrii,2012-09-12,1884.7836713991398,2012,True,competition
+Sharafutdinov Dmitrii,2012-12-31,1886.3361152499276,2012,True,year_end
+Sharafutdinov Dmitrii,2013-03-22,1894.32301716602,2013,True,competition
+Sharafutdinov Dmitrii,2013-04-05,1880.6520080409773,2013,True,competition
+Sharafutdinov Dmitrii,2013-04-26,1879.5652558914594,2013,True,competition
+Sharafutdinov Dmitrii,2013-05-11,1880.3731284487608,2013,True,competition
+Sharafutdinov Dmitrii,2013-05-17,1891.7819624369383,2013,True,competition
+Sharafutdinov Dmitrii,2013-06-07,1904.8980299491786,2013,True,competition
+Sharafutdinov Dmitrii,2013-08-24,1898.279103782333,2013,True,competition
+Sharafutdinov Dmitrii,2013-12-31,1903.3659827833683,2013,True,year_end
+Sharafutdinov Dmitrii,2014-04-26,1906.486704804341,2014,True,competition
+Sharafutdinov Dmitrii,2014-05-03,1923.6351239378862,2014,True,competition
+Sharafutdinov Dmitrii,2014-05-10,1926.0107247513629,2014,True,competition
+Sharafutdinov Dmitrii,2014-05-16,1923.0049216489563,2014,True,competition
+Sharafutdinov Dmitrii,2014-06-06,1934.0887786088783,2014,True,competition
+Sharafutdinov Dmitrii,2014-06-20,1937.6363600379914,2014,True,competition
+Sharafutdinov Dmitrii,2014-06-27,1923.9859237662251,2014,True,competition
+Sharafutdinov Dmitrii,2014-08-21,1909.051408755398,2014,True,competition
+Sharafutdinov Dmitrii,2014-12-31,1913.0625252224597,2014,True,year_end
+Sharafutdinov Dmitrii,2015-06-05,1902.9579793977164,2015,True,competition
+Sharafutdinov Dmitrii,2015-06-20,1909.73586810649,2015,True,competition
+Sharafutdinov Dmitrii,2015-06-26,1903.1143645147363,2015,True,competition
+Sharafutdinov Dmitrii,2015-08-14,1892.6990302362876,2015,True,competition
+Sharafutdinov Dmitrii,2015-12-31,1880.9026085649618,2015,True,year_end
+Sharafutdinov Dmitrii,2016-04-15,1872.9749629715434,2016,True,competition
+Sharafutdinov Dmitrii,2016-04-23,1851.6939435003715,2016,True,competition
+Sharafutdinov Dmitrii,2016-04-30,1852.3341184062483,2016,True,competition
+Sharafutdinov Dmitrii,2016-05-20,1829.8556024932016,2016,True,competition
+Sharafutdinov Dmitrii,2016-08-12,1838.2346537403905,2016,True,competition
+Sharafutdinov Dmitrii,2016-09-14,1823.2397995442816,2016,True,competition
+Sharafutdinov Dmitrii,2016-12-31,1823.2397995442816,2016,True,year_end
+Sharafutdinov Dmitrii,2017-04-07,1824.4013124239214,2017,True,competition
+Sharafutdinov Dmitrii,2017-04-22,1808.9476231813373,2017,True,competition
+Sharafutdinov Dmitrii,2017-04-29,1800.5593003832569,2017,True,competition
+Sharafutdinov Dmitrii,2017-06-24,1807.1544302025582,2017,True,competition
+Sharafutdinov Dmitrii,2017-08-18,1802.6199611284655,2017,True,competition
+Sharafutdinov Dmitrii,2017-12-31,1802.6199611284655,2017,True,year_end
+Sharafutdinov Dmitrii,2018-04-13,1801.2567725429901,2018,True,competition
+Sharafutdinov Dmitrii,2018-04-21,1798.1525152936722,2018,True,competition
+Sharafutdinov Dmitrii,2018-06-02,1797.7715618530817,2018,True,competition
+Sharafutdinov Dmitrii,2018-08-17,1798.420901351111,2018,True,competition
+Sharafutdinov Dmitrii,2018-09-06,1795.5668704523666,2018,True,competition
+Sharafutdinov Dmitrii,2018-12-31,1795.5668704523666,2018,True,year_end
+Sharafutdinov Dmitrii,2019-04-12,1788.807789049772,2019,True,competition
+Sharafutdinov Dmitrii,2019-12-31,1788.807789049772,2019,True,year_end
+Sugimoto Rei,2009-04-11,1500.0,2009,False,competition
+Sugimoto Rei,2009-06-30,1504.6726571088932,2009,True,competition
+Sugimoto Rei,2009-12-31,1504.6726571088932,2009,True,year_end
+Sugimoto Rei,2010-06-04,1515.3297079117879,2010,True,competition
+Sugimoto Rei,2010-12-31,1516.045832111269,2010,True,year_end
+Sugimoto Rei,2011-04-14,1515.4797562159347,2011,True,competition
+Sugimoto Rei,2011-05-27,1530.5968291610623,2011,True,competition
+Sugimoto Rei,2011-06-03,1546.482537945732,2011,True,competition
+Sugimoto Rei,2011-12-31,1564.8104296289653,2011,True,year_end
+Sugimoto Rei,2012-04-13,1575.0974843786591,2012,True,competition
+Sugimoto Rei,2012-04-21,1585.566028026996,2012,True,competition
+Sugimoto Rei,2012-04-27,1592.8938015520882,2012,True,competition
+Sugimoto Rei,2012-05-18,1618.44470083426,2012,True,competition
+Sugimoto Rei,2012-06-01,1603.5949400608347,2012,True,competition
+Sugimoto Rei,2012-08-25,1618.8211899197504,2012,True,competition
+Sugimoto Rei,2012-09-12,1629.1615887617556,2012,True,competition
+Sugimoto Rei,2012-12-31,1637.2263649224349,2012,True,year_end
+Sugimoto Rei,2013-04-05,1650.0284246019075,2013,True,competition
+Sugimoto Rei,2013-06-01,1670.899433453696,2013,True,competition
+Sugimoto Rei,2013-06-07,1684.0963023088962,2013,True,competition
+Sugimoto Rei,2013-08-24,1695.3149710010575,2013,True,competition
+Sugimoto Rei,2013-12-31,1703.0270913714144,2013,True,year_end
+Sugimoto Rei,2014-04-26,1705.7636591025241,2014,True,competition
+Sugimoto Rei,2014-05-10,1707.8809293244046,2014,True,competition
+Sugimoto Rei,2014-08-21,1719.9487842214942,2014,True,competition
+Sugimoto Rei,2014-12-31,1706.1069753305908,2014,True,year_end
+Sugimoto Rei,2015-05-30,1714.1774171517309,2015,True,competition
+Sugimoto Rei,2015-06-05,1707.1035115599695,2015,True,competition
+Sugimoto Rei,2015-06-20,1711.167105827713,2015,True,competition
+Sugimoto Rei,2015-06-26,1718.876493327456,2015,True,competition
+Sugimoto Rei,2015-08-14,1713.6668910044637,2015,True,competition
+Sugimoto Rei,2015-12-31,1714.428489715447,2015,True,year_end
+Sugimoto Rei,2016-04-15,1720.5172264277385,2016,True,competition
+Sugimoto Rei,2016-04-23,1709.4774633477145,2016,True,competition
+Sugimoto Rei,2016-04-30,1714.9066154696827,2016,True,competition
+Sugimoto Rei,2016-12-31,1701.0246315620686,2016,True,year_end
+Sugimoto Rei,2017-04-07,1702.9262536999213,2017,True,competition
+Sugimoto Rei,2017-04-22,1722.3991147890333,2017,True,competition
+Sugimoto Rei,2017-04-29,1708.8148310059082,2017,True,competition
+Sugimoto Rei,2017-05-06,1723.9076110408118,2017,True,competition
+Sugimoto Rei,2017-06-09,1730.5802389278945,2017,True,competition
+Sugimoto Rei,2017-06-24,1742.2486773381997,2017,True,competition
+Sugimoto Rei,2017-12-31,1749.2602634604013,2017,True,year_end
+Sugimoto Rei,2018-04-13,1754.6684572725853,2018,True,competition
+Sugimoto Rei,2018-04-21,1762.9108644229696,2018,True,competition
+Sugimoto Rei,2018-05-05,1766.638238664131,2018,True,competition
+Sugimoto Rei,2018-05-12,1764.0265007123508,2018,True,competition
+Sugimoto Rei,2018-06-02,1780.4109791724118,2018,True,competition
+Sugimoto Rei,2018-06-08,1801.5304590901105,2018,True,competition
+Sugimoto Rei,2018-08-17,1811.100849776633,2018,True,competition
+Sugimoto Rei,2018-09-06,1811.1613099533565,2018,True,competition
+Sugimoto Rei,2018-12-31,1811.1613099533565,2018,True,year_end
+Sugimoto Rei,2019-04-05,1817.6731613175969,2019,True,competition
+Sugimoto Rei,2019-04-12,1830.850939132315,2019,True,competition
+Sugimoto Rei,2019-04-26,1820.5282494695282,2019,True,competition
+Sugimoto Rei,2019-05-03,1824.2977121059896,2019,True,competition
+Sugimoto Rei,2019-06-07,1818.2800034686336,2019,True,competition
+Sugimoto Rei,2019-08-11,1823.0803025014893,2019,True,competition
+Sugimoto Rei,2019-12-31,1825.2273304425173,2019,True,year_end
+Sugimoto Rei,2021-04-16,1824.5008114558743,2021,True,competition
+Sugimoto Rei,2021-06-23,1827.8109647573176,2021,True,competition
+Sugimoto Rei,2021-12-31,1823.2524205940579,2021,True,year_end

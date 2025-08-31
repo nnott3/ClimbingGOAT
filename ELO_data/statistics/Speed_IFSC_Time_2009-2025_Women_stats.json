@@ -1,0 +1,43 @@
+{
+  "era_key": "Speed_IFSC_Time_2009-2025_Women",
+  "discipline": "Speed",
+  "gender": "Women",
+  "era_name": "IFSC_Time",
+  "start_year": 2009,
+  "end_year": 2025,
+  "total_athletes": 607,
+  "total_competitions": 104,
+  "total_elo_records": 5558,
+  "avg_elo": 1501.291355157659,
+  "median_elo": 1489.55065231704,
+  "max_elo": 1892.2511079613141,
+  "min_elo": 1374.2593437156117,
+  "most_active_athlete": "Jaubert Anouck",
+  "most_active_competitions": 120,
+  "highest_elo_athlete": "Jaubert Anouck",
+  "years_covered": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "date_range": {
+    "start": "2009-04-18T00:00:00",
+    "end": "2025-07-11T00:00:00"
+  },
+  "time_series_records": 4827,
+  "time_series_generation_seconds": 0.04319,
+  "initialization_fix_applied": true
+}

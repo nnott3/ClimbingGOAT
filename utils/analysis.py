@@ -47,7 +47,7 @@ class ClimbingAnalyzer:
             return
         
         # Load aggregated results
-        agg_file = self.data_dir / "raw_data" / "aggregated_results.csv"
+        agg_file = self.data_dir / "aggregate_data" / "aggregated_results.csv"
         print(f"Looking for aggregated file: {agg_file}")
         
         if agg_file.exists():
@@ -61,7 +61,7 @@ class ClimbingAnalyzer:
             print("Aggregated results file not found")
         
         # Load era-specific files
-        raw_data_dir = self.data_dir / "raw_data"
+        raw_data_dir = self.data_dir / "aggregate_data"
         if raw_data_dir.exists():
             for csv_file in raw_data_dir.glob("*.csv"):
                 if csv_file.name != "aggregated_results.csv":
@@ -419,171 +419,6 @@ class ClimbingAnalyzer:
         fig.update_layout(
             height=600,
             title_text="Competition Participation Trends Over Time"
-        )
-        
-        return fig
-    
-    def calculate_basic_elo(self, era_file: str, k_factor: int = 32) -> pd.DataFrame:
-        """Calculate basic ELO ratings for athletes in a specific era."""
-        if era_file not in self.era_files:
-            return pd.DataFrame()
-        
-        df = self.era_files[era_file].copy()
-        df = df.dropna(subset=['round_rank'])
-        df = df.sort_values(['year', 'start_date', 'event_name'])
-        
-        # Initialize ELO ratings
-        elo_ratings = {}
-        elo_history = []
-        
-        # Group by competition
-        for (event, year, discipline, gender, round_type), event_data in df.groupby(['event_name', 'year', 'discipline', 'gender', 'round']):
-            event_data = event_data.sort_values('round_rank')
-            athletes = event_data['name'].tolist()
-            ranks = event_data['round_rank'].tolist()
-            
-            # Initialize new athletes with 1500 rating
-            for athlete in athletes:
-                if athlete not in elo_ratings:
-                    elo_ratings[athlete] = 1500
-            
-            # Calculate ELO changes
-            n_athletes = len(athletes)
-            for i, athlete_a in enumerate(athletes):
-                rank_a = ranks[i]
-                rating_a = elo_ratings[athlete_a]
-                
-                # Compare against all other athletes
-                total_change = 0
-                for j, athlete_b in enumerate(athletes):
-                    if i != j:
-                        rank_b = ranks[j]
-                        rating_b = elo_ratings[athlete_b]
-                        
-                        # Expected score (better rank = higher expected score)
-                        expected_a = 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
-                        
-                        # Actual score (better rank wins)
-                        actual_a = 1 if rank_a < rank_b else 0 if rank_a > rank_b else 0.5
-                        
-                        # ELO change
-                        change = k_factor * (actual_a - expected_a) / (n_athletes - 1)
-                        total_change += change
-                
-                # Update rating
-                elo_ratings[athlete_a] += total_change
-                
-                # Record history
-                elo_history.append({
-                    'name': athlete_a,
-                    'event': event,
-                    'year': year,
-                    'discipline': discipline,
-                    'gender': gender,
-                    'round': round_type,
-                    'rank': rank_a,
-                    'elo_before': rating_a,
-                    'elo_after': elo_ratings[athlete_a],
-                    'elo_change': total_change
-                })
-        
-        return pd.DataFrame(elo_history)
-    
-    def get_elo_leaderboard(self, era_file: str, discipline: str = None, gender: str = None) -> pd.DataFrame:
-        """Get current ELO leaderboard for an era, optionally filtered by discipline and gender."""
-        elo_history = self.calculate_basic_elo(era_file)
-        
-        if elo_history.empty:
-            return pd.DataFrame()
-        
-        # Filter by discipline and gender if specified
-        if discipline:
-            elo_history = elo_history[elo_history['discipline'] == discipline]
-        if gender:
-            elo_history = elo_history[elo_history['gender'] == gender]
-        
-        if elo_history.empty:
-            return pd.DataFrame()
-        
-        # Get latest rating for each athlete
-        latest_ratings = elo_history.groupby('name').last()[['elo_after']].reset_index()
-        latest_ratings = latest_ratings.rename(columns={'elo_after': 'current_elo'})
-        
-        # Add additional stats
-        athlete_stats = elo_history.groupby('name').agg({
-            'elo_change': ['count', 'mean', 'std'],
-            'rank': 'mean',
-            'elo_after': ['min', 'max']
-        }).round(2)
-        
-        athlete_stats.columns = ['competitions', 'avg_elo_change', 'elo_volatility', 'avg_rank', 'min_elo', 'peak_elo']
-        athlete_stats = athlete_stats.reset_index()
-        
-        # Merge with current ratings
-        leaderboard = latest_ratings.merge(athlete_stats, on='name')
-        leaderboard = leaderboard.sort_values('current_elo', ascending=False)
-        
-        return leaderboard
-    
-    def create_historical_elo_chart(self, athletes: List[str], era_file: str) -> go.Figure:
-        """Create historical ELO progression chart for specified athletes."""
-        if era_file not in self.era_files:
-            return go.Figure()
-        
-        elo_history = self.calculate_basic_elo(era_file)
-        
-        if elo_history.empty:
-            return go.Figure()
-        
-        # Filter for specified athletes
-        athlete_data = elo_history[elo_history['name'].isin(athletes)]
-        
-        if athlete_data.empty:
-            return go.Figure()
-        
-        fig = go.Figure()
-        
-        # Use consistent colors
-        colors = [
-            os.getenv('CHART_COLOR_1', '#3498DB'),
-            os.getenv('CHART_COLOR_2', '#E74C3C'),
-            os.getenv('CHART_COLOR_3', '#27AE60'),
-            os.getenv('CHART_COLOR_4', '#9B59B6'),
-            os.getenv('CHART_COLOR_5', '#F39C12'),
-            os.getenv('CHART_COLOR_6', '#1ABC9C'),
-            os.getenv('CHART_COLOR_7', '#E67E22'),
-            os.getenv('CHART_COLOR_8', '#95A5A6'),
-            os.getenv('CHART_COLOR_9', '#34495E'),
-            os.getenv('CHART_COLOR_10', '#8E44AD')
-        ]
-        
-        for i, athlete in enumerate(athletes):
-            athlete_elo = athlete_data[athlete_data['name'] == athlete].copy()
-            if not athlete_elo.empty:
-                # Sort by year and create cumulative index
-                athlete_elo = athlete_elo.sort_values(['year', 'event'])
-                athlete_elo['competition_number'] = range(1, len(athlete_elo) + 1)
-                
-                fig.add_trace(go.Scatter(
-                    x=athlete_elo['competition_number'],
-                    y=athlete_elo['elo_after'],
-                    mode='lines+markers',
-                    name=athlete,
-                    line=dict(color=colors[i % len(colors)], width=2),
-                    marker=dict(size=4),
-                    hovertemplate='<b>%{fullData.name}</b><br>' +
-                                'Competition: %{x}<br>' +
-                                'ELO: %{y:.0f}<br>' +
-                                '<extra></extra>'
-                ))
-        
-        fig.update_layout(
-            title="Historical ELO Progression",
-            xaxis_title="Competition Number",
-            yaxis_title="ELO Rating",
-            hovermode='closest',
-            height=500,
-            showlegend=True
         )
         
         return fig

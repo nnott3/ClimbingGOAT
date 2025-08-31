@@ -1,0 +1,114 @@
+name,date,elo,year,competed,record_type
+De Las Salas Leonel,2007-05-01,1500.0,2007,False,competition
+De Las Salas Leonel,2007-07-11,1509.2135623364397,2007,True,competition
+De Las Salas Leonel,2007-07-21,1515.4737544246818,2007,True,competition
+De Las Salas Leonel,2007-09-17,1524.4238253057024,2007,True,competition
+De Las Salas Leonel,2007-09-28,1529.4683022231047,2007,True,competition
+De Las Salas Leonel,2007-12-31,1521.108566357964,2007,True,year_end
+De Las Salas Leonel,2008-04-27,1543.6042768049292,2008,True,competition
+De Las Salas Leonel,2008-07-12,1545.3960428003566,2008,True,competition
+De Las Salas Leonel,2008-07-19,1542.800035629653,2008,True,competition
+De Las Salas Leonel,2008-09-26,1563.2519356028358,2008,True,competition
+De Las Salas Leonel,2008-10-31,1562.891433530583,2008,True,competition
+De Las Salas Leonel,2008-12-31,1562.891433530583,2008,True,year_end
+Escobar Manuel,2007-05-01,1500.0,2007,False,competition
+Escobar Manuel,2007-07-11,1536.8665239426423,2007,True,competition
+Escobar Manuel,2007-07-21,1551.1254022774278,2007,True,competition
+Escobar Manuel,2007-09-17,1575.9056696965806,2007,True,competition
+Escobar Manuel,2007-09-28,1590.4749780317472,2007,True,competition
+Escobar Manuel,2007-12-31,1576.359056593773,2007,True,year_end
+Escobar Manuel,2008-04-27,1612.2193207369148,2008,True,competition
+Escobar Manuel,2008-07-12,1596.434235574416,2008,True,competition
+Escobar Manuel,2008-07-19,1604.7356654074604,2008,True,competition
+Escobar Manuel,2008-09-26,1612.2919605703833,2008,True,competition
+Escobar Manuel,2008-10-31,1629.6266127978752,2008,True,competition
+Escobar Manuel,2008-12-31,1618.3937024557188,2008,True,year_end
+Kosterin Alexander,2007-05-01,1500.0,2007,False,competition
+Kosterin Alexander,2007-07-11,1525.1935767416878,2007,True,competition
+Kosterin Alexander,2007-07-21,1546.8037818378025,2007,True,competition
+Kosterin Alexander,2007-08-11,1565.6357040904043,2007,True,competition
+Kosterin Alexander,2007-09-17,1581.5312123171216,2007,True,competition
+Kosterin Alexander,2007-09-28,1602.7120309477916,2007,True,competition
+Kosterin Alexander,2007-12-31,1591.4009744642733,2007,True,year_end
+Kosterin Alexander,2008-04-27,1596.205610029148,2008,True,competition
+Kosterin Alexander,2008-07-12,1606.0562779671861,2008,True,competition
+Kosterin Alexander,2008-07-19,1604.0012632253035,2008,True,competition
+Kosterin Alexander,2008-10-31,1621.2398179760892,2008,True,competition
+Kosterin Alexander,2008-12-31,1616.1960570596284,2008,True,year_end
+Osipov Maksym,2007-05-01,1500.0,2007,False,competition
+Osipov Maksym,2007-07-11,1509.838856418397,2007,True,competition
+Osipov Maksym,2007-07-21,1501.2615682216335,2007,True,competition
+Osipov Maksym,2007-12-31,1512.6532346857612,2007,True,year_end
+Osipov Maksym,2008-04-27,1518.918242984629,2008,True,competition
+Osipov Maksym,2008-06-27,1507.0897070938438,2008,True,competition
+Osipov Maksym,2008-07-12,1533.6400134534622,2008,True,competition
+Osipov Maksym,2008-07-19,1547.841433077119,2008,True,competition
+Osipov Maksym,2008-09-26,1561.2056966843402,2008,True,competition
+Osipov Maksym,2008-10-31,1563.1111490046965,2008,True,competition
+Osipov Maksym,2008-12-31,1563.1111490046965,2008,True,year_end
+Peshekhonov Alexander,2007-05-01,1500.0,2007,False,competition
+Peshekhonov Alexander,2007-07-11,1524.924325665706,2007,True,competition
+Peshekhonov Alexander,2007-07-21,1531.9118174696148,2007,True,competition
+Peshekhonov Alexander,2007-09-17,1538.07320606873,2007,True,competition
+Peshekhonov Alexander,2007-09-28,1548.1746448375716,2007,True,competition
+Peshekhonov Alexander,2007-12-31,1542.9769821324164,2007,True,year_end
+Peshekhonov Alexander,2008-04-27,1539.0222556979543,2008,True,competition
+Peshekhonov Alexander,2008-07-12,1541.7848151726791,2008,True,competition
+Peshekhonov Alexander,2008-07-19,1549.0478401110795,2008,True,competition
+Peshekhonov Alexander,2008-09-26,1567.1544034619155,2008,True,competition
+Peshekhonov Alexander,2008-10-31,1582.857835989727,2008,True,competition
+Peshekhonov Alexander,2008-12-31,1578.131538061115,2008,True,year_end
+Sharafutdinov Dmitrii,2007-07-11,1500.0,2007,False,competition
+Sharafutdinov Dmitrii,2007-09-17,1524.1689296155482,2007,True,competition
+Sharafutdinov Dmitrii,2007-09-28,1543.4654279510141,2007,True,competition
+Sharafutdinov Dmitrii,2007-12-31,1540.2537462620887,2007,True,year_end
+Sharafutdinov Dmitrii,2008-10-31,1558.5326066484472,2008,True,competition
+Sharafutdinov Dmitrii,2008-12-31,1554.8123793133432,2008,True,year_end
+Sinitcyn Sergei,2007-05-01,1500.0,2007,False,competition
+Sinitcyn Sergei,2007-07-11,1552.9915728550918,2007,True,competition
+Sinitcyn Sergei,2007-07-21,1580.2636772910394,2007,True,competition
+Sinitcyn Sergei,2007-08-11,1594.759460823804,2007,True,competition
+Sinitcyn Sergei,2007-09-17,1613.0597841967256,2007,True,competition
+Sinitcyn Sergei,2007-09-28,1627.618811924391,2007,True,competition
+Sinitcyn Sergei,2007-12-31,1619.726421332619,2007,True,year_end
+Sinitcyn Sergei,2008-04-27,1645.7885319398536,2008,True,competition
+Sinitcyn Sergei,2008-06-27,1623.1708176173606,2008,True,competition
+Sinitcyn Sergei,2008-07-12,1637.1390540629595,2008,True,competition
+Sinitcyn Sergei,2008-07-19,1652.0971278145125,2008,True,competition
+Sinitcyn Sergei,2008-09-26,1664.9353666898846,2008,True,competition
+Sinitcyn Sergei,2008-10-31,1669.9404828835457,2008,True,competition
+Sinitcyn Sergei,2008-12-31,1673.8730231160478,2008,True,year_end
+Styenkovyy Maksym,2007-07-21,1500.0,2007,False,competition
+Styenkovyy Maksym,2007-09-17,1525.06327170739,2007,True,competition
+Styenkovyy Maksym,2007-09-28,1533.817837209023,2007,True,competition
+Styenkovyy Maksym,2007-12-31,1532.3482427609167,2007,True,year_end
+Styenkovyy Maksym,2008-04-27,1557.468135452766,2008,True,competition
+Styenkovyy Maksym,2008-06-27,1546.980176688665,2008,True,competition
+Styenkovyy Maksym,2008-07-12,1562.1237247446975,2008,True,competition
+Styenkovyy Maksym,2008-07-19,1582.9430149886616,2008,True,competition
+Styenkovyy Maksym,2008-09-26,1598.5349915139166,2008,True,competition
+Styenkovyy Maksym,2008-10-31,1600.8500745323295,2008,True,competition
+Styenkovyy Maksym,2008-12-31,1605.958184609729,2008,True,year_end
+Vaitsekhovskii Evgenii,2007-05-01,1500.0,2007,False,competition
+Vaitsekhovskii Evgenii,2007-07-11,1543.0055599217103,2007,True,competition
+Vaitsekhovskii Evgenii,2007-07-21,1567.7577769700995,2007,True,competition
+Vaitsekhovskii Evgenii,2007-08-11,1593.8247385837467,2007,True,competition
+Vaitsekhovskii Evgenii,2007-09-17,1612.269806968538,2007,True,competition
+Vaitsekhovskii Evgenii,2007-09-28,1628.133844988395,2007,True,competition
+Vaitsekhovskii Evgenii,2007-12-31,1622.4764822629727,2007,True,year_end
+Vaitsekhovskii Evgenii,2008-04-27,1647.1495502665077,2008,True,competition
+Vaitsekhovskii Evgenii,2008-06-27,1638.1904244055181,2008,True,competition
+Vaitsekhovskii Evgenii,2008-07-12,1641.6553175818703,2008,True,competition
+Vaitsekhovskii Evgenii,2008-07-19,1661.4092445972278,2008,True,competition
+Vaitsekhovskii Evgenii,2008-09-26,1678.2855627237905,2008,True,competition
+Vaitsekhovskii Evgenii,2008-10-31,1696.2974671718594,2008,True,competition
+Vaitsekhovskii Evgenii,2008-12-31,1685.9875363197982,2008,True,year_end
+Zhong QiXin,2007-07-11,1500.0,2007,False,competition
+Zhong QiXin,2007-08-11,1506.689848766041,2007,True,competition
+Zhong QiXin,2007-09-17,1538.9670084624454,2007,True,competition
+Zhong QiXin,2007-12-31,1522.1466709267584,2007,True,year_end
+Zhong QiXin,2008-06-27,1570.310605938612,2008,True,competition
+Zhong QiXin,2008-07-12,1598.0696290551284,2008,True,competition
+Zhong QiXin,2008-07-19,1584.6085711098663,2008,True,competition
+Zhong QiXin,2008-09-26,1592.2019385000538,2008,True,competition
+Zhong QiXin,2008-12-31,1588.668432980731,2008,True,year_end

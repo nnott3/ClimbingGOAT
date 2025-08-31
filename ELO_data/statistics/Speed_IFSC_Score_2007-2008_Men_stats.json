@@ -1,0 +1,29 @@
+{
+  "era_key": "Speed_IFSC_Score_2007-2008_Men",
+  "discipline": "Speed",
+  "gender": "Men",
+  "era_name": "IFSC_Score",
+  "start_year": 2007,
+  "end_year": 2008,
+  "total_athletes": 142,
+  "total_competitions": 13,
+  "total_elo_records": 695,
+  "avg_elo": 1501.2860460495367,
+  "median_elo": 1494.733713152194,
+  "max_elo": 1685.9875363197982,
+  "min_elo": 1434.780198486188,
+  "most_active_athlete": "Vaitsekhovskii Evgenii",
+  "most_active_competitions": 24,
+  "highest_elo_athlete": "Vaitsekhovskii Evgenii",
+  "years_covered": [
+    2007,
+    2008
+  ],
+  "date_range": {
+    "start": "2007-05-01T00:00:00",
+    "end": "2008-10-31T00:00:00"
+  },
+  "time_series_records": 550,
+  "time_series_generation_seconds": 0.028703,
+  "initialization_fix_applied": true
+}
